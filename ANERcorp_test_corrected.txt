@@ -173,7 +173,8 @@
 تجمعا O
 سكانيا O
 . O
-article
+
+
 تعد O
 موجة O
 الهجمات O
@@ -326,7 +327,7 @@ article
 خمس O
 سنوات O
 على O
-أحداث B-MISC REVISIT
+أحداث B-MISC
 الحادي I-MISC
 عشر I-MISC
 من I-MISC
@@ -1051,7 +1052,8 @@ article
 من O
 العلاج O
 . O
-article
+
+
 كارل B-PERS
 روبيتشود I-PERS
 . O
@@ -1251,7 +1253,7 @@ article
 في O
 نهاية O
 عهد O
-الخلفاء B-MISC REVISIT
+الخلفاء B-MISC
 الراشدين B-MISC
 واستمرت O
 خلال O
@@ -1557,7 +1559,8 @@ article
 يزال O
 يعاني O
 . O 
-article
+
+
 تعددت O
 اهتمامات O
 الصحف O
@@ -2557,7 +2560,8 @@ article
 في O
 الساعة O
 . O
-ARTICLE
+
+
 برنامج O
 إيران B-LOC
 النووي O
@@ -2836,7 +2840,7 @@ ARTICLE
 بتعليق O
 برنامج O
 تخصيب O
-اليورانيوم O REVISIT
+اليورانيوم O
 ، O
 لكنه O
 عبر O
@@ -2883,7 +2887,8 @@ ARTICLE
 الموضوع O
 " O
 . O
-ARTICLE
+
+
 أيمن B-PERS
 الظواهري I-PERS
 تحدى O
@@ -3525,7 +3530,8 @@ ARTICLE
 مبايعتها O
 للقاعدة B-ORG
 . O
-ARTICLE
+
+
 محمود B-PERS
 عباس I-PERS
 دعا O
@@ -3533,7 +3539,7 @@ ARTICLE
 لمائدة O
 الحوار O
 ( O
-الفرنسية O REVISIT
+الفرنسية O
 - O
 أرشيف O
 ) O
@@ -3817,7 +3823,7 @@ ARTICLE
 منظمة B-ORG
 التحرير I-ORG
 ووثيقة O
-الأسرى B-MISC REVISIT
+الأسرى B-MISC
 وبالاعتراف O
 المتبادل O
 مع O
@@ -3877,7 +3883,8 @@ ARTICLE
 على O
 أراضيهم O
 . O
-ARTICLE
+
+
 قصف O
 إسرائيلي O
 ميدانيا O
@@ -4006,9 +4013,10 @@ ARTICLE
 يوم B-MISC
 الغفران B-MISC
 . O
-ARTICLE
+
+
 طائرة O
-البوينغ B-ORG REVISIT
+البوينغ B-ORG
 كانت O
 ستتوقف O
 في O
@@ -4172,7 +4180,7 @@ GOL B-ORG
 أقلعت O
 طائرتان O
 من O
-سلاح B-ORG REVISIT
+سلاح B-ORG
 الجو I-ORG
 البرازيلي I-ORG
 في O
@@ -4180,7 +4188,8 @@ GOL B-ORG
 للبحث O
 عنها O
 . O
-ARTICLE
+
+
 عواصم O
 - O
 رويترز B-ORG
@@ -4188,7 +4197,7 @@ ARTICLE
 قال O
 متحدث O
 باسم O
-القطاع B-ORG revisit
+القطاع B-ORG
 المصرفي I-ORG
 الايطالي I-ORG
 ان O
@@ -4418,7 +4427,7 @@ ARTICLE
 
 وقال O
 مسؤولون O
-بنقابتي O REVISIT
+بنقابتي O
 العمال O
 اللتين O
 تمثلان O
@@ -4690,7 +4699,7 @@ ARTICLE
 رويترز B-ORG
 تأكيد O
 تصريحاته O
-للتلفزيون B-ORG REVISIT
+للتلفزيون B-ORG
 الهولندي I-ORG
 امس O
 الاول O
@@ -4883,7 +4892,7 @@ ARTICLE
 يبقي O
 التضخم O
 في O
-منطقة O REVISIT
+منطقة O
 اليورو B-LOC
 خلال O
 العام O
@@ -4983,7 +4992,8 @@ ARTICLE
 مخاطر O
 التضخم O
 . O
-ARTICLE
+
+
 مدريد B-ORG
 : O
 فاز O
@@ -5122,7 +5132,7 @@ ARTICLE
 علي O
 متن O
 سيارة O
-فريق O REVISIT
+فريق O
 قطر B-MISC
 للراليات I-MISC
 متسوبيشي B-MISC
@@ -5613,7 +5623,8 @@ ARTICLE
 40د O
 54ث O
 . O
-ARTICLE
+
+
 التشيكي O
 بوهدان B-PERS
 اولراخ I-PERS
@@ -6126,7 +6137,8 @@ ARTICLE
 والفرنسي O
 بيولي B-PERS
 . O
-ARTICLE
+
+
 هيوستون B-LOC
 - O
 رويترز B-ORG
@@ -6356,7 +6368,8 @@ ARTICLE
 مليون O
 دولار B-MISC
 . O
-ARTICLE
+
+
 بيروت B-LOC
 - O
 رويترز B-ORG
@@ -6477,7 +6490,7 @@ ARTICLE
 تحدثنا O
 عن O
 القمة O
-العربية O REVISIT
+العربية O
 ودعمنا O
 الكامل O
 لها O
@@ -6637,7 +6650,7 @@ ARTICLE
 الحواجز O
 التي O
 تقيمها O
-قوات B-ORG REVISIT
+قوات B-ORG
 الاحتلال I-ORG
 الإسرائيلي I-ORG
 " O
@@ -6733,7 +6746,8 @@ ARTICLE
 في O
 تونس B-LOC
 . O
-ARTICLE
+
+
 الدوحة B-LOC
 - O
 الراية B-ORG
@@ -6751,7 +6765,7 @@ ARTICLE
 رئيس O
 مجلس O
 ادارة O
-مؤسسة B-ORG REVISIT
+مؤسسة B-ORG
 الشيخ I-ORG
 عيد I-ORG
 بن I-ORG
@@ -6888,10 +6902,11 @@ ARTICLE
 هذا O
 الطرح O
 . O
-ARTICLE
+
+
 الدوحة B-LOC
 - O
-ق O REVISIT
+ق O
 . O
 ن O
 . O
@@ -7037,11 +7052,12 @@ ARTICLE
 مرة O
 سنويا O
 . O
-ARTICLE
+
+
 انقرة B-LOC
 - O
 ( O
-أ O REVISIT
+أ O
 . O
 ف O
 . O
@@ -7461,11 +7477,12 @@ ARTICLE
 غالبية O
 كردية O
 . O
-ARTICLE
+
+
 طوكيو B-LOC
 - O
 ( O
-اف O REVISIT
+اف O
 ب O
 ) O
 : O
@@ -7768,7 +7785,8 @@ ARTICLE
 جرائم O
 حرب O
 . O
-ARTICLE
+
+
 موسكو B-LOC
 - O
 مكتب O
@@ -7883,7 +7901,7 @@ ARTICLE
 تنادي O
 بتغيير O
 قوام O
-قوات B-ORG REVISIT
+قوات B-ORG
 حفظ I-ORG
 السلام I-ORG
 الروسية I-ORG
@@ -8171,7 +8189,8 @@ ARTICLE
 عملية O
 التسوية O
 . O
-ARTICLE
+
+
 نيويورك B-LOC
 ( O
 الامم B-ORG
@@ -8711,7 +8730,8 @@ ARTICLE
 الدولي I-ORG
 الخميس O
 . O
-ARTICLE
+
+
 ذكرت O
 الصحافة O
 الجزائرية O
@@ -9400,7 +9420,8 @@ ARTICLE
 مفاوضات O
 جادة O
 . O
-ARTICLE
+
+
 هناك O
 شباب O
 مغربي O
@@ -9420,7 +9441,7 @@ ARTICLE
 في O
 خضم O
 مباريات O
-المنتخب B-ORG REVISIT
+المنتخب B-ORG
 المغربي I-ORG
 لكرة I-ORG
 المضرب I-ORG
@@ -9975,7 +9996,7 @@ CNN B-ORG
 وفق O
 ما O
 أعلن O
-قصر B-LOC REVISIT
+قصر B-LOC
 بكينغهام I-LOC
 السبت O
 . O
@@ -9988,7 +10009,7 @@ CNN B-ORG
 الغرفة O
 تقع O
 في O
-قصر B-LOC REVISIT
+قصر B-LOC
 ويندسور I-LOC
 ، O
 غرب O
@@ -10065,14 +10086,15 @@ CNN B-ORG
 تخصيص O
 غرفة O
 في O
-قصر B-LOC REVISIT
+قصر B-LOC
 ويندسور I-LOC
 لتؤدي O
 فيها O
 شوذري B-PERS
 صلاتها O
 . O
-ARTICLE
+
+
 إعلان O
 IBM B-ORG
 جاء O
@@ -10421,7 +10443,8 @@ w4g I-MISC
 باسم O
 الشركة O
 . O
-ARTICLE
+
+
 صورة O
 تلفزيونية O
 لتفجيرات O
@@ -11036,7 +11059,8 @@ RDX O
 أهداف O
 هندية O
 . O
-ARTICLE
+
+
 أرسلت O
 مركبة O
 الاستكشاف O
@@ -11228,12 +11252,12 @@ ARTICLE
 المريخ B-LOC
 سيمر O
 خلف O
-الشمس O REVISIT
+الشمس O
 إذا O
 نظر O
 إليه O
 من O
-الأرض O REVISIT
+الأرض O
 ، O
 وهذا O
 يجعل O
@@ -11427,7 +11451,7 @@ ARTICLE
 ، O
 وأعادوني O
 الى O
-الأرض O REVISIT
+الأرض O
 بسلام O
 " O
 . O
@@ -11496,7 +11520,7 @@ ARTICLE
 الفريق O
 العائد O
 الى O
-الأرض O REVISIT
+الأرض O
 معه O
 مجموعة O
 من O
@@ -11518,7 +11542,7 @@ ARTICLE
 أنصاري I-PERS
 تعود O
 الى O
-الأرض O REVISIT
+الأرض O
 نقل O
 الرواد O
 الثلاثة O
@@ -11585,7 +11609,7 @@ ARTICLE
 الى O
 الفضاء O
 من O
-مركز B-MISC REVISIT
+مركز B-MISC
 بيكنور I-MISC
 الفضائي I-MISC
 في O
@@ -11610,7 +11634,8 @@ ARTICLE
 الفضائية O
 الدولية O
 . O
-ARTICLE
+
+
 توصلت O
 شركة O
 فولكسفاجن B-ORG
@@ -12161,7 +12186,8 @@ ARTICLE
 2004 O
 و25 O
 . O
-ARTICLE
+
+
 76 O
 دولار B-MISC
 متوسط O
@@ -12242,7 +12268,7 @@ ARTICLE
 للإخوان B-ORG
 المسلمين I-ORG
 - I-MISC
-مظلة I-MISC REVISIT
+مظلة I-MISC
 جبهة I-MISC
 العمل I-MISC
 الإسلامي I-MISC
@@ -12347,7 +12373,7 @@ ARTICLE
 يعيد O
 الإسلاميين O
 إلى O
-مجلس O REVISIT
+مجلس O
 النواب O
 إذ O
 أن O
@@ -12484,7 +12510,7 @@ ARTICLE
 ونصف O
 ثم O
 عادت O
-محكمة O REVISIT
+محكمة O
 التمييز O
 لتخفض O
 العقوبة O
@@ -12519,7 +12545,8 @@ ARTICLE
 بمرض O
 القلب O
 . O
-ARTICLE
+
+
 فاز O
 الالماني O
 مايكل B-PERS
@@ -12760,7 +12787,7 @@ Prix O
 فيها O
 منذ O
 انضمامه O
-للفورمولا B-MISC REVISIT
+للفورمولا B-MISC
 1 I-MISC
 عام O
 1991 O
@@ -12832,7 +12859,8 @@ Prix O
 100 O
 نقطة O
 . O
-ARTICLE
+
+
 فازت O
 الروسية O
 ماريا B-PERS
@@ -13051,7 +13079,7 @@ ARTICLE
 كانت O
 من O
 نصيب O
-المنتخب B-ORG REVISIT
+المنتخب B-ORG
 البرازيلي I-ORG
 الأعظم O
 في O
@@ -13201,7 +13229,7 @@ ARTICLE
 وراوغ O
 نصف O
 لاعبي O
-المنتخب B-ORG REVISIT
+المنتخب B-ORG
 الانجليزي I-ORG
 بمجهود O
 فردي O
@@ -13262,7 +13290,7 @@ ARTICLE
 اربعة O
 من O
 لاعبي O
-المنتخب B-ORG REVISIT
+المنتخب B-ORG
 البلجيكي I-ORG
 حتى O
 يصل O
@@ -13300,7 +13328,7 @@ ARTICLE
 ليراوغ O
 أحد O
 لاعبي O
-المنتخب B-ORG REVISIT
+المنتخب B-ORG
 اليوغسلافي I-ORG
 ويستمر O
 في O
@@ -13339,7 +13367,7 @@ ARTICLE
 والذي O
 يشارك O
 مع O
-منتخب B-ORG REVISIT
+منتخب B-ORG
 انجلترا I-ORG
 للمرة O
 الأولى O
@@ -13445,7 +13473,7 @@ ARTICLE
 خارج O
 البطولة O
 وحجز O
-للمنتخب B-ORG REVISIT
+للمنتخب B-ORG
 الهولندي I-ORG
 بطاقة O
 التأهل O
@@ -13602,7 +13630,8 @@ ARTICLE
 في O
 المرمى O
 . O
-ARTICLE
+
+
 تونس B-LOC
 ( O
 CNN B-ORG
@@ -13653,7 +13682,7 @@ CNN B-ORG
 المرحلة O
 الخامسة O
 من O
-الدوري B-MISC REVISIT
+الدوري B-MISC
 التونسي I-MISC
 المحلي O
 . O
@@ -13783,7 +13812,7 @@ CNN B-ORG
 في O
 إحدى O
 مباريات O
-الدوري B-MISC REVISIT
+الدوري B-MISC
 التونسي I-MISC
 ، O
 كما O
@@ -13890,7 +13919,8 @@ CNN B-ORG
 نادي O
 موناكو B-ORG
 . O
-ARTICLE
+
+
 لندن B-LOC
 ، O
 بريطانيا B-LOC
@@ -14362,7 +14392,8 @@ CNN B-ORG
 واحد O
 فقط O
 . O
-ARTICLE
+
+
 كابول B-LOC
 أ O
 . O
@@ -14631,7 +14662,8 @@ ARTICLE
 بأسماء O
 الضحايا O
 . O
-ARTICLE
+
+
 مظاهرة O
 في O
 سويسرا B-LOC
@@ -14800,7 +14832,7 @@ ARTICLE
 لبنان B-LOC
 , O
 وربط O
-نجمة B-MISC REVISIT
+نجمة B-MISC
 داود I-MISC
 بشعارات O
 النازية O
@@ -15133,7 +15165,7 @@ ARTICLE
 
 ولم O
 تتخلف O
-السفارة B-ORG REVISIT
+السفارة B-ORG
 الإسرائيلية I-ORG
 في O
 برن B-LOC
@@ -15247,7 +15279,8 @@ ARTICLE
 موقفا O
 رسميا O
 . O
-ARTICLE
+
+
 تعتزم O
 ليبيا B-LOC
 بناء O
@@ -15404,7 +15437,8 @@ ARTICLE
 والرعاية O
 الصحية O
 . O
-ARTICLE
+
+
 ازدحام O
 المسافرين O
 بمطار O
@@ -15612,7 +15646,8 @@ ARTICLE
 الهواتف O
 وغيرها O
 . O
-ARTICLE
+
+
 برشلونه B-ORG
 يسعى O
 لتأكيد O
@@ -15634,7 +15669,7 @@ ARTICLE
 الموسم O
 الحالي O
 من O
-الدوري B-MISC REVISIT
+الدوري B-MISC
 الإسباني I-MISC
 لكرة O
 القدم O
@@ -15847,7 +15882,8 @@ ARTICLE
 من O
 منصبه O
 . O
-ARTICLE
+
+
 الأميركي O
 جيمس B-PERS
 بليك I-PERS
@@ -16055,7 +16091,8 @@ ARTICLE
 في O
 العالم O
 . O
-ARTICLE
+
+
 حفل O
 توزيع O
 جوائز O
@@ -16404,7 +16441,8 @@ ARTICLE
 كانون O
 الأول O
 . O
-ARTICLE
+
+
 تقدم O
 فرقة O
 موسيقية O
@@ -16447,7 +16485,7 @@ ARTICLE
 وهو O
 مستشار O
 ثقافي O
-بالسفارة B-ORG REVISIT
+بالسفارة B-ORG
 الإسبانية I-ORG
 بالقاهرة B-LOC
 ، O
@@ -16515,12 +16553,12 @@ ARTICLE
 الموسيقى I-ORG
 العربية I-ORG
 التابع O
-لدار B-MISC REVISIT
+لدار B-MISC
 الأوبرا I-MISC
 المصرية I-MISC
 ومسرح B-MISC
 الجنينة I-MISC
-بحديقة O REVISIT
+بحديقة O
 الأزهر B-ORG
 . O
 
@@ -16597,7 +16635,8 @@ ARTICLE
 عام O
 1406 O
 . O
-ARTICLE
+
+
 النيل B-LOC
 كان O
 موضوعا O
@@ -16867,7 +16906,8 @@ ARTICLE
 بأي O
 مجتمع O
 . O
-ARTICLE
+
+
 فاروق B-PERS
 حسني I-PERS
 ( O
@@ -16983,7 +17023,8 @@ ARTICLE
 بابلو B-PERS
 إتشون I-PERS
 . O
-ARTICLE
+
+
 الباحثون O
 الإيرانيون O
 استخدموا O
@@ -17063,7 +17104,7 @@ ARTICLE
 وسميت O
 باسم O
 " O
-رويانا B-MISC REVISIT
+رويانا B-MISC
 " O
 نسبة O
 للمعهد O
@@ -17144,7 +17185,8 @@ ARTICLE
 الأبحاث O
 بالاهتمام O
 . O
-ARTICLE
+
+
 قال O
 امبراطور O
 صناعة O
@@ -17185,7 +17227,7 @@ ARTICLE
 عشر I-MISC
 حول O
 الايدز B-MISC
-وفيرورس O REVISIT
+وفيرورس O
 اتش I-MISC
 آي I-MISC
 في I-MISC
@@ -17521,10 +17563,10 @@ ARTICLE
 آخر O
 شن O
 ممثل O
-للتيار B-ORG REVISIT
+للتيار B-ORG
 الصدري I-ORG
 في O
-البرلمان B-ORG REVISIT
+البرلمان B-ORG
 العراقي I-ORG
 اليوم O
 الأحد O
@@ -17605,11 +17647,11 @@ ARTICLE
 العراقي O
 . O
 
-والتكتل B-ORG REVISIT
+والتكتل B-ORG
 الصدري I-ORG
 جزء O
 من O
-الائتلاف B-ORG REVISIT
+الائتلاف B-ORG
 العراقي I-ORG 
 الشيعي I-ORG
 الموحد I-ORG
@@ -17632,7 +17674,7 @@ ARTICLE
 . O
 
 وتملك O
-الكتلة B-ORG REVISIT
+الكتلة B-ORG
 الصدرية I-ORG
 ثلاثين O
 مقعدا O
@@ -17877,7 +17919,7 @@ ARTICLE
 الدليمي I-PERS
 والذي O
 يرأس O
-قائمة B-ORG REVISIT
+قائمة B-ORG
 التوافق I-ORG
 العراقية I-ORG
 وهي O
@@ -17895,7 +17937,7 @@ ARTICLE
 . O
 
 وكان O
-الجيش B-ORG REVISIT
+الجيش B-ORG
 الامريكي I-ORG
 اعلن O
 يوم O
@@ -18000,7 +18042,8 @@ ARTICLE
 التعديل O
 " O
 . O
-ARTICLE
+
+
 البابا O
 بندكتوس B-PERS
 السادس I-PERS
@@ -18105,7 +18148,8 @@ ARTICLE
 26 O
 مليونا O
 . O
-ARTICLE
+
+
 لويس B-PERS
 دا I-PERS
 سيلفا I-PERS
@@ -18146,7 +18190,7 @@ ARTICLE
 ، O
 إذ O
 أعلنت O
-المحكمة B-ORG REVISIT
+المحكمة B-ORG
 الانتخابية I-ORG
 العليا I-ORG
 البرازيلية I-ORG
@@ -18382,7 +18426,8 @@ ARTICLE
 مليون O
 نسمة O
 . O
-ARTICLE
+
+
 قائد O
 ريال B-ORG
 مدريد I-ORG
@@ -18420,7 +18465,7 @@ ARTICLE
 المرحلة O
 الخامسة O
 من O
-الدوري I-ORG REVISIT
+الدوري I-ORG
 الإسباني I-ORG
 لكرة O
 القدم O
@@ -18569,7 +18614,7 @@ ARTICLE
 وعلى O
 ملعب O
 " O
-ميستايا B-LOC REVISIT
+ميستايا B-LOC
 " O
 دك O
 فالنسيا B-ORG
@@ -18805,7 +18850,8 @@ ARTICLE
 من O
 5 O
 . O
-ARTICLE
+
+
 أمنية B-PERS
 عبد I-PERS
 القوي I-PERS
@@ -18919,7 +18965,7 @@ ARTICLE
 مجموعته O
 بالدور O
 الأول O
-لبطولة B-MISC REVISIT
+لبطولة B-MISC
 العالم I-MISC
 بالفوز O
 على O
@@ -18990,13 +19036,14 @@ ARTICLE
 فوز O
 عمرو B-PERS
 شبانة I-PERS
-ببطولة B-MISC REVISIT
+ببطولة B-MISC
 العالم I-MISC
 عامي O
 2003 O
 و2005 O
 . O
-ARTICLE
+
+
 شهدت O
 الجزائر B-LOC
 تراجعا O
@@ -19277,10 +19324,11 @@ ARTICLE
 . O
 
 2% O
-. O ARTICLE
+. O 
+
 الدوحة B-LOC
 - O
-ق O REVISIT
+ق O
 . O
 ن O
 . O
@@ -19375,7 +19423,7 @@ ARTICLE
 
 كما O
 أصدر O
-الديوان B-ORG REVISIT
+الديوان B-ORG
 الأميري I-ORG
 أمس O
 بياناً O
@@ -19577,7 +19625,8 @@ ARTICLE
 الاهتمام O
 المشترك O
 . O
-ARTICLE
+
+
 واشنطن B-LOC
 - O
 وكالات O
@@ -19619,7 +19668,7 @@ ARTICLE
 امس O
 الاول O
 في O
-جامعة O REVISIT
+جامعة O
 جورج B-ORG
 تاون I-ORG
 بواشنطن B-LOC
@@ -19743,7 +19792,7 @@ ARTICLE
 وهو O
 عضو O
 بارز O
-بلجنة B-ORG REVISIT
+بلجنة B-ORG
 القوات I-ORG
 المسلحة I-ORG
 ومرشح O
@@ -19794,7 +19843,7 @@ ARTICLE
 كلمة O
 القاها O
 في O
-جامعة O REVISIT
+جامعة O
 جورجتاون B-ORG
 في O
 واشنطن B-LOC
@@ -20023,7 +20072,7 @@ ARTICLE
 للمعارضة O
 العراقية O
 وهي O
-المؤتمر B-ORG REVISIT
+المؤتمر B-ORG
 الوطني I-ORG
 العراقي I-ORG
 علي O
@@ -20045,7 +20094,7 @@ ARTICLE
 مالية O
 . O
 
-والمؤتمر B-ORG REVISIT
+والمؤتمر B-ORG
 الوطني I-ORG
 العراقي I-ORG
 ائتلاف O
@@ -20153,7 +20202,7 @@ ARTICLE
 تسعة O
 اعضاء O
 يمثل O
-الحزبين O REVISIT
+الحزبين O
 الديمقراطي B-ORG
 والجمهوري B-ORG
 عاد O
@@ -20198,7 +20247,8 @@ ARTICLE
 نيويورك B-LOC
 وواشنطن B-LOC
 . O
-ARTICLE
+
+
 فاز O
 الأميركيان O
 أندرو B-PERS
@@ -20225,7 +20275,7 @@ ARTICLE
 . O
 
 ووقال O
-معهد B-ORG REVISIT
+معهد B-ORG
 كارولينسكا I-ORG
 في O
 العاصمة O
@@ -20403,7 +20453,8 @@ ARTICLE
 النريويجة O
 أوسلو B-LOC
 . O
-ARTICLE
+
+
 لندن B-LOC
 ، O
 إنجلترا B-LOC
@@ -20426,7 +20477,7 @@ CNN B-ORG
 عشر I-MISC
 من I-MISC
 سبتمبر I-MISC
-/ O REVISIT
+/ O
 أيلول O
 2001 O
 ، O
@@ -21012,7 +21063,8 @@ IntelCenter B-ORG
 ؟ O
 " O
 . O
-ARTICLE
+
+
 المحكمة O
 وجدته O
 مذنباً O
@@ -21266,7 +21318,8 @@ CNN B-ORG
 الأسرة O
 بكاملها O
 . O
-ARTICLE
+
+
 سكارليت B-PERS
 جوهانسن I-PERS
 نيويورك B-LOC
@@ -21611,7 +21664,8 @@ FHM B-ORG
 أسوشيتد B-ORG
 برس I-ORG
 . O
-ARTICLE
+
+
 أسعار O
 النفط O
 تتراجع O
@@ -21747,7 +21801,7 @@ CNN B-ORG
 ، O
 فيما O
 وصفته O
-شركة B-ORG REVISIT
+شركة B-ORG
 النفط I-ORG
 النيجيرية I-ORG
 المملوكة O
@@ -21759,7 +21813,7 @@ CNN B-ORG
 . O
 
 وبدأت O
-شركة B-ORG REVISIT
+شركة B-ORG
 النفط I-ORG
 النيجيرية I-ORG
 بالفعل O
@@ -21778,7 +21832,7 @@ CNN B-ORG
 . O
 
 وكانت O
-منظمة O REVISIT
+منظمة O
 أوبك I-ORG
 قد O
 قررت O
@@ -21839,7 +21893,7 @@ CNN B-ORG
 أعاصير O
 مدمر O
 في O
-خليج B-LOC REVISIT
+خليج B-LOC
 المكسيك I-LOC
 ، O
 وتبعات O
@@ -21889,7 +21943,8 @@ CNN B-ORG
 النووي O
 الإيراني O
 . O
-ARTICLE
+
+
 سلفادور B-PERS
 دالي I-PERS
 ( O
@@ -22011,7 +22066,7 @@ o O
 1 O
 . O
 3 O
-عصر B-MISC REVISIT
+عصر B-MISC
 النهضة I-MISC
 * O
 2 O
@@ -22294,14 +22349,14 @@ or I-MISC
 تحت O
 تأثير O
 رسّام O
-عصر B-MISC REVISIT
+عصر B-MISC
 النهضة I-MISC
 رافائيل B-PERS
 ، O
 ونتيجة O
 لذلك O
 ترك O
-الحركة O REVISIT
+الحركة O
 السريالية O
 . O
 
@@ -22424,11 +22479,12 @@ or I-MISC
 ، O
 إسبانيا B-LOC
 . O
-ARTICLE
+
+
 نيويورك B-LOC
 - O
 ( O
-اف O REVISIT
+اف O
 ب O
 ) O
 - O
@@ -22588,7 +22644,8 @@ ARTICLE
 ' O
 ' O
 . O
-ARTICLE
+
+
 القاهرة B-LOC
 - O
 عمان B-LOC
@@ -22798,7 +22855,7 @@ ARTICLE
 الحرب O
 ودعمهما O
 لجهود O
-الحكومة B-ORG REVISIT
+الحكومة B-ORG
 اللبنانية I-ORG
 في O
 عملية O
@@ -22864,7 +22921,8 @@ ARTICLE
 مساء O
 امس O
 . O
-ARTICLE
+
+
 عمان B-LOC
 - O
 اربد B-LOC
@@ -22922,7 +22980,7 @@ ARTICLE
 
 اما O
 على O
-ستاد B-LOC REVISIT
+ستاد B-LOC
 عمان I-LOC
 ، O
 فقد O
@@ -22964,7 +23022,7 @@ ARTICLE
 مواصلا O
 مغادرته O
 السريعة O
-لبطولتي O REVISIT
+لبطولتي O
 الدرع B-MISC
 والكأس I-MISC
 ، O
@@ -23045,7 +23103,8 @@ ARTICLE
 شباب B-ORG
 الحسين I-ORG
 / O
-0 O ARTICLE
+0 O 
+
 عمان B-LOC
 - O
 لؤي B-PERS
@@ -24120,7 +24179,8 @@ ARTICLE
 من O
 العارضة O
 . O
-ARTICLE
+
+
 الحكومة O
 دعت O
 فتح B-ORG
@@ -24131,7 +24191,7 @@ ARTICLE
 الحوار O
 على O
 أساس O
-وثيقة B-MISC REVISIT
+وثيقة B-MISC
 الوفاق I-MISC
 ( O
 رويترز B-ORG
@@ -24486,7 +24546,7 @@ ARTICLE
 المتظاهرون O
 تلبية O
 لدعوة O
-المبادرة B-ORG REVISIT
+المبادرة B-ORG
 الوطنية I-ORG
 الفلسطينية I-ORG
 وطافوا O
@@ -24566,7 +24626,8 @@ ARTICLE
 من O
 المنازل O
 . O
-ARTICLE
+
+
 اختارت O
 إيران B-LOC
 فيلما O
@@ -24658,10 +24719,10 @@ ARTICLE
 لجعفر B-PERS
 بناهي I-PERS
 الحائز O
-جائزة B-MISC REVISIT
+جائزة B-MISC
 الأسد I-MISC
 الذهبي I-MISC
-لمهرجان B-MISC REVISIT
+لمهرجان B-MISC
 البندقية I-MISC
 عام O
 2000 O
@@ -24691,7 +24752,7 @@ ARTICLE
 مختلف O
 الدول O
 ستختار O
-أكاديمية B-ORG REVISIT
+أكاديمية B-ORG
 هوليود I-ORG
 لجوائز O
 الأوسكار B-MISC
@@ -24724,14 +24785,15 @@ ARTICLE
 عالم O
 السينما O
 . O
-ARTICLE
+
+
 اعتقلت O
-الشرطة B-ORG REVISIT
+الشرطة B-ORG
 البريطانية I-ORG
 اليوم O
 نجم O
 موسيقى O
-البوب B-MISC REVISIT
+البوب B-MISC
 جورج B-PERS
 مايكل I-PERS
 بعد O
@@ -24762,7 +24824,7 @@ ARTICLE
 الحميم O
 إن O
 مغني O
-البوب B-MISC REVISIT
+البوب B-MISC
 ليس O
 لديه O
 ما O
@@ -24804,7 +24866,7 @@ ARTICLE
 وباع O
 نجم O
 موسيقى O
-البوب B-MISC REVISIT
+البوب B-MISC
 - O
 الذي O
 تعتبر O
@@ -24828,7 +24890,8 @@ ARTICLE
 مشواره O
 الفني O
 . O
-ARTICLE
+
+
 خافيير B-PERS
 سولانا I-PERS
 أقر O
@@ -24941,7 +25004,7 @@ ARTICLE
 
 وذكر O
 مسؤول O
-بالخارجية B-ORG REVISIT
+بالخارجية B-ORG
 الأميركية I-ORG
 أن O
 نيكولاس B-PERS
@@ -25157,7 +25220,7 @@ ARTICLE
 
 وقد O
 أعلن O
-البيت B-LOC REVISIT
+البيت B-LOC
 الأبيض I-LOC
 أن O
 الرئيسين O
@@ -25272,7 +25335,8 @@ ARTICLE
 التكنولوجيا O
 النووية O
 . O
-ARTICLE
+
+
 تشينغ B-PERS
 خه I-PERS
 بحار O
@@ -25400,7 +25464,8 @@ ARTICLE
 بهذه O
 المناسبة O
 . O
-ARTICLE
+
+
 ولد O
 الأمير O
 الوليد B-PERS
@@ -25812,7 +25877,7 @@ art I-ORG
 2003 O
 ، O
 على O
-جائزة O REVISIT
+جائزة O
 أجمل O
 تصميم O
 لمبنىً O
