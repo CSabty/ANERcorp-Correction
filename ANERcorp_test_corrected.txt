@@ -11860,8 +11860,7 @@ ARTICLE
 . O
 
 " O
-. O
-ARTICLE
+. O ARTICLE
 أكدت O
 وزارة B-ORG
 الطاقة I-ORG
