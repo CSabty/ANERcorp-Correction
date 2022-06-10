@@ -1,5 +1,5 @@
 فرانكفورت B-LOC
-(د O
+(د O REVISIT
 ب O
 أ) O
 أعلن O
@@ -137,7 +137,7 @@
 بالفعل O
 مثلما O
 هو O
-الحالالان O
+الحالالان REVISIT O
 . O
 
 وقال O
@@ -224,7 +224,7 @@
 في O
 ألمانيا B-LOC
 . O
-
+ARTICLE
 رجح O
 الممثل O
 الأعلى O
@@ -706,7 +706,7 @@
 كبرى O
 في O
 لبنان B-LOC
-والأراضي B-LOC
+والأراضي B-LOC REVISIT
 الفلسطينية I-LOC
 . O
 
@@ -754,7 +754,7 @@
 تتابع O
 عدوانها O
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 كما O
 دعا O
@@ -1021,7 +1021,7 @@
 . O
 
 وقدرت O
-وزارة O
+وزارة O REVISIT
 السياحة O
 الإسرائيلية O
 خسارة O
@@ -1518,7 +1518,7 @@
 وأعلن O
 المتحدث O
 باسم O
-الخارجية O
+الخارجية REVISIT O
 الأميركية O
 شون B-PERS
 ماكورماك I-PERS
@@ -2202,7 +2202,7 @@
 والمناخ O
 السياسي O
 الملائم O
-الضروري O
+الضروري O 
 لنموه O
 لافتا O
 إلى O
@@ -2286,7 +2286,7 @@
 على O
 حياتهم O
 . O
-
+REVISIT
 قررت O
 الحكومة O
 المصرية O
@@ -2299,7 +2299,7 @@
 البنزين O
 ( O
 90 O
-أوكتين B-MISC
+أوكتين B-MISC REVISIT
 ) O
 بنسبة O
 30% O
@@ -2313,7 +2313,7 @@
 سعر O
 البنزين O
 90 O
-أوكتين B-MISC
+أوكتين REVISIT  B-MISC
 ليصبح O
 1.3 O
 جنيه B-MISC
@@ -2331,7 +2331,7 @@
 حين O
 أصبح O
 سعر O
-السولار B-MISC
+السولار REVISIT B-MISC
 0.75 O
 جنيه B-MISC
 ارتفاعا O
@@ -2410,7 +2410,7 @@
 بسعر O
 البنزين O
 80 O
-أوكتين B-MISC
+أوكتين  REVISIT B-MISC
 مراعاة O
 لمحدودي O
 الدخل O
@@ -2422,7 +2422,7 @@
 عن O
 فرق O
 سعر O
-السولار B-MISC
+السولار  REVISIT B-MISC
 بما O
 يضمن O
 ثبات O
@@ -2489,11 +2489,11 @@
 المنتجات O
 البترولية O
 . O
-
+ARTICLE
 ارتفع O
 عدد O
 ضحايا O
-تسونامي B-MISC
+تسونامي B-MISC REVISIT
 الذي O
 ضرب O
 إندونيسيا B-LOC
@@ -2673,12 +2673,12 @@
 من O
 تسونامي B-MISC
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 مأساة O
 بغنداران B-LOC
 ويعتبر O
-منتجع O
+منتجع O REVISIT
 بغنداران B-LOC
 السياحي O
 من O
@@ -2720,7 +2720,7 @@
 شخصا O
 قتلوا O
 في O
-إقليم O
+إقليم O REVISIT
 سيلاكاب B-LOC
 القريب O
 وفقد O
@@ -2775,8 +2775,8 @@
 الذي O
 أوقع O
 في O
-ديسمبر/كانون O
-الأول B-MISC
+ديسمبر/كانون O REVISIT
+الأول O
 2004 O
 نحو O
 168 O
@@ -2921,7 +2921,7 @@
 تنقية O
 المياه O
 عرض O
-السناتور O
+السناتور O ARTICLE
 الجمهوري O
 ، O
 ارلن B-PERS
@@ -2944,7 +2944,7 @@
 ساعات O
 على O
 قرار O
-المحكمة O
+المحكمة REVISIT O
 العليا O
 ابطال O
 المحاكم O
@@ -2961,7 +2961,7 @@
 سبيكتر B-PERS
 ، O
 رئيس O
-لجنة O
+لجنة O REVISIT
 الشؤون O
 القضائية O
 النافذ O
@@ -2988,7 +2988,7 @@
 مباشر O
 على O
 قرار O
-المحكمة O
+المحكمة REVISIT O
 العليا O
 التي O
 اعتبرت O
@@ -3115,7 +3115,7 @@
 التي O
 تنص O
 عليها O
-اتفاقات O
+اتفاقات O REVISIT
 جنيف B-LOC
 حول O
 اسرى O
@@ -3199,7 +3199,7 @@
 الغالبية O
 الجمهورية O
 في O
-مجلس O
+مجلس O REVISIT
 الشيوخ O
 ، O
 بيل B-PERS
@@ -3231,14 +3231,14 @@
 . O
 
 ويشهد O
-مجلس O
+مجلس O REVISIT
 النواب O
 ايضا O
 جهودا O
 مع O
 اعلان O
 رئيس O
-لجنة O
+لجنة O REVISIT
 الدفاع O
 ، O
 دونكان B-PERS
@@ -3274,7 +3274,7 @@
 سيبلغ O
 موكله O
 بقرار O
-المحكمة O
+المحكمة REVISIT O
 العليا O
 الاميركية O
 التي O
@@ -3324,7 +3324,7 @@
 كوبا B-LOC
 ، O
 بقرار O
-المحكمة O
+المحكمة O REVISIT
 العليا O
 . O
 
@@ -3388,13 +3388,13 @@
 السلطات O
 الاميركية O
 بعد O
-اعتداءات11 O
+اعتداءات11 O REVISIT
 سبتمبر O
 2001 O
 . O
 
 وكانت O
-المحكمة O
+المحكمة O REVISIT
 العليا O
 الاميركية O
 ، O
@@ -3414,7 +3414,7 @@
 لمحاكمة O
 المعتقلين O
 في O
-غوانتانامو B-LOC
+غوانتانامو B-LOC ARTICLE
 الدوحة B-LOC
 - O
 بيروت B-LOC
@@ -3852,10 +3852,10 @@
 وحزب B-ORG
 الله I-ORG
 . O
-
+ARTICLE
 بغداد B-LOC
 ( O
-اف O
+اف O REVISIT
 ب O
 ) O
 اعلن O
@@ -3911,7 +3911,7 @@
 خلال O
 استقباله O
 اعضاء O
-المجلسين O
+المجلسين O REVISIT
 التنفيذي O
 والتشريعي O
 لمنطقة O
@@ -4257,7 +4257,7 @@
 صحفي O
 عقده O
 في O
-قاعدة O
+قاعدة O REVISIT
 اندروز B-LOC
 الجوية O
 قبل O
@@ -4512,7 +4512,7 @@
 اعتماد O
 قرار O
 جديد O
-لمجلس O
+لمجلس  REVISIT O
 الامن O
 لاجبار O
 الرئيس O
@@ -4521,7 +4521,7 @@
 قبول O
 عودة O
 مفتشي O
-نزع O
+نزع O REVISIT
 السلاح O
 ، O
 او O
@@ -4664,7 +4664,7 @@
 تلفزيون O
 سكاي B-ORG
 نيوز I-ORG
-البريطانية O
+البريطانية O REVISIT
 ان O
 الولايات B-LOC
 المتحدة I-LOC
@@ -4803,7 +4803,7 @@
 ومن O
 بعض O
 اعضاء O
-البرلمان O
+البرلمان O REVISIT
 واطلق O
 عليه O
 البعض O
@@ -4916,7 +4916,7 @@
 اسلحة O
 الدمار O
 الشامل O
-ليجازبي B-LOC
+ليجازبي B-LOC ARTICLE
 سيتي I-LOC
 ( O
 الفلبين B-LOC
@@ -4953,7 +4953,7 @@
 الماضي O
 بدأ O
 بركان O
-جبل O
+جبل O REVISIT
 مايون B-MISC
 وهو O
 الأنشط O
@@ -5139,7 +5139,7 @@
 الفلبين B-LOC
 على O
 " O
-حزام O
+حزام O REVISIT
 النار O
 " O
 وهو O
@@ -5212,7 +5212,7 @@
 ألفا O
 من O
 سكان O
-إقليم O
+إقليم O REVISIT
 الباي B-LOC
 في O
 حالة O
@@ -5220,7 +5220,7 @@
 ثوران O
 كبير O
 . O
-
+ARTICLE
 أعلنت O
 نوكيا B-ORG
 الفنلندية O
@@ -5391,7 +5391,7 @@
 مبيعات O
 قياسية O
 . O
-
+Article
 تحنضن O
 مدينة O
 أكادير B-LOC
@@ -5401,16 +5401,16 @@
 خلال O
 الفترة O
 ما O
-بين20 O
+بين20 O REVISIT
 يوليوز O
 الجاري O
-و20 O
+و20 O REVISIT
 غشت O
 القادم O
 ، O
 بمشاركة O
 أزيد O
-من180 O
+من180 O REVISIT
 عارضا O
 يشتغلون O
 في O
@@ -5437,7 +5437,7 @@
 التي O
 ستشغل O
 مساحة O
-تصل30 O
+تصل30 O REVISIT
 ألف O
 متر O
 مربع O
@@ -5690,7 +5690,7 @@
 إلى30 O
 يونيو O
 من O
-سنة2006 O
+سنة2006 O REVISIT
 , O
 مشيرا O
 إلى O
@@ -5702,7 +5702,7 @@
 سيتراوح O
 مع O
 نهاية O
-شتنبر2006 O
+شتنبر2006 O REVISIT
 , O
 ما O
 بين O
@@ -5713,39 +5713,39 @@
 لسعر O
 البترول O
 الخام O
-ب65 O
+ب65 O REVISIT
 دولار B-MISC
 للبرميل O
 وبسعر O
 لغاز O
-البوتان B-MISC
-ب500 O
+البوتان B-MISC REVISIT
+ب500 O REVISIT
 دولار B-MISC
 للطن O
-و11 O
+و11 O REVISIT
 مليار O
 درهم B-MISC
 بسعر O
 للخام O
-ب75 O
+ب75 O REVISIT
 دولار B-MISC
 للبرميل O
 وبسعر O
 للبوتان B-MISC
-ب600 O
+ب600 O REVISIT
 دولار B-MISC
 للطن O
 . O
 
 * O
-إحداث539 O
+إحداث539 O REVISIT
 مقاومة O
 بجهة O
 الشاوية B-LOC
 ورديغة B-LOC
 ما O
-بين2003 O
-و2005 O
+بين2003 O REVISIT
+و2005 O REVISIT
 نظم O
 المركز O
 الجهوي O
@@ -5800,7 +5800,7 @@
 على O
 مستوى O
 تنمية O
-و O
+و O REVISIT
 انعاش O
 قطاع O
 الاستثمار O
@@ -5814,7 +5814,7 @@
 بموقعها O
 الاستراتيجي O
 , O
-و O
+و O REVISIT
 مناسبة O
 مكنت O
 المشاركين O
@@ -5835,7 +5835,7 @@
 والاجانب O
 . O
 
-وذكربلاغ O
+وذكربلاغ O REVISIT
 لعمالة O
 سطات B-LOC
 ان O
@@ -5845,23 +5845,23 @@
 بين2003 O
 و2005 O
 شهدت O
-خلق539 O
+خلق539 O REVISIT
 مقاومة O
 بجهة O
 الشاوية B-LOC
 ورديغة B-LOC
 والترخيص O
-لانجاز406 O
+لانجاز406 O REVISIT
 مشروعا O
 استثماريا O
-بقيمة21 O
+بقيمة21 O REVISIT
 مليار O
 درهم B-MISC
 ستمكن O
 من O
-خلق23 O
+خلق23 O REVISIT
 الف O
-و229 O
+و229 O REVISIT
 منصب O
 شغل O
 . O
@@ -5927,23 +5927,23 @@
 صندوق O
 الايداع O
 والتدبير O
-بنسبة65 O
+بنسبة65 O REVISIT
 في O
 المائة O
 والمجموعة O
 الفرنسية O
 لصندوق O
 الادخار O
-بنسبة35 O
+بنسبة35 O REVISIT
 في O
 المائة O
 في O
-القرض B-ORG
+القرض B-ORG REVISIT
 العقاري I-ORG
 والسياحي I-ORG
 ، O
 أن O
-القرض B-ORG
+القرض B-ORG REVISIT
 العقاري I-ORG
 والسياحي I-ORG
 يعتزم O
@@ -5951,20 +5951,20 @@
 شبكته O
 وزبائنه O
 في O
-أفق2012 O
+أفق2012 O REVISIT
 وكذا O
 تحقيق O
 نمو O
 في O
 منح O
 القروض O
-بنسبة13 O
+بنسبة13 O REVISIT
 في O
 المائة O
 كل O
 سنة O
-مابين2007 O
-و2012 O
+مابين2007 O REVISIT
+و2012 O REVISIT
 . O
 
 تجدر O
@@ -5976,25 +5976,25 @@
 الادخار O
 بفرنسا B-PERS
 تضم O
-اليوم55 O
+اليوم55 O REVISIT
 ألف O
 متعاونا O
-و4700 O
+و4700 O REVISIT
 وكالة O
-و5900 O
+و5900 O REVISIT
 شباكا O
 أوتوماتيكيا O
-وتدبر22 O
+وتدبر22 O REVISIT
 مليون O
 ملفا O
 للزبناء O
-و1 O
-ر3 O
+و1 O REVISIT
+ر3 O REVISIT
 ملايين O
 من O
 الشركاء O
 . O
-
+ARTICLE
 بحثت O
 القمة O
 المصرية O
@@ -6295,7 +6295,7 @@
 المواقف O
 العربية O
 . O
-
+ARTICLE
 يعتقد O
 ان O
 بها O
@@ -6334,7 +6334,7 @@
 علي O
 التتابع O
 خارج O
-القارة O
+القارة O REVISIT
 الأفريقية O
 . O
 وظهرت O
@@ -6433,7 +6433,7 @@
 وكان O
 يعيش O
 في O
-العصر O
+العصر O REVISIT
 الحجري O
 ( O
 مادة O
@@ -6496,7 +6496,7 @@
 يجمعون O
 الثمار O
 ويصطادون O
-الأسمال O
+الأسماك O
 والحيوانات O
 البرية O
 . O
@@ -6583,7 +6583,7 @@
 . O
 
 وهذه O
-الفترةأظهرت O
+الفترةأظهرت O REVISIT
 الأربع O
 لغات O
 الأفريقية O
@@ -6594,7 +6594,7 @@ Afro-Asiatic O
 والنيلوصحراوية O
 , O
 والنيجر O
-كونغوية O
+كونغوية O REVISIT
 وكهيزان O
 التي O
 من O
@@ -6670,7 +6670,7 @@ Afro-Asiatic O
 أفريقيا B-LOC
 وغرب O
 جنوب O
-الصحراء B-LOC
+الصحراء B-LOC REVISIT
 . O
 
 وفي O
@@ -6682,7 +6682,7 @@ Afro-Asiatic O
 المتكلمون O
 لغة O
 النيجر O
-كونغوية O
+كونغوية O REVISIT
 يصطادون O
 بالقوس O
 والسهام O
@@ -6696,7 +6696,7 @@ Afro-Asiatic O
 التربة O
 البطاطا O
 ( O
-اليام B-MISC
+اليام B-MISC REVISIT
 ) O
 وانتشرت O
 ثقافتهم O
@@ -6718,7 +6718,7 @@ Afro-Asiatic O
 أحفاد O
 المتكلمين O
 لغة O
-كهوزان B-MISC
+كهوزان B-MISC REVISIT
 التوافق O
 مع O
 هذه O
@@ -6741,7 +6741,7 @@ Afro-Asiatic O
 الحادة O
 مكنت O
 شعب O
-كهوزان B-LOC
+كهوزان B-LOC REVISIT
 من O
 أن O
 يكونوا O
@@ -6774,7 +6774,7 @@ Afro-Asiatic O
 سنتي O
 11000 O
 ق.م. O
-و3599 O
+و3599 O REVISIT
 ق.م. O
 إجتاح O
 أفريقيا B-LOC
@@ -6789,7 +6789,7 @@ Afro-Asiatic O
 سنتي O
 9000 O
 ق.م. O
-و6000ق.م. O
+و6000ق.م. O REVISIT
 وأصبحت O
 الصحاري O
 غشبية O
@@ -6872,7 +6872,7 @@ Afro-Asiatic O
 
 ومابين O
 سنتي O
-7000ق.م. O
+7000ق.م. O REVISIT
 و O
 5000 O
 ق.م. O
@@ -6946,7 +6946,7 @@ Afro-Asiatic O
 الأثناء O
 ظهر O
 شعب O
-كوشيتك B-ORG
+كوشيتك B-ORG REVISIT
 . O
 وكان O
 يتكلم O
@@ -6965,7 +6965,7 @@ Afro-Asiatic O
 الرعي O
 وزراعة O
 الحبوب O
-بالقرن O
+بالقرن O REVISIT
 الأفريقي O
 والسهول O
 الوسطي O
@@ -6979,7 +6979,7 @@ Afro-Asiatic O
 حبوب O
 التيف O
 ونبات O
-الإنست B-MISC
+الإنست B-MISC REVISIT
 الذي O
 ثمرته O
 تشبه O
@@ -6998,9 +6998,9 @@ Afro-Asiatic O
 وكانوا O
 يزرعون O
 بطاطة O
-اليام B-MISC
+اليام B-MISC REVISIT
 في O
-سافانا B-LOC
+سافانا B-LOC REVISIT
 الغابات O
 مابين O
 سنتي O
@@ -7014,7 +7014,7 @@ Afro-Asiatic O
 نخيل O
 الزيوت O
 ونخيل O
-رافيا B-MISC
+رافيا B-MISC REVISIT
 والبسلة O
 والسوداني O
 وجوز O
@@ -7023,7 +7023,7 @@ Afro-Asiatic O
 
 وربوا O
 دجاج O
-غنيا B-LOC
+غنيا B-LOC REVISIT
 . O
 كما O
 زرعوا O
@@ -7052,15 +7052,15 @@ Afro-Asiatic O
 بها O
 بالغرب O
 وحوض O
-نهر O
+نهر O REVISIT
 الكونغو B-LOC
 بجنوب O
 شرقه O
 . O
 
 وبسبب O
-المطار O
-الغزيروة O
+المطار O REVISIT
+الغزيوة O
 ظهر O
 الصيد O
 بالأنهار O
@@ -7097,7 +7097,7 @@ Afro-Asiatic O
 جيرانهم O
 . O
 
-زفي O
+زفي O REVISIT
 سنة O
 3500 O
 إنحسرت O
@@ -7182,12 +7182,12 @@ Afro-Asiatic O
 البلاد O
 من O
 الشرق B-LOC
-ألوسط I-LOC
+الأوسط I-LOC
 . O
 
 وحملوا O
 معهم O
-البرونزالسبيكة B-MISC
+البرونزالسبيكة B-MISC REVISIT
 المتينة O
 إليها O
 . O
@@ -7274,7 +7274,7 @@ Afro-Asiatic O
 معروفا O
 في O
 جنوب O
-الصحراء O
+الصحراء O REVISIT
 الكبري O
 قبل O
 وصوله O
@@ -7295,7 +7295,7 @@ Afro-Asiatic O
 حول O
 بحيرة O
 تشاد B-LOC
-و O
+و O REVISIT
 في O
 مناطق O
 البحيرات O
@@ -7367,7 +7367,7 @@ Afro-Asiatic O
 في O
 أراضي O
 دلتا O
-نهر O
+نهر O REVISIT
 النيجر B-LOC
 حيث O
 إنتشرت O
@@ -7469,7 +7469,7 @@ Afro-Asiatic O
 أفريقيا B-LOC
 كان O
 بالمجتمعات O
-النيجرو O
+النيجرو O REVISIT
 كونغوية O
 صناع O
 مهرة O
@@ -7545,7 +7545,7 @@ canoes O
 نزح O
 فلاحو O
 شعب O
-البانتو B-ORG
+البانتو B-ORG REVISIT
 من O
 الكاميرون B-LOC
 وشرق O
@@ -7553,20 +7553,20 @@ canoes O
 إلي O
 غابات O
 حوض O
-نهر O
+نهر O REVISIT
 الكونغو B-LOC
 . O
 
 وحملوا O
 معهم O
 ثقافة O
-نيجركونغو O
+نيجركونغو O REVISIT
 . O
 أبحروا O
 ووصلوا O
 في O
 قوارب O
-الكانو B-MISC
+الكانو B-MISC REVISIT
 . O
 
 وأقاموا O
@@ -7577,7 +7577,7 @@ canoes O
 الكونغو B-LOC
 وزرعوا O
 بطاطا O
-اليام B-MISC
+اليام B-MISC REVISIT
 ونخيل O
 الزيوت O
 واصطادوا O
@@ -7587,7 +7587,7 @@ canoes O
 
 وفي O
 سنة O
-1000ق.م O
+1000ق.م O REVISIT
 . O
 توغلوا O
 لما O
@@ -7599,7 +7599,7 @@ canoes O
 في O
 أنجولا B-LOC
 ومنطقة O
-البحيرات O
+البحيرات O REVISIT
 الكبري O
 و O
 تعلموا O
@@ -7618,7 +7618,7 @@ canoes O
 
 ففلاحو O
 شعب O
-البانتو B-ORG
+البانتو B-ORG REVISIT
 كان O
 يزرع O
 البطاطا O
@@ -7650,7 +7650,7 @@ canoes O
 سنتي O
 300 O
 ق.م. O
-و300 O
+و300 O REVISIT
 م. O
 وتفاعلوا O
 مع O
@@ -7677,7 +7677,7 @@ canoes O
 كانت O
 منطقة O
 جافة O
-لاتصلح O
+لاتصلح O REVISIT
 للزراعة O
 . O
 
@@ -7716,7 +7716,7 @@ canoes O
 أصبحت O
 بعد O
 عدة O
-قروم O
+قروم O REVISIT
 أهم O
 المراكز O
 التجارية O
@@ -7763,7 +7763,7 @@ canoes O
 الخاضع O
 بهم O
 كلمة O
-أفريقيا B-LOC
+أفريقيا B-LOC REVISIT
 . O
 
 وكان O
@@ -7791,13 +7791,13 @@ canoes O
 الرومان O
 يطلقون O
 عليها O
-نوميديا B-LOC
+نوميديا B-LOC REVISIT
 . O
 وهذ O
 المناطق O
 حافظت O
-علي O
 إستقلالها O
+علي O
 . O
 
 لكنها O
@@ -7825,7 +7825,7 @@ canoes O
 أفريقيا B-LOC
 الروماني O
 يمد O
-الامبراطورية O
+الامبراطورية O REVISIT
 الرومانية O
 بالقمح O
 والزيتون O
@@ -7853,7 +7853,7 @@ canoes O
 للفندال O
 الجرمانيين O
 ثم O
-للإمبراطورية O
+للإمبراطورية O REVISIT
 البيزنطية O
 بالقسطنطينية O
 عام O
@@ -7865,7 +7865,7 @@ canoes O
 100 O
 م. O
 دخلت O
-المسيحية O
+المسيحية O REVISIT
 مصر B-LOC
 ومنها O
 إنتشرت O
@@ -7956,7 +7956,7 @@ canoes O
 وتحولت O
 الأغلبية O
 المصرية O
-للإسلام O
+للإسلام O REVISIT
 الذي O
 إنتشر O
 بشمال O
@@ -7972,7 +7972,7 @@ canoes O
 ودخلت O
 النوبة B-LOC
 في O
-الإسلام O
+الإسلام O REVISIT
 بالقرن O
 14م O
 . O
@@ -7991,7 +7991,7 @@ canoes O
 بين O
 الصحراء B-LOC
 الكبري I-LOC
-والغلبات B-LOC
+والغلبات B-LOC REVISIT
 بجنوب O
 شرق O
 موريتانيا B-LOC
@@ -8027,7 +8027,7 @@ canoes O
 أيدي O
 المرابطين B-ORG
 بمراكش B-LOC
-للإسلام O
+للإسلام O REVISIT
 في O
 القرن O
 11م O
@@ -8035,7 +8035,7 @@ canoes O
 
 وكانت O
 قبائل O
-سونينك B-ORG
+سونينك B-ORG REVISIT
 ومادينكا B-ORG
 ( O
 أو O
@@ -8063,7 +8063,7 @@ canoes O
 الوادي O
 الخصيب O
 باعالي O
-نهر O
+نهر O REVISIT
 النيجر B-LOC
 وجعل O
 جيرانه O
@@ -8075,12 +8075,12 @@ canoes O
 وكانت O
 اكبر O
 من O
-مملكة O
+مملكة O REVISIT
 غانا B-LOC
 . O
 
 وقامت O
-إمبراطورية O
+إمبراطورية O REVISIT
 سونغاي B-ORG
 ( O
 سونجهاي B-ORG
@@ -8089,7 +8089,7 @@ canoes O
 الجانب O
 الشرقي O
 لمنحني O
-نهر O
+نهر O REVISIT
 النيجر B-LOC
 , O
 وعاصمتها O
@@ -8144,14 +8144,13 @@ canoes O
 عدة O
 دول O
 بالشرق O
-كبورنو B-LOC
+كبورنو B-LOC REVISIT
 ودول O
 مدن O
 الهوسا B-LOC
-وسلطنة O
+وسلطنة O REVISIT
 الطوارق O
 . O
-
 واستولت O
 عليها O
 مراكش B-LOC
@@ -8159,6 +8158,7 @@ canoes O
 1591 O
 م O
 . O
+ARTICLE
 اختتمت O
 اعمال O
 الاجتماع O
@@ -8172,7 +8172,7 @@ canoes O
 الدول I-ORG
 العربية I-ORG
 لمديري O
-مكاتب B-ORG
+مكاتب B-ORG REVISIT
 الملكية I-ORG
 الصناعية I-ORG
 وحقوق I-ORG
@@ -8189,7 +8189,7 @@ canoes O
 العربية I-ORG
 بالتعاون O
 مع O
-وزارة O
+وزارة O REVISIT
 الاقتصاد O
 والتجارة O
 . O
@@ -8272,25 +8272,25 @@ canoes O
 انضمت O
 اليها O
 مثل O
-اتفاقية O
+اتفاقية O REVISIT
 باريس B-LOC
 لعام O
 1883 O
-ووثيقة O
+ووثيقة O REVISIT
 لندن B-LOC
 1924 O
-واتفاقية O
+واتفاقية O REVISIT
 مدريد B-LOC
 لدلالات O
 المنشأ O
 لعام O
 1924 O
 ، O
-واتفاقية O
+واتفاقية O REVISIT
 اتحاد O
 باريس B-LOC
 1883 O
-واتفاقية O
+واتفاقية O REVISIT
 استوكهولم B-LOC
 وسمات O
 التشريع O
@@ -8351,7 +8351,7 @@ canoes O
 بها O
 حالياً O
 في O
-الضفة O
+الضفة O واتفاقية O REVISIT
 الغربية O
 وقطاع O
 غزة B-LOC
@@ -8391,7 +8391,7 @@ canoes O
 واتفاق O
 لاهاي B-LOC
 ، O
-وبروتوكول O
+وبروتوكول O REVISIT
 مدريد B-LOC
 ومعاهدة O
 التعان O
@@ -8772,10 +8772,10 @@ canoes O
 يوسف I-PERS
 الجفيري I-PERS
 رئىس O
-قسم O
+قسم O REVISIT
 الملكية O
 الصناعية O
-بوزارة O
+بوزارة O REVISIT
 الاقتصاد O
 والتجارة O
 القى O
@@ -8843,7 +8843,7 @@ canoes O
 طيلة O
 فترة O
 انعقاد O
-الاجتماع. O
+الاجتماع. O REVISIT ARTICLE
 عواصم O
 - O
 وكالات: O
@@ -9388,7 +9388,7 @@ canoes O
 الشؤون O
 الخارجية O
 أمام O
-الجمعية O
+الجمعية O REVISIT
 الوطنية O
 ، O
 انه O
@@ -9514,7 +9514,7 @@ canoes O
 جدا O
 " O
 . O
-
+ARTICLE
 تشارلز B-PERS
 الأول I-PERS
 ( O
@@ -9826,7 +9826,7 @@ I I-PERS
 1649 O
 م O
 . O
-
+ARTICLE
 محمد B-PERS
 بن I-PERS
 عبد I-PERS
@@ -9846,7 +9846,7 @@ I I-PERS
 . O
 
 مؤسس O
-جمهورية B-LOC
+جمهورية B-LOC REVISIT
 الريف I-LOC
 . O
 لقب O
@@ -9872,7 +9872,7 @@ I I-PERS
 موقف O
 اقتبس O
 من O
-القران B-MISC
+القران B-MISC REVISIT
 ) O
 . O
 كما O
@@ -9953,7 +9953,7 @@ I I-PERS
 ثم O
 أتم O
 دراسته O
-بمدرسة O
+بمدرسة O REVISIT
 الصفارين B-MISC
 والشراطين I-MISC
 ب O
@@ -10018,7 +10018,7 @@ I I-PERS
 -- O
 ومحرر O
 في O
-جريدة O
+جريدة O REVISIT
 تلفراف B-ORG
 الريف I-ORG
 El B-ORG
@@ -10065,7 +10065,7 @@ Rif I-ORG
 من O
 جديد O
 . O
-ولمافشلت O
+ولمافشلت O REVISIT
 المفاوضات O
 بين O
 أبيه O
@@ -10089,7 +10089,7 @@ Rif I-ORG
 لتنظيم O
 صفوف O
 القبائل O
-وراءوالدهم O
+وراءوالدهم O REVISIT
 الدي O
 يقود O
 المقاومة O
@@ -10123,7 +10123,7 @@ Rif I-ORG
 بني B-ORG
 ورياغل I-ORG
 ) O
-آيت B-ORG
+آيت B-ORG REVISIT
 تمسمان I-ORG
 آيت B-ORG
 توزين I-ORG
@@ -10142,7 +10142,7 @@ Rif I-ORG
 . O
 
 وسماها O
-القبائل O
+القبائل O REVISIT
 المتحدة O
 ومن O
 انضم O
@@ -10273,13 +10273,13 @@ Rif I-ORG
 الخطابي I-PERS
 تزعم O
 وخطط O
-لثورة O
+لثورة O REVISIT
 الريف B-LOC
 العظيمة O
 : O
 ان O
 قلة O
-المصادرالتاريخية O
+المصادرالتاريخية O REVISIT
 عن O
 مرحلة O
 ما O
@@ -10303,7 +10303,7 @@ Rif I-ORG
 ( O
 مدينة O
 النكور B-LOC
-و O
+و O REVISIT
 المزمة B-LOC
 وبادس B-LOC
 . O
@@ -10370,7 +10370,7 @@ Rif I-ORG
 الأرض O
 للقصر O
 بعد O
-مفاوضات O
+مفاوضات O REVISIT
 اكس B-MISC
 ليبان B-MISC
 . O
@@ -10436,7 +10436,7 @@ Rif I-ORG
 من O
 تأديب O
 قبيلة O
-بقيوة O
+بقيوة O REVISIT
 . O
 
 انتصر O
@@ -10450,14 +10450,14 @@ Rif I-ORG
 الغزاة O
 -- O
 اسس O
-جمهورية O
+جمهورية O REVISIT
 الريف B-LOC
 ، O
 جمهورية O
 عصرية O
 بدستورها O
 و O
-برلمان O
+برلمان O REVISIT ARTICLE
 استبعدت O
 وزيرة O
 الخارجية O
@@ -10701,7 +10701,7 @@ Rif I-ORG
 وفي O
 برلين B-LOC
 أعلنت O
-وزارة O
+وزارة O REVISIT
 الخارجية O
 الألمانية O
 أن O
@@ -10947,7 +10947,7 @@ Rif I-ORG
 ممر O
 الإجلاء O
 . O
-
+ARTICLE
 يصل O
 الرئيس O
 الفنزويلي O
@@ -10956,7 +10956,7 @@ Rif I-ORG
 اليوم O
 إلى O
 روسيا B-LOC
-البيضاء O
+البيضاء I-LOC
 ، O
 في O
 إطار O
@@ -11012,7 +11012,7 @@ Rif I-ORG
 الأمم B-ORG
 المتحدة I-ORG
 وفي O
-حركة O
+حركة O REVISIT
 عدم O
 الانحياز O
 . O
@@ -11047,7 +11047,7 @@ Rif I-ORG
 وزارة O
 خارجية O
 روسيا B-LOC
-البيضاء O
+البيضاء I-LOC
 أندريه B-PERS
 بوبوف I-PERS
 إن O
@@ -11067,7 +11067,7 @@ Rif I-ORG
 منذ O
 استقلال O
 روسيا B-LOC
-البيضاء O
+البيضاء I-LOC
 عام O
 1991 O
 . O
@@ -11112,7 +11112,7 @@ Rif I-ORG
 عسكرية O
 من O
 بينها O
-معمل O
+معمل O REVISIT
 باريكادي B-ORG
 في O
 فولغوغراد B-LOC
@@ -11214,7 +11214,7 @@ Rif I-ORG
 54 O
 مليون O
 دولار B-MISC
-و15 O
+و15 O REVISIT
 مروحية O
 بقيمة O
 200 O
@@ -11276,7 +11276,7 @@ Rif I-ORG
 خلال O
 هذا O
 الشهر O
-بمنطقة O
+بمنطقة O REVISIT
 كالاماتا B-LOC
 جنوب O
 اليونان B-LOC
@@ -11432,7 +11432,7 @@ Rif I-ORG
 بإصابات O
 مقصودة O
 من O
-الجيش O
+الجيش O REVISIT
 الإسرائيلي O
 ، O
 هذه O
@@ -11459,7 +11459,7 @@ Rif I-ORG
 المريرة O
 التي O
 عاشها O
-بمخيم O
+بمخيم O REVISIT
 جنين B-LOC
 عام O
 2002 O
@@ -11654,12 +11654,12 @@ Rif I-ORG
 أطباء O
 نفسانيين O
 . O
-
+ARTICLE
 الدار B-LOC
 البيضاء I-LOC
 - O
 '' O
-وام O
+وام O REVISIT
 '' O
 : O
 وصل O
@@ -11708,7 +11708,7 @@ Rif I-ORG
 الوفد O
 المرافق O
 لسموه O
-بمطار O
+بمطار O REVISIT
 محمد B-MISC
 الخامس I-MISC
 بالدار B-LOC
@@ -11727,7 +11727,7 @@ Rif I-ORG
 رشيد B-PERS
 ودولة O
 إدريس B-PERS
-جطو O
+جطو I-PERS
 الوزير O
 الأول O
 ومعالي O
@@ -11914,7 +11914,7 @@ Rif I-ORG
 ظهر O
 أمس O
 الى O
-مسجد O
+مسجد O REVISIT
 الحسن B-PERS
 الثاني I-PERS
 بالدار B-LOC
@@ -12000,7 +12000,7 @@ Rif I-ORG
 المباركة O
 في O
 المسجد O
-العامر O
+العامر O REVISIT
 بالله B-PERS
 '' O
 الحسن B-LOC
@@ -12049,7 +12049,7 @@ Rif I-ORG
 . O
 
 ويعتبر O
-مسجد O
+مسجد O REVISIT
 الملك O
 الحسن B-PERS
 الثاني I-PERS
@@ -12124,7 +12124,7 @@ Rif I-ORG
 . O
 
 ويتكون O
-مسجد O
+مسجد O REVISIT
 الحسن B-PERS
 الثاني I-PERS
 من O
@@ -12138,17 +12138,17 @@ Rif I-ORG
 بمساحة O
 18 O
 ألفا O
-و800 O
+و800 O REVISIT
 متر O
 مربع O
 وثـــلاث O
 نوافير O
 مركزية O
 كبيرة O
-و36 O
+و36 O REVISIT
 نافورة O
 صغيرة O
-و299 O
+و299 O REVISIT
 ' O
 ' O
 حنفية O
@@ -12269,11 +12269,11 @@ Rif I-ORG
 الاسلامية O
 العريقة O
 . O
-
+ARTICLE
 قال O
 البنك B-ORG
 الافريقي I-ORG
-للتنمية O
+للتنمية I-ORG
 أمس O
 انه O
 منح O
@@ -12368,7 +12368,7 @@ Rif I-ORG
 فاسو I-LOC
 قرضا O
 حجمه O
-18,5مليون O
+18,5مليون O REVISIT
 يورو B-MISC
 لدعم O
 مشاريع O
@@ -12398,7 +12398,7 @@ Rif I-ORG
 الامن O
 الغذائي O
 . O
-
+ARTICLE
 طوكيو B-LOC
 - O
 رويترز B-ORG
@@ -12545,7 +12545,7 @@ Rif I-ORG
 في O
 اسيا B-LOC
 . O
-
+ARTICLE
 دينيس B-PERS
 هوانغ I-PERS
 من O
@@ -12705,7 +12705,7 @@ Rif I-ORG
 الطريفة O
 الأخرى O
 . O
-
+ARTICLE
 علي B-PERS
 بن I-PERS
 أبي I-PERS
@@ -12713,13 +12713,13 @@ Rif I-ORG
 بن I-PERS
 عبد I-PERS
 المطلب I-PERS
-الهاشمي I-PERS
+الهاشمي I-PERS REVISIT
 القرشي I-PERS
 لقبه O
 أمير O
 المؤمنين O
 كنيته O
-أبو B-PERS
+أبو B-PERS REVISIT
 الحسن I-PERS
 أبو B-PERS
 تراب I-PERS
@@ -12728,7 +12728,7 @@ Rif I-ORG
 ، O
 ولد O
 سنة O
-600م O
+600م O REVISIT
 في O
 مكة B-LOC
 ، O
@@ -12736,7 +12736,7 @@ Rif I-ORG
 فى O
 بيت O
 رسول O
-الإسلام O
+الإسلام O REVISIT
 محمد B-PERS
 ( O
 صلى O
@@ -12815,7 +12815,7 @@ Rif I-ORG
 بن I-PERS
 عبدالله I-PERS
 رسول O
-الإسلام O
+الإسلام O REVISIT
 وصهره O
 على O
 ابنته O
@@ -12890,7 +12890,7 @@ Rif I-ORG
 
 كان O
 في O
-غزوة O
+غزوة O REVISIT
 أحد B-MISC
 قائد O
 ميمنة O
@@ -12904,7 +12904,7 @@ Rif I-ORG
 . O
 
 وفي O
-غزوة O
+غزوة O REVISIT
 الخندق B-MISC
 ، O
 قتل O
@@ -13013,7 +13013,7 @@ Rif I-ORG
 القبائل O
 ولا O
 يستطيع O
-بنو B-ORG
+بنو B-ORG REVISIT
 هاشم I-ORG
 المطالبة O
 به O
@@ -13057,7 +13057,7 @@ Rif I-ORG
 عفان I-PERS
 فكان O
 أن O
-بني B-ORG
+بني B-ORG REVISIT
 أمية I-ORG
 رفضوا O
 مبايعته O
@@ -13418,11 +13418,11 @@ Rif I-ORG
 بن I-PERS
 حنيف I-PERS
 أمير O
-المدينةالنبوية B-LOC
+المدينةالنبوية B-LOC REVISIT
 ، O
 فولى O
 علي B-PERS
-أبا I-PERS
+أبا B-PERS
 أيوب I-PERS
 الأنصاري I-PERS
 ، O
@@ -13453,7 +13453,7 @@ Rif I-ORG
 شغل O
 علي B-PERS
 بقتال O
-الخوارج B-ORG
+الخوارج B-ORG REVISIT
 في O
 العراق B-LOC
 أرسل O
@@ -13552,7 +13552,7 @@ Rif I-ORG
 أبو B-PERS
 هريرة I-PERS
 إلى O
-المدينةالنبوية B-LOC
+المدينةالنبوية B-LOC REVISIT
 . O
 
 قتل O
@@ -13653,7 +13653,7 @@ Rif I-ORG
 هناك O
 ليلاً O
 ، O
-و O
+و O REVISIT REVISIT
 أخفيا O
 قبره O
 حتى O
@@ -13689,7 +13689,7 @@ Rif I-ORG
 مكانه O
 الآن O
 . O
-
+ARTICLE
 تعرضت O
 الأندلس B-LOC
 لمحن O
@@ -13843,7 +13843,7 @@ Rif I-ORG
 الله I-PERS
 محمد I-PERS
 من O
-المدينة B-LOC
+المدينة O
 ، O
 وبخروجه O
 انتهى O
@@ -14103,7 +14103,7 @@ Rif I-ORG
 ، O
 وطلب O
 من O
-البابا B-PERS
+البابا O
 أن O
 يبارك O
 حملته O
@@ -14294,7 +14294,7 @@ Rif I-ORG
 عملياته O
 العسكرية O
 ضد O
-بلنسية O
+بلنسية B-LOC
 ، O
 منتظرا O
 الفرصة O
@@ -14315,7 +14315,7 @@ Rif I-ORG
 إلى O
 أن O
 يحتل O
-حصن O
+حصن O REVISIT
 أنيشة B-LOC
 المنيع O
 الواقع O
@@ -15252,7 +15252,7 @@ Rif I-ORG
 5 O
 قرون O
 . O
-
+ARTICLE
 بعد O
 أربعة O
 قرون O
@@ -15295,7 +15295,7 @@ Rif I-ORG
 ظلت O
 مقاطعتا O
 البوسنة B-LOC
-والهرسك I-LOC
+والهرسك I-LOC REVISIT
 تحت O
 الاحتلال O
 مدة O
@@ -15340,16 +15340,16 @@ Rif I-ORG
 مكاسب O
 كثيرة O
 في O
-معاهدة O
+معاهدة O REVISIT
 سان B-LOC
 ستيفانو I-LOC
 وهو O
 ما O
 لم O
 يعجب O
-إمبراطورية O
+إمبراطورية O REVISIT
 النمسا B-LOC
-والمجر O
+والمجر O REVISIT
 بسبب O
 تغير O
 موازين O
@@ -15532,7 +15532,7 @@ Rif I-ORG
 ( O
 أصبحت O
 لاحقا O
-كلية O
+كلية O REVISIT
 الدراسات O
 الإسلامية O
 ) O
@@ -15576,7 +15576,7 @@ Rif I-ORG
 في O
 سراييفو B-LOC
 . O
-
+ARTICLE
 من O
 اجل O
 تغطية O
@@ -15589,7 +15589,7 @@ Rif I-ORG
 " O
 الشرق B-LOC
 الاوسط I-LOC
-الكبير O
+الكبير O REVISIT
 " O
 ، O
 والآن O
@@ -15830,7 +15830,7 @@ Rif I-ORG
 اللاسامية O
 في O
 اوروبا B-LOC
-الشرقية O
+الشرقية O REVISIT
 والنازية O
 . O
 التي O
@@ -16248,7 +16248,7 @@ Rif I-ORG
 هي O
 بدورها O
 من O
-مؤتمر O
+مؤتمر O REVISIT
 روما B-LOC
 . O
 
@@ -16402,7 +16402,7 @@ Rif I-ORG
 تجعل O
 لبنان B-LOC
 ضحية O
-الشرق B-LOC
+الشرق B-LOC REVISIT
 الاوسط I-LOC
 الجديد O
 . O
@@ -16875,7 +16875,7 @@ Rif I-ORG
 بأكمله O
 " O
 . O
-
+ARTICLE
 لم O
 تثن O
 الحرارة O
@@ -16922,7 +16922,7 @@ Rif I-ORG
 18 O
 يوليوز O
 الجاري O
-بمطار O
+بمطار O REVISIT
 المنارة B-MISC
 بمراكش B-LOC
 تقل O
@@ -16973,7 +16973,7 @@ Rif I-ORG
 كانت O
 أحد O
 رياض O
-حي O
+حي O REVISIT
 القصبة B-LOC
 بالمدينة O
 العتيقة O
@@ -17117,7 +17117,7 @@ Rif I-ORG
 المطبخ O
 المغربي O
 قرب O
-دار B-MISC
+دار B-MISC REVISIT
 الباشا I-MISC
 بالرميلة B-LOC
 في O
@@ -17135,7 +17135,7 @@ Rif I-ORG
 طائرة O
 خاصة O
 ثالثة O
-بمطار O
+بمطار O REVISIT
 المنارة B-MISC
 ، O
 تقل O
@@ -17269,7 +17269,7 @@ Rif I-ORG
 ونجمات O
 سينمائيات O
 . O
-
+ARTICLE
 تتجه O
 أنظار O
 نحو O
@@ -17313,7 +17313,7 @@ Rif I-ORG
 1936 O
 في O
 عهد O
-النازية O
+النازية O REVISIT
 . O
 
 ويري O
@@ -17621,7 +17621,7 @@ Rif I-ORG
 تغلبت O
 على O
 البلد O
-المضيف2 O
+المضيف2 O REVISIT
 - O
 0 O
 في O
@@ -17662,7 +17662,7 @@ Rif I-ORG
 وفي O
 ربع O
 نهائي O
-مونديال1998 B-MISC
+مونديال1998 B-MISC REVISIT
 , O
 وختم O
 " O
@@ -17710,7 +17710,7 @@ Rif I-ORG
 ان O
 حظوظ O
 ايطاليا B-LOC
-وفرنسا I-LOC
+وفرنسا B-LOC
 متساوية O
 في O
 احراز O
@@ -17735,7 +17735,7 @@ Rif I-ORG
 ان O
 حظوظ O
 كل O
-منتخب50 O
+منتخب50 O REVISIT
 في O
 المئة O
 " O
@@ -17835,7 +17835,7 @@ Rif I-ORG
 حساب O
 ايطاليا B-LOC
 . O
-
+ARTICLE
 نجح O
 نادي B-ORG
 أندرليخت I-ORG
@@ -17953,7 +17953,7 @@ Rif I-ORG
 أجاكس B-ORG
 الهولندي O
 سنة O
-1996وإنضم O
+1996وإنضم O REVISIT
 منذ O
 يناير O
 2004 O
@@ -17977,7 +17977,7 @@ Rif I-ORG
 يجري O
 الحديث O
 داخل O
-نادي B-ORG
+نادي B-ORG REVISIT
 بوردو I-ORG
 الفرنسي O
 عن O
@@ -17997,7 +17997,7 @@ Rif I-ORG
 إستبعد O
 فكرة O
 الإنضمام O
-لنادي B-ORG
+لنادي B-ORG REVISIT
 ليون I-ORG
 الفرنسي O
 بالنظر O
@@ -18066,7 +18066,7 @@ Rif I-ORG
 عرض O
 بعينه O
 . O
-
+ARTICLE
 قرر O
 الاتحاد B-ORG
 الدولي I-ORG
@@ -18236,7 +18236,7 @@ Rif I-ORG
 أفضل O
 لاعب O
 في O
-المونديال B-MISC
+المونديال B-MISC REVISIT
 جاء O
 إثر O
 تصويت O
@@ -18254,8 +18254,8 @@ Rif I-ORG
 العرس O
 العالمي O
 . O
-
-حدائق B-MISC
+ARTICLE
+حدائق B-MISC REVISIT
 بابل I-MISC
 المعلقة I-MISC
 إحدى O
@@ -18301,7 +18301,7 @@ Rif I-ORG
 
 وتعرف O
 كذلك O
-بحدائق B-MISC
+بحدائق B-MISC REVISIT
 سميراميس I-MISC
 المعلقة I-MISC
 . O
@@ -18351,9 +18351,9 @@ Rif I-ORG
 أنواع O
 الحديقة O
 . O
+ARTICLE
 
-. O
-. O
+
 أعلن O
 ريال B-ORG
 مدريد I-ORG
@@ -18665,7 +18665,7 @@ Rif I-ORG
 ربع O
 النهائي O
 . O
-
+ARTICLE
 الحرب B-MISC
 العالمية I-MISC
 الأولى I-MISC
@@ -18759,8 +18759,8 @@ Rif I-ORG
 
 تعد O
 الحرب B-MISC
-العالمية B-MISC
-الأولى B-MISC
+العالمية I-MISC
+الأولى I-MISC
 البذرة O
 للحركات O
 الإيديولوجية O
@@ -18820,7 +18820,7 @@ Rif I-ORG
 ويعزى O
 سطوع O
 بريق O
-النازية O
+النازية O REVISIT
 لهزيمة O
 ألمانيا B-LOC
 في O
@@ -18850,10 +18850,10 @@ Rif I-ORG
 الحربية O
 ودخول O
 أطراف O
-لاناقة O
+لاناقة O REVISIT
 لها O
 بالحروب O
-ولاجمل O
+ولاجمل O REVISIT
 وهي O
 شريحة O
 المدنيين O
@@ -19316,10 +19316,10 @@ Rif I-ORG
 3 O
 اغسطس O
 . O
-
+ARTICLE
 بغداد B-LOC
 - O
-ا O
+ا O REVISIT
 ف O
 ب: O
 أحرز O
@@ -19798,7 +19798,7 @@ Rif I-ORG
 ايضاحات O
 وضمانات O
 من O
-المنظمة B-ORG
+المنظمة B-ORG REVISIT
 الدولية I-ORG
 عن O
 طبيعة O
@@ -19837,7 +19837,7 @@ Rif I-ORG
 الحوار O
 فقد O
 نشرت O
-صحيفة O
+صحيفة O revisit
 " O
 القادسية B-ORG
 " O
@@ -19860,7 +19860,7 @@ Rif I-ORG
 ومن O
 جانبها O
 اتهمت O
-صحيفة O
+صحيفة O revisit
 " O
 بابل B-ORG
 " O
@@ -19908,7 +19908,7 @@ Rif I-ORG
 تدمير O
 العراق B-LOC
 . O
-
+ARTICLE
 شهد O
 العراق B-LOC
 أمس O
@@ -19920,7 +19920,7 @@ Rif I-ORG
 نحو O
 70 O
 قتيلا O
-و200 O
+و200 O REVISIT
 جريح O
 جراء O
 سلسلة O
@@ -19943,7 +19943,7 @@ Rif I-ORG
 جثة O
 في O
 بغداد B-LOC
-وبعقوبة O
+وبعقوبة O REVISIT
 . O
 
 وكانت O
@@ -19956,13 +19956,13 @@ Rif I-ORG
 مفخخة O
 في O
 سوق O
-" O
-جميلة O
+" O 
+جميلة O REVISIT
 " O
 الشعبي O
 بأحد O
 أحياء O
-مدينة O
+مدينة O REVISIT
 الصدر B-LOC
 أسفر O
 عن O
@@ -19989,7 +19989,7 @@ Rif I-ORG
 المجلس O
 البلدي O
 في O
-مدينة O
+مدينة O REVISIT
 الصدر B-LOC
 في O
 مكان O
@@ -20015,7 +20015,7 @@ Rif I-ORG
 محكمة O
 المدينة O
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 تفجير O
 كركوك B-LOC
@@ -20095,7 +20095,7 @@ Rif I-ORG
 استهدف O
 دوريتهم O
 في O
-حي O
+حي O REVISIT
 القادسية B-LOC
 غرب O
 العاصمة O
@@ -20143,7 +20143,7 @@ Rif I-ORG
 
 وفي O
 محافظة O
-ديالى O
+ديالى O REVISIT
 شمال O
 شرق O
 بغداد B-LOC
@@ -20271,13 +20271,13 @@ Rif I-ORG
 السياسية O
 ما O
 عدا O
-جبهة O
+جبهة O REVISIT
 التوافق O
 العراقية O
 أكبر O
 تكتل O
 سُني O
-حققت O
+حققت O ARTICLE
 فرنسا B-LOC
 المرتبة O
 الأولى O
@@ -20712,7 +20712,7 @@ Rif I-ORG
 ما O
 بين O
 2200 O
-و2400 O
+و2400 O REVISIT
 يورو B-MISC
 بما O
 يزيد O
@@ -20729,7 +20729,7 @@ Rif I-ORG
 1800 O
 يورو B-MISC
 . O
-
+ARTICLE
 يحل O
 العاهل O
 الإسباني O
@@ -20831,7 +20831,7 @@ Rif I-ORG
 قصير O
 من O
 انعقاد O
-المؤتمر O
+المؤتمر O REVISIT
 الأوروافريقي O
 حول O
 الهجرة O
@@ -21006,7 +21006,7 @@ Rif I-ORG
 إدريس B-PERS
 جطو I-PERS
 . O
-
+ARTICLE
 خسر O
 نادي O
 مانشستر B-ORG
@@ -21015,7 +21015,7 @@ Rif I-ORG
 مباراة O
 في O
 جولة O
-بجنوب O
+بجنوب O REVISIT
 افريقيا B-LOC
 من O
 كايزر B-ORG
@@ -21078,7 +21078,7 @@ Rif I-ORG
 المنتخب O
 الانجليزي O
 في O
-كأس O
+كأس O REVISIT
 العالم O
 وفشل O
 الفريق O
@@ -21116,7 +21116,7 @@ Rif I-ORG
 
 وأكد O
 الاسكتلندي O
-سير B-PERS
+سير B-PERS REVISIT
 أليكس I-PERS
 فيرجسون I-PERS
 مدرب O
@@ -21426,7 +21426,7 @@ Rif I-ORG
 ' O
 ' O
 . O
-
+Article
 وافقت O
 لجنة B-ORG
 شؤون I-ORG
@@ -21599,7 +21599,7 @@ Rif I-ORG
 النادي O
 بشكوى O
 إلى O
-لجنة O
+لجنة O REVISIT
 التظلمات O
 أملا O
 في O
@@ -21686,7 +21686,7 @@ Rif I-ORG
 استنادا O
 الى O
 فتوى O
-لجنة O
+لجنة O REVISIT
 شؤون O
 اللاعبين O
 ببطلان O
@@ -21718,7 +21718,7 @@ Rif I-ORG
 التعرف O
 على O
 قرار O
-لجنة O
+لجنة O REVISIT
 التظلمات O
 في O
 هذا O
@@ -22095,7 +22095,7 @@ Rif I-ORG
 الذي O
 شارك O
 في O
-كأس O
+كأس O REVISIT
 العالم O
 2002 O
 ويجيد O
@@ -22113,7 +22113,7 @@ Rif I-ORG
 جلال B-PERS
 محمود I-PERS
 عضو O
-لجنة O
+لجنة O REVISIT
 الكرة O
 أن O
 النادي O
@@ -22152,7 +22152,7 @@ Rif I-ORG
 أسامة B-PERS
 المليجي I-PERS
 عضو O
-مجلس O
+مجلس O REVISIT
 الإدارة O
 على O
 بيانات O
@@ -22160,7 +22160,7 @@ Rif I-ORG
 عن O
 النادي B-ORG
 المكناسي I-ORG
-المغربي I-ORG
+المغربي I-ORG REVISIT
 قبل O
 عودته O
 إلى O
@@ -22218,7 +22218,7 @@ Rif I-ORG
 الكلية O
 الحربية O
 . O
-
+article
 الرياض B-LOC
 : O
 مساعد O
@@ -22447,13 +22447,13 @@ Rif I-ORG
 الأعمال O
 من O
 جامعة B-ORG
-« O
+« O REVISIT
 نورث B-ORG
 كارولاينا I-ORG
 » O
 ، O
 في O
-مدينة O
+مدينة O  REVISIT
 شارلوت B-LOC
 بالولايات B-LOC
 المتحدة I-LOC
@@ -22474,7 +22474,7 @@ Rif I-ORG
 15 O
 عاما O
 في O
-مصرف O
+مصرف O REVISIT
 « O
 إتش.إس.بي.سي B-ORG
 » O
@@ -22536,7 +22536,7 @@ Rif I-ORG
 » O
 . O
 * O
-« O
+« O article
 إل B-ORG
 جي I-ORG
 » O
@@ -22562,7 +22562,7 @@ Rif I-ORG
 في O
 العالم O
 ( O
-الهاتف B-MISC
+الهاتف B-MISC REVISIT
 الكارت I-MISC
 ) O
 ، O
@@ -22729,7 +22729,7 @@ Rif I-ORG
 كل O
 شهر O
 . O
-
+ARTICLE
 * O
 قافلة O
 « O
@@ -22807,7 +22807,7 @@ Rif I-ORG
 محطتها O
 الأخيرة O
 في O
-مدينة O
+مدينة O REVISIT
 الجبيل B-LOC
 . O
 
@@ -22916,7 +22916,7 @@ Rif I-ORG
 وقت O
 ممكن O
 . O
-
+ARTICLE
 عمان B-LOC
 – O
 بترا B-LOC
@@ -22932,7 +22932,7 @@ Rif I-ORG
 الى O
 دولة O
 الكويت B-LOC
-تستمرعدة O
+تستمرعدة O REVISIT
 ساعات O
 يبحث O
 خلالها O
@@ -23235,7 +23235,7 @@ Rif I-ORG
 لازمات O
 وكوارث O
 . O
-
+ARTICLE
 تم O
 نقل O
 الرئيس O
@@ -23263,7 +23263,7 @@ Rif I-ORG
 الادعاء O
 العام O
 في O
-المحكمة O
+المحكمة O REVISIT
 الجنائية O
 العليا O
 ان O
@@ -23311,13 +23311,13 @@ Rif I-ORG
 محاكمة O
 عادلة O
 . O
-
+ARTICLE
 مقديشو B-LOC
 - O
 نيروبي B-LOC
 - O
 ( O
-د O
+د O REVISIT
 ب O
 أ O
 ) O
@@ -23375,7 +23375,7 @@ Rif I-ORG
 نفس O
 الوقت O
 تقترب O
-ميليشياتهم B-MISC
+ميليشياتهم O
 من O
 بلدة O
 بيدوا B-LOC
@@ -23459,7 +23459,7 @@ Rif I-ORG
 ومن O
 المعروف O
 أن O
-اتحاد O
+اتحاد O REVISIT
 المحاكم O
 الاسلامية O
 هو O
@@ -23483,8 +23483,8 @@ Rif I-ORG
 . O
 
 ووجهت O
-ميليشيا B-MISC
-اتحاد O
+ميليشيا O
+اتحاد O REVISIT
 المحاكم O
 الاسلامية O
 المدججة O
@@ -23493,7 +23493,7 @@ Rif I-ORG
 قاتلة O
 لتحالف O
 لزعماء O
-الميليشيات B-MISC
+الميليشيات O
 الذين O
 تدعمهم O
 الولايات B-LOC
@@ -23524,7 +23524,7 @@ Rif I-ORG
 الادعاء O
 الذي O
 ينفيه O
-اتحاد O
+اتحاد O REVISIT
 المحاكم O
 الاسلامية O
 . O
@@ -23636,7 +23636,7 @@ Rif I-ORG
 منع O
 إذاعة O
 مباريات O
-كأس O
+كأس O REVISIT
 العالم O
 الاخيرة O
 لكرة O
@@ -23736,15 +23736,15 @@ Rif I-ORG
 ألف O
 شخص O
 . O
-
+ARTICLE
 سيول B-LOC
 - O
-وص O
+وص O REVISIT
 ف، O
 رويترز B-ORG
 - O
 أوردت O
-وكالة O
+وكالة O REVISIT
 " O
 يونهاب B-ORG
 " O
@@ -23935,7 +23935,7 @@ Rif I-ORG
 الماضي O
 لاسباب O
 غير O
-محددة O
+محددة O ARTICLE
 ألبرت B-PERS
 أينشتاين I-PERS
 ( O
@@ -24269,7 +24269,7 @@ Einstein I-PERS
 طريقه O
 في O
 الحياة O
-؛ O
+؛ O REVISIT
 فأنهى O
 دراسته O
 الثانوية O
@@ -24522,7 +24522,7 @@ Maric I-PERS
 دائماً O
 ، O
 وقام O
-بالحضير O
+بالتحضير O
 لرسالة O
 الدكتوراه O
 في O
@@ -24593,7 +24593,7 @@ Maric I-PERS
 ما O
 يعرف O
 باسم O
-الحركة B-MISC
+الحركة B-MISC REVISIT
 البراونية I-MISC
 Brownian B-MISC
 motion I-MISC
@@ -24689,7 +24689,7 @@ motion I-MISC
 كانت O
 عن O
 " O
-النظرية O
+النظرية O REVISIT
 النسبية O
 الخاصة O
 " O
@@ -24866,7 +24866,7 @@ motion I-MISC
 والمحاضرات O
 من O
 " O
-بيرن B-ORG
+بيرن B-LOC
 " O
 في O
 سويسرا B-LOC
@@ -24940,7 +24940,7 @@ motion I-MISC
 من O
 زوجته O
 ميلِفا B-PERS
-؛ O
+؛ O REVISIT
 إذ O
 يعتقد O
 البعض O
@@ -25152,7 +25152,7 @@ motion I-MISC
 المتقدمة I-ORG
 " O
 التابع O
-جامعة O
+جامعة O REVISIT
 لجامعة B-ORG
 برينستون I-ORG
 في O
@@ -25257,7 +25257,7 @@ motion I-MISC
 بعد O
 موته O
 . O
-
+ARTICLE
 جوزيف B-PERS
 جون I-PERS
 طومسون I-PERS
@@ -25313,7 +25313,7 @@ motion I-MISC
 طومسون B-PERS
 للعمل O
 في O
-معمل O
+معمل O REVISIT
 كافنديش B-ORG
 العريق O
 ، O
@@ -25324,7 +25324,7 @@ motion I-MISC
 تم O
 تعيينه O
 رئيسا O
-لمعمل O
+لمعمل O REVISIT
 كافنديش B-ORG
 وهو O
 في O
@@ -25388,7 +25388,7 @@ motion I-MISC
 جهده O
 حوالي O
 10,000 O
-فولت B-MISC
+فولت B-MISC REVISIT
 تحت O
 ضغط O
 منخفض O
@@ -25404,12 +25404,12 @@ motion I-MISC
 انطلاق O
 أشعة O
 من O
-الكاثود B-MISC
+الكاثود B-MISC REVISIT
 ( O
 المهبط O
 ) O
 إلي O
-الآنود B-MISC
+الآنود B-MISC REVISIT
 ( O
 المصعد O
 ) O
@@ -25472,7 +25472,7 @@ motion I-MISC
 حصل O
 طومسون B-PERS
 على O
-جائزة O
+جائزة O REVISIT
 نوبل B-MISC
 عام O
 1906 O
@@ -25484,7 +25484,7 @@ motion I-MISC
 ترك O
 العمل O
 في O
-معمل O
+معمل O REVISIT
 كافنديش B-ORG
 قرب O
 نهاية O
@@ -25510,7 +25510,7 @@ motion I-MISC
 الرابعة O
 والثمانين O
 . O
-
+ARTICLE
 اعتقلت O
 شرطة O
 بنغلاديش B-LOC
@@ -25627,7 +25627,7 @@ motion I-MISC
 السابقة O
 الشيخة O
 حسينة B-PERS
-واجد O
+واجد I-PERS
 - O
 على O
 مدى O
@@ -25638,8 +25638,8 @@ motion I-MISC
 الوزراء O
 الحالية O
 البيجوم O
-خالدة O
-ضياء O
+خالدة B-PERS
+ضياء I-PERS REVISIT
 . O
 
 وتتهم O
@@ -25662,7 +25662,7 @@ motion I-MISC
 الثاني O
 القادم O
 . O
-
+ARTICLE
 قال O
 رئيس O
 الوزراء O
@@ -25778,7 +25778,7 @@ motion I-MISC
 الراهنة O
 في O
 لبنان B-LOC
-وقطاع O
+وقطاع O REVISIT
 غزة B-LOC
 . O
 
@@ -25919,7 +25919,7 @@ motion I-MISC
 بإسرائيل B-LOC
 ، O
 نسبت O
-وكالة O
+وكالة O REVISIT
 الصحافة O
 الفرنسية O
 إلى O
@@ -25984,7 +25984,7 @@ motion I-MISC
 جانبه O
 رفض O
 رئيس O
-مجلس O
+مجلس O REVISIT
 النواب O
 اللبناني O
 نبيه B-PERS
@@ -26243,9 +26243,9 @@ motion I-MISC
 السلام O
 المقترحة O
 . O
-
+ARTICLE
 فضيتان O
-لتايكوندو B-MISC
+لتايكوندو B-MISC REVISIT
 الشرطة O
 القطرية O
 في O
@@ -26260,7 +26260,7 @@ motion I-MISC
 أحرز O
 منتخبنا O
 الوطني O
-للتايكوندو B-MISC
+للتايكوندو B-MISC REVISIT
 للشرطة O
 ميداليتين O
 فضيتين O
@@ -26372,7 +26372,7 @@ motion I-MISC
 معتبرا O
 ان O
 لدول O
-مجلس O
+مجلس O REVISIT
 التعاون O
 الخليجي O
 دورا O
@@ -26400,7 +26400,7 @@ motion I-MISC
 في O
 احدي O
 دول O
-مجلس O
+مجلس O REVISIT
 التعاون O
 الخليجي O
 من O
@@ -26451,7 +26451,7 @@ motion I-MISC
 التنفيذي O
 والمدير O
 العام O
-لشركة O
+لشركة O REVISIT
 بترونت B-ORG
 الهندية O
 لتحويل O
@@ -26552,7 +26552,7 @@ motion I-MISC
 ، O
 رئيس O
 مهندسي O
-شركة O
+شركة O REVISIT
 آر B-ORG
 آي I-ORG
 بي I-ORG
@@ -26588,7 +26588,7 @@ motion I-MISC
 من O
 سين B-ORG
 أوبك I-ORG
-الصينيةح O
+الصينية O
 في O
 ورقة O
 عمله O
@@ -26658,7 +26658,7 @@ motion I-MISC
 الرئيس O
 والمدير O
 العام O
-لشركة O
+لشركة O REVISIT
 قطر B-ORG
 غاز I-ORG
 ، O
@@ -26694,7 +26694,7 @@ motion I-MISC
 محور O
 المناقشة O
 . O
-
+ARTICLE
 كراتشي B-LOC
 ( O
 رويترز B-ORG
@@ -26783,7 +26783,7 @@ motion I-MISC
 
 ودعا O
 للمسيرة O
-مجلس O
+مجلس O REVISIT
 العمل O
 المتحد O
 وهو O
@@ -26842,7 +26842,7 @@ motion I-MISC
 الامريكية O
 مثل O
 مشروبي O
-الكوكاكولا B-ORG
+الكوكاكولا B-ORG REVISIT
 والبيبسي I-ORG
 ومطاعم O
 مكدونالدز B-ORG
@@ -27037,7 +27037,7 @@ motion I-MISC
 في O
 أفغانستان B-LOC
 . O
-
+ARTICLE
 معتقل O
 جوانتانامو B-LOC
 ، O
@@ -27049,7 +27049,7 @@ motion I-MISC
 بدأت O
 السلطات O
 الأمريكية O
-لبإستعماله O
+بإستعماله O
 في O
 سنة O
 2002 O
@@ -27210,10 +27210,10 @@ motion I-MISC
 في O
 إستئجارها O
 . O
-
+ARTICLE
 واشنطن B-LOC
 - O
-ا O
+ا O REVISIT
 ف O
 ب O
 : O
@@ -27229,7 +27229,7 @@ motion I-MISC
 قوة O
 سلام O
 تابعة O
-لحلف O
+لحلف O REVISIT
 شمال O
 الاطلسي O
 " O
@@ -27456,7 +27456,7 @@ motion I-MISC
 ضمن O
 اطار O
 الامم B-ORG
-المتحدة O
+المتحدة I-ORG
 . O
 
 وقال O
@@ -27507,7 +27507,7 @@ motion I-MISC
 التدخل O
 بفاعلية O
 . O
-
+ARTICLE
 مما O
 شاع O
 وذاع O
@@ -28231,7 +28231,7 @@ motion I-MISC
 من O
 النساء O
 في O
-صدر O
+صدر O REVISIT
 الاسلام B-MISC
 من O
 فقن O
@@ -28390,7 +28390,7 @@ motion I-MISC
 استاذه O
 احمد B-PERS
 لطفي I-PERS
-السيد O
+السيد I-PERS
 وبقية O
 المنورين O
 المصريين O
@@ -28433,7 +28433,7 @@ motion I-MISC
 ' O
 نظرته O
 الى O
-حواء B-PERS
+حواء B-PERS REVISIT
 ، O
 ولو O
 ان O
@@ -29463,17 +29463,17 @@ motion I-MISC
 ، O
 وبخاصة O
 ' O
-عصفور O
+عصفور O REVISIT
 من O
 الشرق O
 ، O
-وعودة O
+وعودة O REVISIT
 الروح O
 ، O
-وزهرة O
+وزهرة O REVISIT
 العمر O
 ، O
-وسجن O
+وسجن O REVISIT
 العمر O
 ' O
 التي O
@@ -29512,7 +29512,7 @@ motion I-MISC
 والحكيم B-PERS
 أديب O
 . O
-
+ARTICLE
 . O
 مدريد B-LOC
 ـ O
@@ -29561,7 +29561,7 @@ motion I-MISC
 الانترنت O
 امس O
 ' O
-اللجنة O
+اللجنة O REVISIT
 الانتخابية O
 لريال B-ORG
 مدريد I-ORG
@@ -29751,7 +29751,7 @@ motion I-MISC
 قرار O
 نهائي O
 . O
-
+ARTICLE
 عواصم O
 - O
 وكالات: O
@@ -29810,7 +29810,7 @@ motion I-MISC
 عماد I-PERS
 الرفاعي I-PERS
 من O
-جماعة O
+جماعة O REVISIT
 الجهاد O
 انه O
 تم O
@@ -29910,7 +29910,7 @@ motion I-MISC
 عاما O
 عندما O
 عقد O
-المجلس O
+المجلس O REVISIT
 الوطني O
 الفلسطيني O
 بتونس B-LOC
@@ -29946,7 +29946,7 @@ motion I-MISC
 وقف O
 المقاومة O
 ضد O
-اسرائيل O
+اسرائيل O REVISIT
 . O
 
 واكد O
@@ -30061,7 +30061,7 @@ motion I-MISC
 ". O
 وقالت O
 القوى O
-بقطاع O
+بقطاع O REVISIT
 غزة B-LOC
 في O
 بيان O
@@ -30145,7 +30145,7 @@ motion I-MISC
 الميادين O
 " O
 . O
-
+ARTICLE
 أثبت O
 حزب B-ORG
 الله I-ORG
@@ -30655,16 +30655,16 @@ motion I-MISC
 اختلافا O
 شكليا O
 ، O
-فالمجلس O
+فالمجلس O REVISIT
 الأعلى O
 للثورة O
 الإسلامية O
 في O
 العراق B-LOC
-والتيار O
+والتيار O REVISIT
 الصدري O
 وحزبا O
-الدعوة O
+الدعوة O REVISIT
 والفضيلة O
 والعدد O
 الكبير O
@@ -30917,13 +30917,13 @@ motion I-MISC
 واسعة O
 ضد O
 قادة O
-سنة B-ORG
+سنة O
 عسكريين O
 ومدنيين O
 ، O
 وضد O
 علماء O
-سنة B-ORG
+سنة O
 من O
 كافة O
 التوجهات O
@@ -30939,12 +30939,12 @@ motion I-MISC
 ووزاراتها O
 من O
 العرب O
-السنة B-ORG
+السنة O
 ، O
 مرة O
 باسم O
 اجتثاث O
-البعث O
+البعث  REVISITO
 ومرة O
 باسم O
 التعاون O
@@ -31051,7 +31051,7 @@ motion I-MISC
 النحو O
 أو O
 ذاك O
-بالقاعدة O
+بالقاعدة O REVISIT
 . O
 
 وشيئا O
@@ -31074,7 +31074,7 @@ motion I-MISC
 أكثريتهم O
 من O
 العراقيين O
-الشيعة B-ORG
+الشيعة O
 ، O
 وإلى O
 تفجيرات O
@@ -31173,16 +31173,16 @@ motion I-MISC
 ، O
 وبات O
 العراقيون O
-سنة B-ORG
-وشيعة B-ORG
+سنة O
+وشيعة O
 يقتلون O
 يوميا O
 بالعشرات O
 لمجرد O
 كونهم O
-سنة B-ORG
+سنة O
 أو O
-شيعة B-ORG
+شيعة O
 . O
 
 وبينما O
@@ -31195,8 +31195,8 @@ motion I-MISC
 العام O
 العربي O
 - O
-سنة B-ORG
-وشيعة B-ORG
+سنة O
+وشيعة O
 - O
 داخل O
 العراق B-LOC
@@ -31303,7 +31303,7 @@ motion I-MISC
 أهل O
 الرأي O
 والتأثير O
-الشيعة B-ORG
+الشيعة O
 . O
 
 " O
@@ -31368,7 +31368,7 @@ motion I-MISC
 يوجد O
 بين O
 أهل O
-السنة B-ORG
+السنة O REVISIT
 مواقف O
 متعددة O
 من O
@@ -31415,7 +31415,7 @@ motion I-MISC
 الرئيسية O
 - O
 مثل O
-الشيعة B-ORG
+الشيعة B-ORG REVISIT
 الاثني I-ORG
 عشرية I-ORG
 - O
@@ -31431,14 +31431,14 @@ motion I-MISC
 
 ولم O
 يصطدم O
-الإسلام B-ORG
+الإسلام B-ORG REVISIT
 السني I-ORG
 بالتشيع B-ORG
 الاثني I-ORG
 عشري I-ORG
 إلا O
 خلال O
-الحقبة O
+الحقبة O REVISIT
 الصفوية O
 التي O
 شهدت O
@@ -31474,7 +31474,7 @@ motion I-MISC
 توجهات O
 طائفية O
 بين O
-السنة B-ORG
+السنة O
 ، O
 ولكن O
 هذه O
@@ -31488,12 +31488,12 @@ motion I-MISC
 تنعكس O
 طائفيتها O
 على O
-الشيعة B-ORG
+الشيعة O
 وحسب O
 وإنما O
 على O
 أغلب O
-السنة B-ORG
+السنة O
 كذلك O
 . O
 
@@ -31580,7 +31580,7 @@ motion I-MISC
 مختلفتين O
 وسط O
 المسلمين O
-الشيعة B-ORG
+الشيعة O
 من O
 حيث O
 النظرة O
@@ -31709,7 +31709,7 @@ motion I-MISC
 تخطئ O
 الاتجاه O
 . O
-
+ARTICLE
 جاليليو B-PERS
 جاليلي I-PERS
 عالم O
@@ -31756,7 +31756,7 @@ motion I-MISC
 لقبت O
 بعد O
 ذلك O
-بالأخت O
+بالأخت O REVISIT
 ماريا B-PERS
 ـ O
 ولدت O
@@ -31779,7 +31779,7 @@ motion I-MISC
 ولقبت O
 بعد O
 ذلك O
-بالأخت O
+بالأخت O REVISIT
 أركنجيلا B-PERS
 ـ O
 ولدت O
@@ -31814,7 +31814,7 @@ motion I-MISC
 الملاحظة O
 والتجربة O
 . O
-
+ARTICLE
 تفاعلت O
 قضية O
 مقتل O
@@ -32275,7 +32275,7 @@ motion I-MISC
 ونمساوي O
 وفنلندي O
 . O
-
+ARTICLE
 أعلن O
 البنك B-ORG
 الآسيوي I-ORG
@@ -32307,7 +32307,7 @@ motion I-MISC
 بالفيضانات O
 التي O
 تلت O
-العاصفة O
+العاصفة O REVISIT
 الاستوائية O
 بيليس B-MISC
 في O
@@ -32435,7 +32435,7 @@ motion I-MISC
 أيلول O
 2012 O
 . O
-
+ARTICLE
 استهل O
 النجم O
 الأميركي O
@@ -32541,7 +32541,7 @@ motion I-MISC
 الأميركي O
 أحرز O
 لقب O
-دورة O
+دورة O REVISIT
 ستانفورد B-MISC
 العام O
 الماضي O
@@ -32571,7 +32571,7 @@ motion I-MISC
 60 O
 ، O
 وفي O
-دورة O
+دورة O REVISIT
 لوس B-MISC
 أنجلوس I-MISC
 إلى O
@@ -32682,7 +32682,7 @@ motion I-MISC
 - O
 6 O
 . O
-
+ARTICLE
 تتسم O
 الأعمال O
 التليفزيونية O
@@ -32724,7 +32724,7 @@ motion I-MISC
 محجبات O
 مسلسل O
 " O
-قلب O
+قلب O REVISIT
 حبيبة O
 " O
 الذي O
@@ -32754,7 +32754,7 @@ motion I-MISC
 ومثله O
 مسلسل O
 " O
-حبيب O
+حبيب O REVISIT
 الروح O
 " O
 الذي O
@@ -32780,7 +32780,7 @@ motion I-MISC
 في O
 بطولة O
 المسلسل O
-الاجتماعي O
+الاجتماعي O REVISIT
 " O
 القاهرة B-LOC
 2000 O
@@ -32819,7 +32819,7 @@ motion I-MISC
 المسلسل O
 التليفزيوني O
 " O
-أولاد O
+أولاد O REVISIT
 الشوارع O
 " O
 تأليف O
@@ -32870,7 +32870,7 @@ motion I-MISC
 في O
 مسلسل O
 " O
-قلب O
+قلب O REVISIT
 الدنيا O
 " O
 بطولة O
@@ -32965,7 +32965,7 @@ motion I-MISC
 المسلسل O
 التليفزيوني O
 " O
-سوق O
+سوق O REVISIT
 الخضار O
 " O
 تأليف O
@@ -33020,7 +33020,7 @@ motion I-MISC
 ، O
 مثل O
 " O
-الإمام O
+الإمام O REVISIT
 المراغي O
 " O
 - O
@@ -33044,7 +33044,7 @@ motion I-MISC
 
 ومسلسل O
 " O
-على O
+على O REVISIT
 باب O
 مصر B-LOC
 " O
@@ -33061,7 +33061,7 @@ motion I-MISC
 أحداثه O
 خلال O
 فترة O
-الخلافة O
+الخلافة O REVISIT
 العباسية O
 وتظهر O
 فيه O
@@ -33076,7 +33076,7 @@ motion I-MISC
 إلى O
 مسلسل O
 " O
-نصر O
+نصر O REVISIT
 الله B-MISC
 " O
 إخراج O
@@ -33101,7 +33101,7 @@ motion I-MISC
 الأحداث O
 أيضا O
 . O
-
+ARTICLE
 رفض O
 أميتاب B-PERS
 باتشان I-PERS
@@ -33116,7 +33116,7 @@ motion I-MISC
 أن O
 تطمح O
 للفوز O
-بجوائز O
+بجوائز O REVISIT
 الأوسكار B-MISC
 ، O
 قائلا O
@@ -33166,7 +33166,7 @@ motion I-MISC
 السنوية O
 التي O
 تمنحها O
-أكاديمية O
+أكاديمية O REVISIT
 الفيلم O
 الهندي O
 تعتبر O
@@ -33187,7 +33187,7 @@ motion I-MISC
 مثل O
 فيلم O
 " O
-العروس O
+العروس O REVISIT
 والتعصب O
 " O
 وهو O
@@ -33276,7 +33276,7 @@ motion I-MISC
 مسح O
 أجراه O
 موقع O
-الإذاعة O
+الإذاعة O REVISIT
 البريطانية O
 على O
 الإنترنت O
@@ -33322,7 +33322,7 @@ motion I-MISC
 كسفير O
 لحسن O
 النوايا O
-لصندوق O
+لصندوق O REVISIT
 الأمم B-ORG
 المتحدة I-ORG
 لرعاية O
@@ -33355,7 +33355,7 @@ motion I-MISC
 ترشيح O
 فيلمي O
 " O
-الهند O
+الهند O REVISIT
 الأم O
 " O
 و O
@@ -33368,7 +33368,7 @@ motion I-MISC
 في O
 العالم O
 . O
-
+ARTICLE
 الألفية O
 الثامنة O
 ق.م. O
@@ -33411,7 +33411,7 @@ motion I-MISC
 وفخار O
 من O
 جنوب O
-بلاد O
+بلاد O REVISIT
 الرافدين O
 . O
 
@@ -33461,7 +33461,7 @@ motion I-MISC
 علي O
 إتصال O
 بحضارات O
-بلاد O
+بلاد O REVISIT
 الرفدين O
 ووادي B-LOC
 الهندوس I-LOC
@@ -33556,7 +33556,7 @@ motion I-MISC
 طراز O
 عبيد O
 من O
-بلاد O
+بلاد O REVISIT
 الرافدين O
 مرسوم O
 , O
@@ -33615,7 +33615,7 @@ motion I-MISC
 والماعز O
 مابين O
 سنتي O
-4000ق.م. O
+4000ق.م. O REVISIT
 و3000 O
 ق.م. O
 وكان O
@@ -33640,14 +33640,14 @@ motion I-MISC
 صغيرة O
 من O
 الحجر O
-الجيري B-MISC
+الجيري O
 تشبه O
 ماكان O
 يصنع O
 في O
-بلاد O
-الرافدين O
-ورأس O
+بلاد O REVISIT
+الرافدين O REVISIT
+ورأس O 
 ثور O
 من O
 النحاس O
@@ -33655,10 +33655,10 @@ motion I-MISC
 منقوشة O
 في O
 موقع O
-تاروتومصنوعة O
+تاروتومصنوعة O REVISIT
 من O
 مادة O
-الكلوريت B-MISC
+الكلوريت B-MISC REVISIT
 . O
 
 وفي O
@@ -33669,7 +33669,7 @@ motion I-MISC
 بالمئات O
 ترجع O
 لسنتي O
-2400ق.م. O
+2400ق.م. O REVISIT
 و1700 O
 ق.م. O
 بالعصر O
@@ -33695,13 +33695,13 @@ motion I-MISC
 
 وخلال O
 سنتي O
-2200ق.م. O
+2200ق.م. O REVISIT
 1800 O
 ق.م. O
 إزدهرت O
 التجارة O
 بين O
-بلاد O
+بلاد O REVISIT
 الرافدين O
 والهند B-LOC
 عبر O
@@ -33755,7 +33755,7 @@ motion I-MISC
 الخليجية O
 الفارسية O
 بأختام O
-دلمون B-LOC
+دلمون B-LOC REVISIT
 وكان O
 نتوؤها O
 أقل O
@@ -33767,7 +33767,7 @@ motion I-MISC
 . O
 
 يشير O
-سفر O
+سفر O REVISIT
 التكوين O
 بالعهد O
 القديم O
@@ -33794,7 +33794,7 @@ motion I-MISC
 تلد O
 لك O
 إبنا O
-وتدعوإسمه O
+وتدعوإسمه O REVISIT
 إسحق B-PERS
 . O
 
@@ -33841,7 +33841,7 @@ motion I-MISC
 وعد O
 نبيه O
 إبراهيم B-PERS
-الخليل O
+الخليل O REVISIT
 بأن O
 إبنه O
 إسماعيل B-PERS
@@ -33858,7 +33858,7 @@ motion I-MISC
 أرض O
 مكة B-LOC
 التي O
-هاجرإليها O
+هاجرإليها O REVISIT
 معه O
 ومع O
 أمه O
@@ -33868,7 +33868,7 @@ motion I-MISC
 ولقد O
 بينت O
 سيرة O
-الخليل O
+الخليل O REVISIT
 بلغوا O
 بئر O
 سبع O
@@ -33893,9 +33893,9 @@ motion I-MISC
 قائلا O
 ( O
 لقد O
-أسنت O
+أسكنت O
 من O
-ريتي O
+ذريتي O
 بأرض O
 غير O
 ذي O
@@ -33962,7 +33962,7 @@ motion I-MISC
 والتخمين O
 . O
 لكن O
-مانعرفه O
+مانعرفه O REVISIT
 نصا O
 قرآنيا O
 أن O
@@ -34200,7 +34200,7 @@ motion I-MISC
 الدلتا B-LOC
 بشمال O
 مصر B-LOC
-عام2000ق.م. O
+عام2000ق.م. O REVISIT
 وقد O
 تفرع O
 منهم O
@@ -34211,7 +34211,7 @@ motion I-MISC
 ) O
 والعمونينون O
 وأهل O
-مدين O
+مدين O REVISIT
 بسيناء B-LOC
 أصهار O
 سيدنا O
@@ -34343,7 +34343,7 @@ motion I-MISC
 قرون O
 حتي O
 غزاها O
-الفرس B-ORG
+الفرس B-ORG REVISIT
 الساسانيين I-ORG
 وضموها O
 لهم O
@@ -34377,7 +34377,7 @@ motion I-MISC
 لهذا O
 لم O
 يستطع O
-الفرس B-ORG
+الفرس B-ORG REVISIT
 غزوها O
 إى O
 بعض O
@@ -34412,7 +34412,7 @@ motion I-MISC
 العراق B-LOC
 كان O
 ولاؤها O
-للفرس B-ORG
+للفرس B-ORG REVISIT
 . O
 
 وكانت O
@@ -34434,7 +34434,7 @@ motion I-MISC
 وفلسطين B-LOC
 وكان O
 ولاؤها O
-للروم B-ORG
+للروم B-ORG REVISIT
 . O
 
 وكانت O
@@ -34475,11 +34475,11 @@ motion I-MISC
 الرحلات O
 كان O
 يكتنفها O
-المخاطرولاسيما O
+المخاطرولاسيما O REVISIT
 وأنها O
 تمر O
 بأراض O
-مضر O
+مضر O REVISIT
 أو O
 حضر O
 . O
@@ -34487,7 +34487,7 @@ motion I-MISC
 وكنت O
 القبائل O
 الرعوية O
-بالجزيرة B-LOC
+بالجزيرة B-LOC REVISIT
 ترحل O
 بقطعانها O
 وراء O
@@ -34573,7 +34573,7 @@ motion I-MISC
 وهي O
 : O
 - O
-بلاد O
+بلاد O REVISIT
 الحجر O
 العربية O
 وتقع O
@@ -34600,7 +34600,7 @@ motion I-MISC
 
 - O
 وكانت O
-بلاد O
+بلاد O REVISIT
 العرب O
 السعيدة O
 . O
@@ -34622,10 +34622,10 @@ motion I-MISC
 لهذا O
 نجد O
 هذه O
-البلاد O
+البلاد O REVISIT
 السعيدة O
 تضم O
-البادية O
+البادية O REVISIT
 الكبري O
 بالشام B-LOC
 علي O
@@ -34649,7 +34649,7 @@ motion I-MISC
 كثيرا O
 ما O
 يغدرون O
-بهذوالأقليم O
+بهذوالأقليم O REVISIT
 الثالث O
 يضم O
 بقية O
@@ -34663,9 +34663,9 @@ motion I-MISC
 التي O
 تقع O
 علي O
-البر O
+البحر O REVISIT
 الأحمر O
-وباب O
+وباب O REVISIT
 المندب O
 والمحيط B-LOC
 الهندي I-LOC
@@ -34691,7 +34691,7 @@ motion I-MISC
 الحجاز B-LOC
 تضم O
 المناطق O
-الجبليةوالرملية O
+الجبليةوالرملية O REVISIT
 الوعرة O
 وساحل O
 شرق O
@@ -34742,7 +34742,7 @@ motion I-MISC
 الخليج B-LOC
 الفارسي I-LOC
 ( O
-العربي O
+العربي O REVISIT
 ( O
 . O
 
@@ -34752,7 +34752,7 @@ motion I-MISC
 العربية I-LOC
 تقع O
 هضبة O
-نجد O
+نجد O REVISIT
 الخصبة O
 . O
 وكان O
@@ -34778,7 +34778,7 @@ motion I-MISC
 التام O
 . O
 وكانت O
-غيرموحدة O
+غيرموحدة O REVISIT
 في O
 كيان O
 سياسي O
@@ -34822,7 +34822,7 @@ motion I-MISC
 الإخوة O
 الإسلامية O
 حيث O
-ذابن O
+ذابت O
 هذه O
 القبائل O
 في O
@@ -34837,7 +34837,7 @@ motion I-MISC
 ذي O
 زرع O
 عند O
-البيت B-MISC
+البيت B-MISC REVISIT
 المحرم B-MISC
 . O
 
@@ -34946,7 +34946,7 @@ motion I-MISC
 جنوب O
 العراق B-LOC
 ليصل O
-لبلاد O
+لبلاد O REVISIT
 الرافدين O
 شمالا O
 ليعرج O
@@ -35003,7 +35003,7 @@ motion I-MISC
 رزق O
 لهم O
 ولاسيما O
-وـن O
+وـن O REVISIT
 أرضهم O
 لم O
 تكن O
@@ -35071,7 +35071,7 @@ motion I-MISC
 والمكانة O
 تقيم O
 بعدد O
-عيرالشخص O
+عيرالشخص O REVISIT
 بالقافلة O
 المتجهة O
 شرقا O
@@ -35243,7 +35243,7 @@ motion I-MISC
 وتدبر O
 أمر O
 القبيل O
-ة O
+ة O REVISIT
 . O
 
 وكانت O
@@ -35262,7 +35262,7 @@ motion I-MISC
 . O
 
 إلا O
-أم O
+أم O REVISIT
 ، O
 هذه O
 العهود O
@@ -35281,7 +35281,7 @@ motion I-MISC
 خيام O
 أعدائها O
 وتسبي O
-نساءهموأطفالهم O
+نساءهموأطفالهم O REVISIT
 وشيوخهم O
 ببربرية O
 ووحشية O
@@ -35362,7 +35362,7 @@ motion I-MISC
 مما O
 جعلها O
 قبائل O
-شتيمنازلها O
+شتيمنازلها O REVISIT
 وضروبها O
 . O
 ولم O
@@ -35382,7 +35382,7 @@ motion I-MISC
 . O
 وكان O
 لوجود O
-البيت B-MISC
+البيت B-MISC REVISIT
 الحرام I-MISC
 بمكة B-LOC
 له O
@@ -35445,7 +35445,7 @@ motion I-MISC
 شرف O
 وقد O
 أصيحت O
-الكعبة B-MISC
+الكعبة B-MISC REVISIT
 فيهم O
 . O
 
@@ -35464,7 +35464,7 @@ motion I-MISC
 علقوها O
 فوق O
 ستر O
-الكعبة B-MISC
+الكعبة B-MISC REVISIT
 . O
 
 وهذه O
@@ -35522,12 +35522,12 @@ motion I-MISC
 أي O
 القبائل O
 تضع O
-الحجر B-MISC
+الحجر B-MISC REVISIT
 الأسود I-MISC
 في O
 مكانه O
 بجدار O
-الكعبة B-MISC
+الكعبة B-MISC REVISIT
 التي O
 كانت O
 مشرفة O
@@ -35577,7 +35577,7 @@ motion I-MISC
 فوقه O
 الحجر B-MISC
 الأسود I-MISC
-زطلب O
+زطلب O REVISIT
 منهم O
 مجتمعين O
 لحمله O
@@ -35608,7 +35608,7 @@ motion I-MISC
 وقبلوه O
 . O
 لأن O
-اغلرسول O
+الرسول O
 كان O
 فيهم O
 أرجح O
@@ -35708,7 +35708,7 @@ motion I-MISC
 . O
 
 وهذا O
-ماجعل O
+ماجعل O REVISIT
 السيدة O
 خديجة B-PERS
 وهي O
@@ -35742,10 +35742,10 @@ motion I-MISC
 التاجر O
 الأمين O
 . O
-
+ARTICLE
 عمان B-LOC
 - O
-البلقاء B-ORG
+البلقاء B-LOC
 - O
 فيصل B-PERS
 ملكاوي I-PERS
@@ -35782,7 +35782,7 @@ motion I-MISC
 بالكامل O
 في O
 حريق O
-المسجد B-MISC
+المسجد B-MISC REVISIT
 الاقصى I-MISC
 عام O
 1969 O
@@ -35875,7 +35875,7 @@ motion I-MISC
 العمل O
 بإعادة O
 منبر O
-المسجد B-MISC
+المسجد B-MISC REVISIT
 الأقصى I-MISC
 عام O
 2002 O
@@ -36023,10 +36023,10 @@ motion I-MISC
 أكد O
 نائب O
 رئيس O
-اللجنة O
+اللجنة O REVISIT
 الملكية O
 لاعمار O
-المسجد B-MISC
+المسجد B-MISC REVISIT
 الاقصى I-MISC
 المبارك O
 الدكتور O
@@ -36040,7 +36040,7 @@ motion I-MISC
 القدس B-LOC
 ويركب O
 في O
-المسجد B-MISC
+المسجد B-MISC REVISIT
 الاقصى I-MISC
 . O
 
@@ -36052,7 +36052,7 @@ motion I-MISC
 بمليون O
 و200 O
 ألف O
-دينار O
+دينار O REVISIT
 بتمويل O
 شخصي O
 من O
@@ -36219,7 +36219,7 @@ motion I-MISC
 جمعت O
 جلالته O
 في O
-الديوان O
+الديوان O REVISIT
 الملكي O
 الهاشمي O
 مع O
@@ -36248,7 +36248,7 @@ motion I-MISC
 التصدي O
 لها O
 . O
-
+ARTICLE
 أمرت O
 قاضية O
 أميركية O
@@ -36298,7 +36298,7 @@ motion I-MISC
 بدعوى O
 رفعتها O
 أمام O
-محكمة O
+محكمة O REVISIT
 ديترويت B-ORG
 الفدرالية O
 ( O
@@ -36313,7 +36313,7 @@ motion I-MISC
 الحريات O
 المدنية O
 ضد O
-الوكالة O
+الوكالة O REVISIT
 الأميركية O
 للاستخبارات O
 الإلكترونية O
@@ -36376,7 +36376,7 @@ motion I-MISC
 مرحلة O
 لاحقة O
 أمام O
-المحكمة O
+المحكمة O REVISIT
 العليا O
 وذلك O
 في O
@@ -36384,7 +36384,7 @@ motion I-MISC
 التوتر O
 القائم O
 بين O
-البيت B-MISC
+البيت B-MISC REVISIT
 الأبيض I-MISC
 والمؤسسة O
 القضائية O
@@ -36510,13 +36510,13 @@ motion I-MISC
 تتعاون O
 مع O
 برنامج O
-وكالة O
+وكالة O REVISIT
 الاستخبارات O
 الإلكترونية O
 . O
 
 مددت O
-محكمة O
+محكمة O REVISIT
 معتقل O
 عوفر O
 العسكرية O
@@ -36712,7 +36712,7 @@ motion I-MISC
 في O
 غزة B-LOC
 . O
-
+ARTICLE
 الرئيس O
 عباس B-PERS
 يتحدث O
@@ -36723,7 +36723,7 @@ motion I-MISC
 عملية O
 السلام O
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 - O
 أرشيف O
 ) O
@@ -36768,7 +36768,7 @@ motion I-MISC
 دفعة O
 من O
 عناصر O
-الحرس O
+الحرس O REVISIT
 الرئاسي O
 الخاص O
 بغزة B-LOC
@@ -36777,7 +36777,7 @@ motion I-MISC
 مع O
 الإخوة O
 في O
-المجموعة O
+المجموعة O REVISIT
 العربية O
 والجامعة B-ORG
 العربية I-ORG
@@ -36881,7 +36881,7 @@ motion I-MISC
 مسؤولياته O
 " O
 . O
-
+ARTICLE
 الاحتلال O
 الإسرائيلي O
 يواصل O
@@ -36909,7 +36909,7 @@ motion I-MISC
 الاحتلال O
 الإسرائيلي O
 شرق O
-مخيم O
+مخيم O REVISIT
 البريج B-LOC
 جنوب O
 مدينة O
@@ -37029,7 +37029,7 @@ motion I-MISC
 مخيم O
 المدينة O
 . O
-
+ARTICLE
 قتل O
 عشرات O
 العراقيين O
@@ -37066,7 +37066,7 @@ motion I-MISC
 الوزراء O
 نوري B-PERS
 المالكي I-PERS
-إنسبعةعراقيين O
+إنسبعةعراقيين O REVISIT
 قتلوا O
 في O
 انفجار O
@@ -37105,7 +37105,7 @@ motion I-MISC
 انفجار O
 سيارة O
 قرب O
-جامع O
+جامع O REVISIT
 الرحمن B-MISC
 . O
 
@@ -37176,7 +37176,7 @@ motion I-MISC
 
 وقتل O
 في O
-المقدادية O
+المقدادية O REVISIT
 شمال O
 شرق O
 بعقوبة B-LOC
@@ -37192,7 +37192,7 @@ motion I-MISC
 بالشرطة O
 بسقوط O
 قذيفتي O
-هاون B-MISC
+هاون B-MISC REVISIT
 وانفجار O
 عبوة O
 ناسفة O
@@ -37208,10 +37208,10 @@ motion I-MISC
 وأتباع O
 المرجع O
 الشيعي O
-الحسني O
+الحسني O REVISIT
 بكربلاء B-LOC
 ( O
-الأوروبية O
+الأوروبية O REVISIT
 ) O
 كما O
 عثرت O
@@ -37224,7 +37224,7 @@ motion I-MISC
 الهوية O
 بالقرب O
 من O
-نهر O
+نهر O REVISIT
 مهروت B-LOC
 مصابتين O
 بطلقات O
@@ -37310,7 +37310,7 @@ motion I-MISC
 مجهولة O
 الهوية O
 من O
-نهر O
+نهر O REVISIT
 دجلة B-LOC
 اثنتان O
 منها O
@@ -37346,7 +37346,7 @@ motion I-MISC
 ) O
 مرورا O
 بمنطقة O
-المدائن O
+المدائن O REVISIT
 التي O
 شهدت O
 أعمال O
@@ -37357,7 +37357,7 @@ motion I-MISC
 
 وفي O
 قضاء O
-المسيب O
+المسيب O REVISIT
 جنوب O
 بغداد B-LOC
 اعتقلت O
@@ -37565,7 +37565,7 @@ motion I-MISC
 من O
 مقتل O
 زعيم O
-تنظيم O
+تنظيم O REVISIT
 القاعدة O
 في O
 العراق B-LOC
@@ -37591,7 +37591,7 @@ motion I-MISC
 وفقا O
 للإحصائيات O
 الرسمية O
-للجيش O
+للجيش O REVISIT
 الأميركي O
 , O
 إضافة O
@@ -37615,7 +37615,7 @@ motion I-MISC
 
 مسؤول O
 بارز O
-بوزارة O
+بوزارة O REVISIT
 الدفاع O
 الأميركية O
 ـالبنتاغون B-ORG
@@ -37664,7 +37664,7 @@ motion I-MISC
 الإصابات O
 في O
 صفوف O
-الجيش O
+الجيش O REVISIT
 الأميركي O
 من O
 287 O
@@ -37677,7 +37677,7 @@ motion I-MISC
 الرسمية O
 المعلنة O
 . O
-
+ARTICLE
 عرقلت O
 القيود O
 الأمنية O
@@ -37805,7 +37805,7 @@ motion I-MISC
 وبحسب O
 الصحيفة O
 فإن O
-شركة O
+شركة O REVISIT
 طيران O
 ريان B-ORG
 إير I-ORG
@@ -37849,9 +37849,9 @@ motion I-MISC
 عملية O
 بالمطارات O
 . O
-
+ARTICLE
 رفعت O
-مؤسسة O
+مؤسسة O REVISIT
 " O
 فيتش B-ORG
 ريتنغز I-ORG
@@ -38000,7 +38000,7 @@ A O
 . O
 
 وقال O
-مكتب O
+مكتب O REVISIT
 الإحصاء O
 الوطني O
 إن O
@@ -38126,9 +38126,9 @@ A O
 عشر O
 الماضية O
 . O
-
+ARTICLE
 يخوض O
-منتخب O
+منتخب O REVISIT
 الكويت B-LOC
 مباراة O
 صعبة O
@@ -38164,7 +38164,7 @@ A O
 . O
 
 واستعد O
-المنتخب O
+المنتخب O REVISIT
 الكويتي O
 للمباراة O
 من O
@@ -38226,7 +38226,7 @@ A O
 حول O
 مصير O
 مدرب O
-المنتخب O
+المنتخب O REVISIT
 الروماني O
 ميهاي B-ORG
 ستويكيتا I-ORG
@@ -38235,7 +38235,7 @@ A O
 به O
 إلا O
 أن O
-الاتحاد O
+الاتحاد O REVISIT
 الكويتي O
 وبعد O
 عدة O
@@ -38261,7 +38261,7 @@ A O
 وإيابا O
 ، O
 وقرر O
-الاتحاد O
+الاتحاد O REVISIT
 الكويتي O
 أيضا O
 تعيين O
@@ -38283,7 +38283,7 @@ A O
 جمال B-PERS
 يعقوب I-PERS
 أن O
-المنتخب O
+المنتخب O REVISIT
 الكويتي O
 بات O
 جاهزا O
@@ -38332,7 +38332,7 @@ A O
 المجموعة O
 الرابعة O
 أيضا O
-المنتخب O
+المنتخب O REVISIT
 البحريني O
 الذي O
 كان O
@@ -38401,7 +38401,7 @@ A O
 جدير O
 بالذكر O
 أن O
-المنتخب O
+المنتخب O REVISIT
 الأسترالي O
 يخوض O
 التصفيات O
@@ -38427,7 +38427,7 @@ A O
 البرازيلية O
 أن O
 مدرب O
-منتخب O
+منتخب O REVISIT
 " O
 السامبا B-MISC
 " O
@@ -38441,7 +38441,7 @@ A O
 مهام O
 الإشراف O
 على O
-منتخب O
+منتخب O REVISIT
 جنوب O
 أفريقيا B-LOC
 التي O
@@ -38465,12 +38465,12 @@ A O
 مرات O
 بعد O
 إخفاق O
-مونديال O
+مونديال O REVISIT
 ألمانيا B-LOC
 . O
 
 وذكرت O
-صحيفة O
+صحيفة O REVISIT
 " O
 لانس B-ORG
 " O
@@ -38492,19 +38492,19 @@ A O
 المدرب O
 البرازيلي O
 على O
-المنتخب O
+المنتخب O REVISIT
 الأفريقي O
 . O
 
 وأبدى O
-الاتحاد O
+الاتحاد O REVISIT
 الجنوب O
 أفريقي O
 رغبته O
 في O
 التعاقد O
 مع O
-باريرا B-ORG
+باريرا B-PERS
 عقب O
 خروج O
 البرازيل B-LOC
@@ -38512,7 +38512,7 @@ A O
 الدور O
 ربع O
 النهائي O
-لمونديال O
+لمونديال O REVISIT
 ألمانيا B-LOC
 بخسارتها O
 أمام O
@@ -38563,14 +38563,14 @@ A O
 5 O
 مونديالات O
 مع O
-منتخبات O
+منتخبات O REVISIT
 البرازيل B-LOC
 ( O
 1994 O
 حين O
 أحرز O
 اللقب O
-و2006 O
+و2006 O REVISIT
 ) O
 والكويت B-LOC
 ( O
@@ -38712,7 +38712,7 @@ A O
 الأحد O
 المقبل O
 . O
-
+ARTICLE
 أعرب O
 قائد O
 منتخب O
@@ -38743,7 +38743,7 @@ A O
 مقابل O
 30 O
 مليون O
-جنيه O
+جنيه O REVISIT
 إسترليني O
 ، O
 " O
@@ -38889,7 +38889,7 @@ A O
 نفسه O
 " O
 . O
-
+ARTICLE
 لندن B-LOC
 : O
 محمد B-PERS
@@ -38902,7 +38902,7 @@ A O
 الاسلام O
 ضمن O
 الانتحاريين O
-الـ24 O
+الـ24 O REVISIT
 الذين O
 اعتقلتهم O
 السلطات O
@@ -39028,7 +39028,7 @@ A O
 . O
 
 وتتخوف O
-الشرطة O
+الشرطة O REVISIT
 البريطانية O
 من O
 تطرف O
@@ -39102,7 +39102,7 @@ A O
 المتهم O
 الوحيد O
 في O
-هجمات O
+هجمات O REVISIT
 سبتمبر O
 ، O
 الذي O
@@ -39114,7 +39114,7 @@ A O
 مدى O
 الحياة O
 في O
-سجن O
+سجن O REVISIT
 سوبر B-ORG
 ماكس I-ORG
 بولاية O
@@ -39123,7 +39123,7 @@ A O
 . O
 
 وتتخوف O
-شرطة O
+شرطة O REVISIT
 اسكوتلنديارد B-LOC
 من O
 نموذج O
@@ -39286,13 +39286,13 @@ A O
 » O
 و O
 « O
-المهاجرون O
+المهاجرون O REVISIT
 » O
 خلال O
 سنوات O
 دراسته O
 في O
-جامعة O
+جامعة O REVISIT
 ليدز B-ORG
 الى O
 السيطرة O
@@ -39304,10 +39304,10 @@ A O
 
 وقالت O
 الصحيفة O
-ان B-ORG
-دون I-ORG
-ستيواات I-ORG
-وايت I-ORG
+ان O
+دون P-PERS
+ستيواات I-PERS
+وايت I-PERS
 المعتقل O
 في O
 قضية O
@@ -39350,7 +39350,7 @@ A O
 نجل O
 سياسي O
 من O
-حزب O
+حزب O REVISIT
 المحافظين O
 البريطاني O
 . O
@@ -39368,7 +39368,7 @@ A O
 ، O
 الباحث O
 في O
-مركز O
+مركز O REVISIT
 دراسات O
 الاسلام B-MISC
 في O
@@ -39389,7 +39389,7 @@ A O
 المدير O
 العام O
 السابق O
-لهيئة O
+لهيئة O REVISIT
 الاذاعة O
 البريطانية O
 « O
@@ -39435,7 +39435,7 @@ A O
 على O
 الدكتوراه O
 من O
-جامعة O
+جامعة O REVISIT
 اوكسفورد B-ORG
 دراسة O
 حول O
@@ -39549,7 +39549,7 @@ A O
 خلال O
 دراسته O
 في O
-جامعة O
+جامعة O REVISIT
 اوكسفورد B-ORG
 . O
 
@@ -39574,7 +39574,7 @@ A O
 البريطاني O
 الذين O
 اعتنقوا O
-الدين O
+الدين O REVISIT
 الاسلامي O
 ، O
 ولكنهم O
@@ -39697,7 +39697,7 @@ A O
 المصري I-PERS
 في O
 قيادة O
-جماعة O
+جماعة O REVISIT
 « O
 انصار B-ORG
 الشريعة I-ORG
@@ -39723,7 +39723,7 @@ A O
 عقوبة O
 الحبس O
 في O
-سجن O
+سجن O REVISIT
 بيل B-ORG
 مارش I-ORG
 لمدة O
@@ -39850,9 +39850,9 @@ A O
 ، O
 والذي O
 داهمته O
-شرطة O
+شرطة O REVISIT
 اسكوتلنديارد B-LOC
-والمخابرات O
+والمخابرات O REVISIT
 البريطانية O
 في O
 يناير O
@@ -40070,7 +40070,7 @@ A O
 وينفي O
 ان O
 تكون O
-الشرطة O
+الشرطة O REVISIT
 البريطانية O
 قد O
 اعتقلته O
@@ -40113,7 +40113,7 @@ A O
 دم O
 عندما O
 داهمت O
-الشرطة O
+الشرطة O REVISIT
 البريطانية O
 مسجد O
 فنسبري B-ORG
@@ -40150,7 +40150,7 @@ A O
 يخفيه O
 حتى O
 تعتقله O
-الشرطة O
+الشرطة O REVISIT
 البريطانية O
 ، O
 « O
@@ -40188,8 +40188,8 @@ A O
 السيطرة O
 على O
 منبر O
-مسجد O
-فنسبري B-ORG
+مسجد O REVISIT
+فنسبري B-ORG REVISIT REVISIT
 بارك I-ORG
 شمال O
 لندن B-LOC
@@ -40214,7 +40214,7 @@ A O
 اعتدالا O
 من O
 « O
-انصار O
+انصار O REVISIT
 الشريعة O
 » O
 . O
@@ -40225,7 +40225,7 @@ A O
 الله I-PERS
 ان O
 « O
-انصار O
+انصار O REVISIT
 الشريعة O
 ليس O
 لها O
@@ -40421,7 +40421,7 @@ A O
 يسمع O
 الان O
 سوى O
-القرآن B-MISC
+القرآن B-MISC REVISIT
 الكريم O
 وبعض O
 الأناشيد O
@@ -40482,7 +40482,7 @@ A O
 خالد B-PERS
 كيلي I-PERS
 مسؤول O
-جماعة O
+جماعة O REVISIT
 « O
 المهاجرون O
 » O
@@ -40498,7 +40498,7 @@ A O
 في O
 السعودية B-LOC
 في O
-سجن O
+سجن O REVISIT
 الحائر B-ORG
 اثناء O
 قضائه O
@@ -40617,7 +40617,7 @@ A O
 جاهز O
 من O
 اعداد O
-الشرطة O
+الشرطة O REVISIT
 البريطانية O
 » O
 . O
@@ -40808,7 +40808,7 @@ A O
 لندن B-LOC
 ، O
 وهو O
-مستشفى O
+مستشفى O REVISIT
 « O
 سانت B-ORG
 توماس I-ORG
@@ -40862,7 +40862,7 @@ A O
 عمر B-PERS
 بكري I-PERS
 زعيم O
-حركة O
+حركة O REVISIT
 « O
 المهاجرون O
 » O
@@ -40940,7 +40940,7 @@ A O
 فيها O
 كممرض O
 في O
-مستشفى O
+مستشفى O REVISIT
 الملك B-ORG
 فيصل I-ORG
 التخصصي O
@@ -40951,7 +40951,7 @@ A O
 الدين O
 الحنيف O
 في O
-سجن O
+سجن O REVISIT
 الحائر O
 بالسعودية B-LOC
 عام O
@@ -41079,7 +41079,7 @@ A O
 قرأت O
 القرآن B-MISC
 في O
-سجن O
+سجن O REVISIT
 الحائر B-ORG
 بالرياض B-LOC
 عام O
@@ -41330,7 +41330,7 @@ A O
 نحو O
 التطرف O
 . O
-
+ARTICLE
 بيروت B-LOC
 : O
 سمير B-PERS
@@ -41449,7 +41449,7 @@ A O
 
 * O
 يجيب O
-كتاب O
+كتاب O REVISIT
 « O
 روسيا B-LOC
 بوتين B-PERS
@@ -41519,7 +41519,7 @@ A O
 الديمقراطي O
 المنتخب O
 وبين O
-القيصر B-PERS
+القيصر O
 الذي O
 يقود O
 دولة O
@@ -41553,7 +41553,7 @@ A O
 غادر O
 بوريس B-PERS
 يلتسين I-PERS
-الكرملين B-ORG
+الكرملين B-ORG REVISIT
 الذي O
 كان O
 غائباً O
@@ -41613,7 +41613,7 @@ A O
 صراع O
 مرير O
 في O
-الكرملين B-ORG
+الكرملين B-ORG REVISIT
 بين O
 الطامحين O
 لوراثته O
@@ -41726,7 +41726,7 @@ A O
 العام O
 1998 O
 تآكلت O
-الدولة O
+الدولة O REVISIT
 الروسية O
 وفقدت O
 سلطتها O
@@ -41782,7 +41782,7 @@ A O
 كان O
 المتعاقبون O
 على O
-الكرملين B-ORG
+الكرملين B-ORG REVISIT
 شأنهم O
 شأن O
 يلتسين B-PERS
@@ -41827,7 +41827,7 @@ A O
 عينه O
 يلتسين B-PERS
 رئيساً O
-لجهاز O
+لجهاز O REVISIT
 الأمن O
 الفيدرالي O
 في O
@@ -41855,7 +41855,7 @@ A O
 . O
 
 سمحت O
-الحرب O
+الحرب O REVISIT
 الشيشانية O
 لبوتين B-PERS
 بأن O
@@ -41936,7 +41936,7 @@ A O
 ووضع O
 حد O
 لتقلب O
-الكرملين B-ORG
+الكرملين B-ORG REVISIT
 . O
 
 في O
@@ -42168,7 +42168,7 @@ A O
 لكن O
 في O
 صيف O
-العام2000 O
+العام2000 O REVISIT
 تبددت O
 كل O
 الشكوك O
@@ -42300,7 +42300,7 @@ A O
 في O
 العراق B-LOC
 وفضائح O
-سجن O
+سجن O REVISIT
 أبو B-ORG
 غريب I-ORG
 وإساءات O
@@ -42344,7 +42344,7 @@ A O
 البرودة O
 ، O
 لكن O
-الكرملين B-ORG
+الكرملين B-ORG REVISIT
 حاول O
 تجنب O
 تسبب O
@@ -42382,7 +42382,7 @@ A O
 يمكن O
 أن O
 يهدد O
-استقرارالقوقاز O
+استقرارالقوقاز O REVISIT
 وآسيا B-LOC
 الوسطى I-LOC
 لذلك O
@@ -42603,7 +42603,7 @@ A O
 أميركا B-LOC
 آخذاً O
 بنظر O
-الاعتبارالفارق O
+الاعتبارالفارق O REVISIT
 في O
 الوزن O
 بين O
@@ -42720,7 +42720,7 @@ A O
 تتوقعه O
 السلطات O
 . O
-
+ARTICLE
 لندن B-LOC
 : O
 علي B-PERS
@@ -42833,7 +42833,7 @@ A O
 حماس B-ORG
 » O
 في O
-المجلس O
+المجلس O REVISIT
 الشريعي O
 قال O
 ل O
@@ -42862,7 +42862,7 @@ A O
 المهنا I-PERS
 ، O
 عضو O
-المكتب O
+المكتب O REVISIT
 السياسي O
 ل O
 ـ O
@@ -42960,7 +42960,7 @@ A O
 التحرش O
 الجنسي O
 . O
-
+ARTICLE
 بعد O
 مواسم O
 طويلة O
@@ -42972,7 +42972,7 @@ A O
 فيضانات O
 مدمرة, O
 أودت O
-بحياة626 O
+بحياة626 O REVISIT
 شخصا, O
 مع O
 توقعات O
@@ -43014,7 +43014,7 @@ A O
 قاله O
 متحدث O
 باسم O
-الشرطة O
+الشرطة O REVISIT
 الإثيوبية O
 , O
 الذي O
@@ -43092,7 +43092,7 @@ A O
 إبنيزر B-PERS
 نجوي I-PERS
 مدير O
-برنامج O
+برنامج O REVISIT
 الغذاء O
 العالمي O
 في O
@@ -43119,7 +43119,7 @@ A O
 ؛ O
 فقد O
 لقي O
-نحو364 O
+نحو364 O REVISIT
 شخصا O
 مصرعهم O
 بسبب O
@@ -43132,11 +43132,11 @@ A O
 شهد O
 الشرق O
 مصرع O
-نحو256 O
+نحو256 O REVISIT
 آخرين O
 , O
 كما O
-لقي6 O
+لقي6 O REVISIT
 آخرون O
 مصرعهم O
 في O
@@ -43145,7 +43145,7 @@ A O
 بينما O
 لا O
 يزال O
-نحو300 O
+نحو300 O REVISIT
 شخص O
 في O
 عداد O
@@ -43216,7 +43216,7 @@ A O
 وليس O
 في O
 النيل B-LOC
-الأزرق O
+الأزرق B-LOC
 . O
 
 وأشار O
@@ -43231,8 +43231,8 @@ A O
 المياه O
 في O
 النيل B-LOC
-الأزرق O
-بنحو800 O
+الأزرق I-LOC
+بنحو800 O REVISIT
 مليون O
 متر O
 مكعب O
@@ -43244,7 +43244,7 @@ A O
 التي O
 وصلت O
 إلي O
-السد O
+السد O REVISIT
 العالي O
 أمس O
 بلغت O
@@ -43269,7 +43269,7 @@ A O
 ومناسيب O
 المياه O
 في O
-بحيرة O
+بحيرة O REVISIT
 السد O
 العالي O
 أولا O
@@ -43278,7 +43278,7 @@ A O
 حيث O
 زادت O
 بالأمس O
-بنحو18 O
+بنحو18 O REVISIT
 سنتيمترا O
 , O
 وهو O
@@ -43315,13 +43315,13 @@ A O
 , O
 مما O
 اضطر O
-السلطات O
+السلطات O REVISIT
 المصرية O
 إلي O
 السحب O
 من O
 مخزون O
-بحيرة O
+بحيرة O REVISIT
 السد O
 , O
 وهو O
@@ -43354,7 +43354,7 @@ A O
 التي O
 تسقط O
 علي O
-هضبة O
+هضبة O REVISIT
 إثيوبيا B-LOC
 , O
 فإنه O
@@ -43409,10 +43409,10 @@ A O
 الأوضاع O
 هناك O
 . O
-
+ARTICLE
 مدريد B-LOC
 ـ O
-د O
+د O REVISIT
 ب O
 أ O
 : O
@@ -43422,7 +43422,7 @@ A O
 غرناطة B-LOC
 الاسبانية O
 فعاليات O
-معرض O
+معرض O REVISIT
 " O
 عين O
 الذاكرة O
@@ -43447,7 +43447,7 @@ A O
 1936 O
 مع O
 بداية O
-الحرب O
+الحرب O REVISIT
 الاهلية O
 الاسبانية O
 . O
@@ -43503,12 +43503,12 @@ A O
 وموسيقيا O
 وإنسانا O
 . O
-
+ARTICLE
 لندن B-LOC
 ، O
 القاهرة B-LOC
 - O
-د O
+د O REVISIT
 ب O
 أ O
 : O
@@ -43516,11 +43516,11 @@ A O
 وليد B-PERS
 جنبلاط I-PERS
 رئيس O
-كتلة O
+كتلة O REVISIT
 اللقاء O
 الديمقراطي O
 في O
-البرلمان O
+البرلمان O REVISIT
 اللبناني O
 إن O
 ما O
@@ -43557,7 +43557,7 @@ A O
 سياسي O
 على O
 دولة O
-اتفاق O
+اتفاق O REVISIT
 الطائف O
 " O
 الذي O
@@ -43614,7 +43614,7 @@ A O
 يعني O
 أن O
 دولة O
-الطائف O
+الطائف O REVISIT
 ليست O
 قوية O
 وغير O
@@ -43630,7 +43630,7 @@ A O
 انقلاب O
 على O
 دولة O
-الطائف O
+الطائف O REVISIT
 " O
 . O
 
@@ -43648,7 +43648,7 @@ A O
 التي O
 تعرف O
 باسم O
-قوى O
+قوى O REVISIT
 14 O
 آذار O
 بأنها O
@@ -43717,7 +43717,7 @@ A O
 المحور O
 العربي O
 ودولة O
-الطائف O
+الطائف O REVISIT
 " O
 . O
 
@@ -43814,7 +43814,7 @@ A O
 على O
 " O
 دولة O
-الطائف O
+الطائف O REVISIT
 " O
 . O
 
@@ -43859,7 +43859,7 @@ A O
 . O
 
 وكتبت O
-صحيفة O
+صحيفة O REVISIT
 " O
 المستقبل B-ORG
 " O
@@ -43889,7 +43889,7 @@ A O
 في O
 هجومه O
 على O
-قوى O
+قوى O REVISIT
 14 O
 اذار O
 التي O
@@ -43919,7 +43919,7 @@ A O
 . O
 
 ورات O
-صحيفة O
+صحيفة O REVISIT
 " O
 النهار B-ORG
 " O
@@ -43973,7 +43973,7 @@ A O
 ستثار O
 امام O
 رئيس O
-لجنة O
+لجنة O REVISIT
 التحقيق O
 الدولية O
 في O
@@ -43987,7 +43987,7 @@ A O
 . O
 
 وكتبت O
-صحيفة O
+صحيفة O REVISIT
 " O
 السفير B-ORG
 " O
@@ -44101,7 +44101,7 @@ A O
 الكلمة O
 التي O
 وجهها O
-نصرالله B-PERS
+نصرالله B-PERS REVISIT
 مساء O
 الاثنين O
 تميزت O
@@ -44116,10 +44116,10 @@ A O
 المخاطر O
 " O
 . O
-
+ARTICLE
 أنقرة B-LOC
 - O
-اف O
+اف O REVISIT
 ب O
 : O
 أرغمت O
@@ -44128,7 +44128,7 @@ A O
 طائرتي O
 شحن O
 تابعتين O
-لشركة O
+لشركة O REVISIT
 الخطوط B-ORG
 الجوية I-ORG
 الايرانية I-ORG
@@ -44154,14 +44154,14 @@ A O
 ، O
 كما O
 اعلنت O
-وزارة O
+وزارة O REVISIT
 الخارجية O
 التركية O
 أمس O
 . O
 
 وذكرت O
-صحيفة O
+صحيفة O REVISIT
 " O
 حرييت B-ORG
 " O
@@ -44174,7 +44174,7 @@ A O
 الي O
 الهبوط O
 في O
-مطار O
+مطار O REVISIT
 ديار O
 بكر O
 في O
@@ -44202,7 +44202,7 @@ A O
 وأكد O
 المتحدث O
 باسم O
-الخارجية O
+الخارجية O REVISIT
 التركية O
 ناميك B-PERS
 تان I-PERS
@@ -44470,7 +44470,7 @@ A O
 ، O
 إلا O
 أن O
-الحكومة O
+الحكومة O REVISIT
 اللبنانية O
 باختلاف O
 توجهاتها O
@@ -44509,10 +44509,10 @@ A O
 لبنان B-LOC
 إلي O
 جو O
-الحرب O
+الحرب O REVISIT
 الأهلية O
 . O
-
+ARTICLE
 نزار B-PERS
 توفيق I-PERS
 القباني I-PERS
@@ -44548,7 +44548,7 @@ A O
 و O
 ترعرع O
 في O
-حي O
+حي O REVISIT
 مئذنة O
 الشحم O
 أحد O
@@ -44646,7 +44646,7 @@ A O
 فعرض O
 قضية O
 المرأة O
-و O
+و O REVISIT
 العالم O
 العربي O
 في O
@@ -44676,11 +44676,11 @@ A O
 السياسة O
 والرفض O
 والمقاومة O
-؛ O
+؛ O REVISIT
 فكانت O
 قصيدته O
 " O
-هوامش O
+هوامش O REVISIT
 على O
 دفتر O
 النكسة O
@@ -44709,7 +44709,7 @@ A O
 كُلاّ O
 من O
 البساطة O
-و O
+و O REVISIT
 البلاغة O
 اللّتان O
 تميزان O
@@ -44793,7 +44793,7 @@ A O
 أول O
 دواوينه O
 " O
-قالت O
+قالت O REVISIT
 لي O
 السمراء O
 " O
@@ -44832,17 +44832,17 @@ A O
 قرن O
 أهمها O
 " O
-طفولة O
+طفولة O REVISIT
 نهد O
 ، O
-الرسم O
+الرسم O REVISIT
 بالكلمات O
 ، O
-قصائد O
+قصائد O REVISIT
 ، O
-سامبا O
+سامبا O REVISIT
 ، O
-أنت O
+أنت O REVISIT
 لي O
 " O
 . O
@@ -44856,16 +44856,16 @@ A O
 أهمها O
 : O
 " O
-قصتي O
+قصتي O REVISIT
 مع O
 الشعر O
 ، O
-ما O
+ما O REVISIT
 هو O
 الشعر O
 ، O
 100 O
-رسالة O
+رسالة O REVISIT
 حب O
 " O
 . O
@@ -44881,7 +44881,7 @@ A O
 تحمل O
 اسم O
 ( O
-المجموعة O
+المجموعة O REVISIT
 الكاملة O
 لنزار B-PERS
 قباني I-PERS
@@ -44894,7 +44894,7 @@ A O
 شهادة O
 البكالوريا O
 من O
-الكلية O
+الكلية O REVISIT
 العلمية O
 الوطنية O
 في O
@@ -44906,7 +44906,7 @@ A O
 العام O
 1945 O
 من O
-كلية O
+كلية O REVISIT
 الحقوق O
 في O
 الجامعة O
@@ -44918,7 +44918,7 @@ A O
 تخرجه O
 كدبلوماسي O
 في O
-وزارة O
+وزارة O REVISIT
 الخارجية O
 السورية O
 كسفير O
@@ -44951,7 +44951,7 @@ A O
 عُين O
 سكرتيراً O
 ثانياً O
-للجمهورية O
+للجمهورية O REVISIT
 المتحدة O
 في O
 سفارتها O
@@ -45015,11 +45015,11 @@ A O
 عاماً O
 بنوبة O
 قلبية O
-و O
+و O REVISIT
 هو O
 طالب O
 في O
-كلية O
+كلية O REVISIT
 الطب O
 في O
 القاهرة B-LOC
@@ -45077,7 +45077,7 @@ A O
 في O
 بيروت B-LOC
 أثناء O
-الحرب O
+الحرب O REVISIT
 اللبنانية O
 في O
 العام O
@@ -45175,7 +45175,7 @@ A O
 الجاه O
 هي O
 " O
-أسرة O
+أسرة O REVISIT
 آقبيق B-PERS
 " O
 و O
@@ -45229,7 +45229,7 @@ A O
 عن O
 أصل O
 كنية O
-آل O
+آل O REVISIT
 القباني B-PERS
 ( O
 آق O
@@ -45290,7 +45290,7 @@ AK-biyik O
 آق B-PERS
 بيق I-PERS
 دَده I-PERS
-dede O
+dede REVISIT
 AK-biyik O
 ، O
 كما O
@@ -45407,7 +45407,7 @@ AK-biyik O
 قباني I-PERS
 و O
 أسرته O
-آل O
+آل O REVISIT
 ( O
 آق B-PERS
 بيق I-PERS
@@ -45417,7 +45417,7 @@ AK-biyik O
 : O
 1 O
 - O
-الموسوعة O
+الموسوعة O REVISIT
 العربية O
 2001 O
 - O
@@ -45429,7 +45429,7 @@ CD O
 – O
 2 O
 - O
-كـ O
+كـ O REVISIT
 الأعلام O
 للزركلي B-PERS
 : O
@@ -45442,7 +45442,7 @@ CD O
 
 - O
 كـ O
-معجم O
+معجم O REVISIT
 الأسر O
 و O
 الأعلام O
@@ -45455,7 +45455,7 @@ CD O
 . O
 
 -كـ O
-دفاتر O
+دفاتر O REVISIT
 شامية O
 عتيقة O
 – O
@@ -45465,11 +45465,11 @@ CD O
 صـ O
 170 O
 و O
-193و O
+193و O REVISIT
 269 O
 ) O
 . O
-
+ARTICLE
 محمد B-PERS
 بنيس I-PERS
 شاعر O
@@ -45481,7 +45481,7 @@ CD O
 تابع O
 دراسته O
 العليا O
-بكلية O
+بكلية O REVISIT
 الآداب O
 والعلوم O
 الانسانية O
@@ -45507,7 +45507,7 @@ CD O
 الدراسات O
 العليا O
 من O
-كلية O
+كلية O REVISIT
 الأداب O
 والعلوم O
 الانسانية O
@@ -45562,7 +45562,7 @@ CD O
 تحمل O
 مسؤولية O
 رئيس O
-بيت O
+بيت O REVISIT
 الشعر O
 في O
 المغرب B-LOC
@@ -45608,7 +45608,7 @@ CD O
 للشعر O
 العربي O
 . O
-
+ARTICLE
 ميثاق O
 من O
 أجل O
@@ -45806,7 +45806,7 @@ CD O
 لا O
 هوادة O
 فيه O
-؛ O
+؛ O REVISIT
 فانتفض O
 وثار O
 انتفاضة O
@@ -45851,7 +45851,7 @@ CD O
 التحريرية O
 المعاصرة O
 على O
-الصعيدالعالمي O
+الصعيدالعالمي O REVISIT
 ، O
 تنطوي O
 على O
@@ -45889,7 +45889,7 @@ CD O
 الحركة O
 الوطنية O
 بقيادة O
-حزب O
+حزب O REVISIT
 الاستقلال O
 الذي O
 اقترن O
@@ -45985,7 +45985,7 @@ CD O
 مقدّس O
 ، O
 هو O
-ميثاق O
+ميثاق O REVISIT
 الحركة O
 الوطنية O
 التي O
@@ -46341,7 +46341,7 @@ CD O
 والتاريخية O
 والوطنية O
 . O
-
+ARTICLE
 سخط O
 ومعارضة O
 لقيادة O
@@ -46503,7 +46503,7 @@ CD O
 له O
 أحد O
 أعيان O
-قبيلة O
+قبيلة O REVISIT
 ركيبات B-LOC
 العيايشة I-LOC
 من O
@@ -46571,7 +46571,7 @@ CD O
 ذلك O
 ضد O
 زعيم O
-قبيلة O
+قبيلة O REVISIT
 ركيبات B-LOC
 الذي O
 تم O
@@ -46584,12 +46584,12 @@ CD O
 عنيفة O
 , O
 الى O
-مستشفى O
+مستشفى O REVISIT
 بتندوف B-LOC
 . O
 
 وسجل O
-حوالي40 O
+حوالي40 O REVISIT
 اعتقالا O
 في O
 صفوف O
@@ -46721,7 +46721,7 @@ CD O
 في O
 حقهم O
 . O
-
+ARTICLE
 تمكنت O
 الشرطة O
 القضائية O
@@ -46851,11 +46851,11 @@ CD O
 حسابات O
 بمبالغ O
 تتراوح O
-بين5 O
+بين5 O REVISIT
 . O
 
 000 O
-إلى8 O
+إلى8 O REVISIT
 . O
 000 O
 درهم B-MISC
@@ -46944,7 +46944,7 @@ CD O
 وذلك O
 في O
 شقة O
-بحي O
+بحي O REVISIT
 درادب B-LOC
 . O
 
@@ -46963,7 +46963,7 @@ CD O
 لدى O
 قاضي O
 التحقيق O
-بمحكمة O
+بمحكمة O REVISIT
 الاستئناف O
 بطنجة B-LOC
 بتهمة O
@@ -46978,7 +46978,7 @@ CD O
 الهجرة O
 السرية O
 . O
-
+ARTICLE
 الحرب O
 النووية O
 والكارثة O
@@ -47041,7 +47041,7 @@ CD O
 إلى O
 اللغة O
 الفرنسية O
-مجلة O
+مجلة O REVISIT
 » O
 لوبوان B-ORG
 « O
@@ -47052,7 +47052,7 @@ CD O
 هي O
 البناية O
 » O
-ستاتا B-MISC
+ستاتا B-MISC REVISIT
 سانتر I-MISC
 « O
 في O
@@ -47441,7 +47441,7 @@ Yorker I-ORG
 
 يقول O
 بصدد O
-مركز O
+مركز O REVISIT
 التجارة O
 العالمي O
 : O
@@ -47478,7 +47478,7 @@ Yorker I-ORG
 نجح O
 في O
 قصف O
-البيت B-MISC
+البيت B-MISC REVISIT
 الأبيض I-MISC
 ، O
 وقتل O
@@ -47683,7 +47683,7 @@ Yorker I-ORG
 . O
 وقد O
 مس O
-حدث O
+حدث O REVISIT
 11 O
 سبتمبر O
 هذا O
@@ -48111,9 +48111,9 @@ Yorker I-ORG
 « O
 لكنه O
 رأي O
-لايحتج O
+لايحتج O للشبان I-MISC
 . O
-
+ARTICLE
 أحرز O
 البطل O
 المغربي O
@@ -48127,7 +48127,7 @@ Yorker I-ORG
 بكين B-LOC
 الميدالية O
 الفضية O
-لسباق1500 O
+لسباق1500 O REVISIT
 متر O
 , O
 وذلك O
@@ -48135,7 +48135,7 @@ Yorker I-ORG
 منافسات O
 بطولة B-MISC
 العالم I-MISC
-ال11 O
+ال11 O REVISIT
 للشبان O
 في O
 ألعاب O
@@ -48158,11 +48158,11 @@ Yorker I-ORG
 مسافة O
 السباق O
 في O
-ظرف3 O
+ظرف3 O REVISIT
 دقائق O
-و40 O
+و40 O REVISIT
 ثانية O
-و73 O
+و73 O REVISIT
 جزء O
 من O
 المائة O
@@ -48176,11 +48176,11 @@ Yorker I-ORG
 الميدالية O
 الذهبية O
 مسجلا O
-توقيت3 O
+توقيت3 O REVISIT
 دقائق O
 و40 O
 ثانية O
-و44 O
+و44 O REVISIT
 جزء O
 من O
 المائة O
@@ -48200,10 +48200,10 @@ Yorker I-ORG
 في O
 الصف O
 الثالث O
-بتوقيت3 O
-دقائق41 O
+بتوقيت3 O REVISIT
+دقائق41 O REVISIT
 ثانية O
-و36 O
+و36 O REVISIT
 جزء O
 من O
 المائة O
@@ -48219,10 +48219,10 @@ Yorker I-ORG
 الصف O
 السادس O
 مسجلا O
-توقيت3 O
-دقائق42 O
+توقيت3 O REVISIT
+دقائق42 O REVISIT
 ثانية O
-و59 O
+و59 O REVISIT
 جزء O
 من O
 المائة O
@@ -48237,8 +48237,8 @@ Yorker I-ORG
 العاطي I-PERS
 إيكيدير I-PERS
 من O
-مواليد25 O
-مارس1987 O
+مواليد25 O REVISIT
+مارس1987 O REVISIT
 بالرشيدية B-LOC
 , O
 يتوفر O
@@ -48246,12 +48246,12 @@ Yorker I-ORG
 أحسن O
 توقيت O
 في O
-سباق1500 O
-وهو3 O
+سباق1500 O REVISIT
+وهو3 O REVISIT
 دقائق O
-و33 O
+و33 O REVISIT
 ثانية O
-و67 O
+و67 O REVISIT
 جزء O
 من O
 المائة O
@@ -48264,14 +48264,14 @@ Yorker I-ORG
 هوزدن B-ORG
 زولدر I-ORG
 ببلجيكا B-LOC
-يوم22 O
-يوليوز2006 O
+يوم22 O REVISIT
+يوليوز2006 O REVISIT
 . O
 
 وتعرف O
 بطولة B-MISC
 العالم I-MISC
-ال11 O
+ال11 O REVISIT
 لألعاب O
 القوى O
 للشبان O
@@ -48282,15 +48282,15 @@ Yorker I-ORG
 في O
 بكين B-LOC
 بمشاركة O
-نحو1451 O
+نحو1451 O REVISIT
 عداء O
 ( O
 806 O
 ذكور O
-و645 O
+و645 O REVISIT
 إناث O
 ) O
-من180 O
+من180 O REVISIT
 دولة O
 , O
 تعد O
@@ -48316,12 +48316,12 @@ Yorker I-ORG
 في O
 هذه O
 البطولة O
-العالمية28 O
+العالمية28 O REVISIT
 عداء O
 ( O
 14 O
 ذكور O
-و14 O
+و14 O REVISIT
 إناث O
 ) O
 سبق O
@@ -48337,7 +48337,7 @@ Yorker I-ORG
 قبل O
 سنة O
 . O
-
+ARTICLE
 يواجه O
 الرئيس O
 العراقي O
@@ -48366,7 +48366,7 @@ Yorker I-ORG
 ابادة O
 جماعية O
 ضد O
-الاكراد B-MISC
+الاكراد O
 ابان O
 حملة O
 الانفال O
@@ -48374,11 +48374,11 @@ Yorker I-ORG
 اسفرت O
 عن O
 مقتل O
-حوالى100 O
+حوالى100 O للشبان I-MISC
 الف O
 شخص O
 بين O
-عامي1987 O
+عامي1987 O للشبان I-MISC
 و1988 O
 . O
 
@@ -48395,7 +48395,7 @@ Yorker I-ORG
 اصداره O
 الاوامر O
 لشن O
-عملية O
+عملية O REVISIT
 الانفال O
 . O
 
@@ -48409,7 +48409,7 @@ Yorker I-ORG
 محاكمته O
 في O
 قضية O
-مقتل148 O
+مقتل148 O للشبان I-MISC
 شيعيا O
 في O
 بلدة O
@@ -48418,7 +48418,7 @@ Yorker I-ORG
 ستصدر O
 الاحكام O
 فيها O
-في16 O
+في16 O للشبان I-MISC
 اكتوبر O
 المقبل O
 ، O
@@ -48447,7 +48447,7 @@ Yorker I-ORG
 ستجري O
 في O
 مقر O
-المحكمة O
+المحكمة O للشبان I-MISC
 الجنائية O
 العليا O
 الواقعة O
@@ -48544,7 +48544,7 @@ Yorker I-ORG
 ، O
 يتولى O
 فريق O
-من12 O
+من12 O REVISIT
 محاميا O
 الدفاع O
 عن O
@@ -48574,7 +48574,7 @@ Yorker I-ORG
 على O
 التطلعات O
 القومية O
-للاكراد B-ORG
+للاكراد O
 عبر O
 مهاجمة O
 المدنيين O
@@ -48587,7 +48587,7 @@ Yorker I-ORG
 البشمركة B-ORG
 ( O
 المقاتلون O
-الاكراد B-ORG
+الاكراد O
 ) O
 والقوات O
 العراقية O
@@ -48685,7 +48685,7 @@ Yorker I-ORG
 . O
 
 وفي O
-العام1986 O
+العام1986 O REVISIT
 ، O
 وفي O
 حين O
@@ -48696,7 +48696,7 @@ Yorker I-ORG
 مع O
 ايران B-LOC
 منذ O
-العام1980 O
+العام1980 O REVISIT
 ، O
 امر O
 صدام B-PERS
@@ -48706,7 +48706,7 @@ Yorker I-ORG
 علي B-PERS
 الكيماوي I-PERS
 بقمع O
-الاكراد B-ORG
+الاكراد O
 الذين O
 كانت O
 مناطقهم O
@@ -48719,8 +48719,8 @@ Yorker I-ORG
 . O
 
 وبين O
-العامين1987 O
-و1988 O
+العامين1987 O REVISIT
+و1988 O REVISIT
 ، O
 تم O
 شن O
@@ -48728,7 +48728,7 @@ Yorker I-ORG
 حملات O
 على O
 مناطق O
-الاكراد B-ORG
+الاكراد O
 حيث O
 افرغت O
 بعض O
@@ -48749,7 +48749,7 @@ Yorker I-ORG
 ويتراوح O
 اعداد O
 الضحايا O
-بين100 O
+بين100 O REVISIT
 و180 O
 الفا O
 وفقا O
@@ -48778,7 +48778,7 @@ Yorker I-ORG
 . O
 
 فمنذ O
-العام1991 O
+العام1991 O REVISIT
 وانتهاء O
 حرب O
 الخليج O
@@ -48786,7 +48786,7 @@ Yorker I-ORG
 ، O
 تمتعت O
 مناطق O
-الاكراد B-ORG
+الاكراد O
 بحكم O
 ذاتي O
 موسع O
@@ -48802,9 +48802,9 @@ Yorker I-ORG
 التحليق O
 فيها O
 . O
-
+ARTICLE
 من O
-ويكيبيديا B-MISC
+ويكيبيديا B-MISC REVISIT
 , O
 الموسوعة O
 الحره O
@@ -48954,7 +48954,7 @@ Yorker I-ORG
 متابعته O
 وانشغاله O
 بكثير O
-منالاهتمامات O
+منالاهتمامات O REVISIT
 خارج O
 مجال O
 الطب O
@@ -49086,7 +49086,7 @@ Yorker I-ORG
 طريقة O
 جديدة O
 لعلاج O
-الهستيريا B-MISC
+الهستيريا B-MISC REVISIT
 وفي O
 عام O
 1885 O
@@ -49113,7 +49113,7 @@ Yorker I-ORG
 المغناطيسي O
 في O
 علاجه O
-للهستيريا B-MISC
+للهستيريا B-MISC REVISIT
 وكانت O
 هذه O
 الزيارة O
@@ -49133,7 +49133,7 @@ Yorker I-ORG
 من O
 الممكن O
 علاج O
-الهستيريا B-PERS
+الهستيريا B-PERS REVISIT
 كأضطراب O
 نفسي O
 و O
@@ -49282,7 +49282,7 @@ Yorker I-ORG
 إلى I-MISC
 التحليل I-MISC
 النفسي I-MISC
-) O
+) O ARTICLE
 هذه O
 مقالة O
 عن O
@@ -49400,7 +49400,7 @@ Yorker I-ORG
 إنقرضت O
 من O
 باقي O
-اوروبة B-ORG
+اوروبة B-LOC
 بحلول O
 القرن O
 الثاني O
@@ -49421,7 +49421,7 @@ Yorker I-ORG
 القرن O
 التاسع O
 عشر O
-و O
+و O REVISIT
 أوائل O
 القرن O
 العشرين O
@@ -49617,7 +49617,7 @@ Yorker I-ORG
 الأخرى O
 : O
 سلالة O
-رأس B-MISC
+رأس B-MISC REVISIT
 الرجاء I-MISC
 الصالح I-MISC
 ( O
@@ -49812,7 +49812,7 @@ Yorker I-ORG
 السلالات O
 مثل O
 أسد O
-رأس B-MISC
+رأس B-MISC REVISIT
 الرجاء I-MISC
 الصالح I-MISC
 و O
@@ -49836,7 +49836,7 @@ Yorker I-ORG
 تؤثر O
 على O
 حجم O
-و O
+و O REVISIT
 لون O
 اللبدة O
 ، O
@@ -49848,13 +49848,13 @@ Yorker I-ORG
 حدائق O
 الحيوان O
 الأوروبيّة O
-و O
+و O REVISIT
 الأميركيّة O
 تنمو O
 لديها O
 لبدة O
 أكبر O
-و O
+و O REVISIT
 أدكن O
 لوناً O
 مما O
@@ -49877,7 +49877,7 @@ Yorker I-ORG
 إنتشار O
 الأسود O
 في O
-إفريقياالأسود B-LOC
+إفريقياالأسود B-LOC REVISIT
 حيوانات O
 لاحمة O
 تعيش O
@@ -49912,7 +49912,7 @@ Yorker I-ORG
 مهمتهما O
 بإخصاب O
 الإناث O
-و O
+و O REVISIT
 حماية O
 حوز O
 الزمرة O
@@ -50284,14 +50284,14 @@ Yorker I-ORG
 حالة O
 أسود O
 " O
-تسافو B-MISC
+تسافو B-MISC REVISIT
 " O
 أكلة O
 الإنسان O
 و O
 أسود O
 " O
-مفويّ B-MISC
+مفويّ B-MISC REVISIT
 " O
 ، O
 وفي O
@@ -50317,11 +50317,11 @@ Yorker I-ORG
 حالتيّ O
 أسود O
 " O
-تسافو B-MISC
+تسافو B-MISC REVISIT
 " O
 و O
 " O
-مفويّ B-MISC
+مفويّ B-MISC REVISIT
 " O
 تتشابه O
 في O
@@ -50464,14 +50464,14 @@ Yorker I-ORG
 الكونغو B-LOC
 ) O
 سلالة O
-كاتانغا B-LOC
+كاتانغا B-LOC REVISIT
 أو O
 جنوب O
 غرب O
 أفريقيا B-LOC
 ( O
 أسد O
-كاتانغا B-LOC
+كاتانغا B-LOC REVISIT
 أو O
 أسد O
 جنوب O
@@ -50523,9 +50523,9 @@ Yorker I-ORG
 مميزة O
 للصيادين O
 الرومان O
-و O
+و O REVISIT
 اليونان B-LOC
-و O
+و O REVISIT
 المقدونييّن O
 . O
 
@@ -50648,18 +50648,18 @@ Yorker I-ORG
 ، O
 بومبي B-PERS
 ، O
-و O
+و O REVISIT
 يوليوس B-PERS
 قيصر I-PERS
 . O
 
 سلالة O
-رأس B-MISC
+رأس B-MISC REVISIT
 الرجاء I-MISC
 الصالح I-MISC
 ( O
 أسد O
-رأس B-MISC
+رأس B-MISC REVISIT
 الرجاء I-MISC
 الصالح I-MISC
 ) O
@@ -50672,18 +50672,18 @@ Yorker I-ORG
 للميلاد O
 . O
 سلالة O
-الماساي B-MISC
+الماساي B-MISC REVISIT
 ( O
 أسد O
-الماساي B-MISC
+الماساي B-MISC REVISIT
 ) O
 . O
 
 أسد O
-الماساي B-MISC
+الماساي B-MISC REVISIT
 في O
 محميّة O
-ماساي B-LOC
+ماساي B-LOC REVISIT
 ماراالماروزي I-LOC
 ( O
 لايعتبر O
@@ -50707,14 +50707,14 @@ Yorker I-ORG
 منذ O
 عام O
 1931 O
-و O
+و O REVISIT
 بأنه O
 كان O
 هجيناً O
 بريّاً O
 بين O
 أسد O
-و O
+و O REVISIT
 نمر O
 . O
 
@@ -50790,7 +50790,7 @@ Yorker I-ORG
 أكثر O
 من O
 الببور O
-و O
+و O REVISIT
 النمور O
 . O
 
@@ -50807,10 +50807,10 @@ Yorker I-ORG
 الصومالي O
 ) O
 سلالة O
-الكلاهاري B-MISC
+الكلاهاري B-MISC REVISIT
 ( O
 أسد O
-كالاهاري B-LOC
+كالاهاري B-LOC REVISIT
 ) O
 . O
 
@@ -50872,7 +50872,7 @@ Yorker I-ORG
 الحديث O
 الأقرب O
 ( O
-البليستوسين B-MISC
+البليستوسين B-MISC REVISIT
 ) O
 ، O
 ( O
@@ -50922,7 +50922,7 @@ Yorker I-ORG
 . O
 
 سلالة O
-توسكانة B-LOC
+توسكانة B-LOC REVISIT
 ( O
 الأسد O
 التوسكاني O
@@ -50947,13 +50947,13 @@ Yorker I-ORG
 سلالة O
 شرق O
 سيبيريا B-LOC
-و O
+و O REVISIT
 بيرينجيا B-LOC
 ( O
 أسد O
 شرق O
 سيبيريا B-LOC
-و O
+و O REVISIT
 بيرينجيا B-LOC
 ) O
 سلالة O
@@ -50997,7 +50997,7 @@ Yorker I-ORG
 تيمبافاتي B-LOC
 " O
 في O
-جنوب O
+جنوب O REVISIT
 إفريقيا B-LOC
 ، O
 ويعرف O
@@ -51129,7 +51129,7 @@ Yorker I-ORG
 النقيّة O
 ، O
 ولكن O
-لايزال O
+لايزال O REVISIT
 بعض O
 أصحاب O
 حدائق O
@@ -51193,10 +51193,10 @@ Yorker I-ORG
 النمريّة O
 ، O
 ومع O
-اليغاور B-MISC
+اليغاور B-MISC REVISIT
 ( O
 مفردها O
-يغور B-MISC
+يغور B-MISC REVISIT
 وهو O
 نوع O
 من O
@@ -51225,7 +51225,7 @@ Yorker I-ORG
 حجماً O
 من O
 الأسود O
-و O
+و O REVISIT
 الببور O
 وذلك O
 بسسب O
@@ -51308,7 +51308,7 @@ Yorker I-ORG
 الأسود O
 ) O
 ، O
-و O
+و O REVISIT REVISIT
 ذلك O
 بسبب O
 أن O
@@ -51351,7 +51351,7 @@ Yorker I-ORG
 الأسود O
 الببريّة O
 . O
-
+ARTICLE
 من O
 ويكيبيديا B-MISC
 , O
@@ -51426,7 +51426,7 @@ Yorker I-ORG
 أن O
 بجماليون B-PERS
 ( O
-Pygmalion O
+Pygmalion O REVISIT
 ) O
 كان O
 نحّات O
@@ -51475,7 +51475,7 @@ Pygmalion O
 سمى O
 التمثال O
 الحي O
-جالاتيا B-PERS
+جالاتيا B-PERS REVISIT
 ونكحها O
 ، O
 فولدت O
@@ -51518,7 +51518,7 @@ Pygmalion O
 حولها O
 الأمريكيون O
 ليرنر B-PERS
-و O
+و O REVISIT
 لو B-PERS
 إلى O
 المسرح O
@@ -51772,7 +51772,7 @@ Pygmalion O
 للشرطة O
 كشف O
 لغز O
-الحصان O
+الحصان O REVISIT
 الأشهب O
 ، O
 واعتقال O
@@ -51780,7 +51780,7 @@ Pygmalion O
 . O
 
 عصابة O
-الحصان O
+الحصان O REVISIT
 الأشهب O
 منظمة O
 إجرامية O
@@ -51800,7 +51800,7 @@ Pygmalion O
 منهم O
 ، O
 وتستخدم O
-نزل O
+نزل O REVISIT
 الحصان O
 الأشهب O
 وساحراته O
@@ -51822,7 +51822,7 @@ Pygmalion O
 تسميمهم O
 بواسطة O
 سم O
-الثاليوم B-MISC
+الثاليوم B-MISC REVISIT
 الذي O
 تُشابه O
 أعراض O
@@ -51948,7 +51948,7 @@ Pygmalion O
 زوجة O
 القس O
 من O
-رواية O
+رواية O REVISIT
 الإصبع B-MISC
 المتحرك I-MISC
 تظهر O
@@ -51968,7 +51968,7 @@ Pygmalion O
 تريد O
 إيقاف O
 الشر O
-دبي B-LOC
+دبي B-LOC ARTICLE
 - O
 الدوحة B-LOC
 والصيف O
@@ -52201,7 +52201,7 @@ Pygmalion O
 حبيب I-PERS
 نائب O
 رئيس O
-طيران O
+طيران O REVISIT
 الشرق B-LOC
 الأوسط I-LOC
 : O
@@ -52499,7 +52499,7 @@ Pygmalion O
 على O
 ذويهم O
 . O
-
+ARTICLE
 تسعى O
 ايران B-LOC
 بعد O
@@ -52534,7 +52534,7 @@ Pygmalion O
 في O
 مياه O
 الخليج O
-اصغر O
+اصغر O REVISIT
 علي O
 زادة O
 غريب B-PERS
@@ -52563,7 +52563,7 @@ Pygmalion O
 فصل O
 الشتاء O
 حتى O
-الثورة O
+الثورة O REVISIT
 الاسلامية O
 في O
 1979 O
@@ -53070,16 +53070,16 @@ Pygmalion O
 رياضات O
 مائية O
 . O
-
+ARTICLE
 رقصة O
 لشعب O
-الماوري B-ORG
+الماوري B-ORG REVISIT
 في O
 مهرجان O
 بالبندقية O
 بإيطاليا B-LOC
 ( O
-أوروبية O
+أوروبية O REVISIT
 - O
 أرشيف O
 ) O
@@ -53093,10 +53093,10 @@ Pygmalion O
 على O
 دام B-PERS
 تي I-PERS
-آتايرانغيكاهو I-PERS
+آتايرانغيكاهو I-PERS REVISIT
 ملكة O
 شعب O
-الماوري B-ORG
+الماوري B-ORG REVISIT
 الشعب O
 الأصلي O
 للبلد O
@@ -53139,7 +53139,7 @@ Pygmalion O
 الشمالية O
 . O
 
-الماوري B-ORG
+الماوري B-ORG REVISIT
 والباكيها B-ORG
 وقالت O
 رئيسة O
@@ -53164,13 +53164,13 @@ Pygmalion O
 شخصية O
 موحدة O
 استعملت O
-المانا B-MISC
+المانا B-MISC REVISIT
 ( O
 قوتها O
 الداخلية O
 ) O
 لتوحد O
-الماوري B-ORG
+الماوري B-ORG REVISIT
 والباكيها B-ORG
 ( O
 الأوروبيين O
@@ -53229,7 +53229,7 @@ Pygmalion O
 ولا O
 يملك O
 شعب O
-الماوري B-ORG
+الماوري B-ORG REVISIT
 دستورا O
 رسميا O
 , O
@@ -53252,7 +53252,7 @@ Pygmalion O
 المحيط B-LOC
 الهادي B-LOC
 . O
-
+ARTICLE
 الفرنسي O
 جيولي B-PERS
 صاحب O
@@ -53266,7 +53266,7 @@ Pygmalion O
 زميله O
 رونالدينيو B-PERS
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 اقترب O
 برشلونة B-ORG
@@ -53288,7 +53288,7 @@ Pygmalion O
 في O
 مباراة O
 الذهاب O
-لكأس O
+لكأس O REVISIT
 السوبر B-MISC
 الإسبانية O
 لكرة O
@@ -53348,7 +53348,7 @@ Pygmalion O
 حارس O
 إسبانيول B-ORG
 غوركا B-PERS
-ايريزوز B-PERS
+ايريزوز I-PERS
 . O
 
 وشهدت O
@@ -53365,7 +53365,7 @@ Pygmalion O
 برشلونة B-ORG
 حامل O
 لقب O
-دوري O
+دوري O REVISIT
 أبطال O
 أوروبا B-LOC
 لكرة O
@@ -53402,7 +53402,7 @@ Pygmalion O
 ببطولة O
 الكأس O
 . O
-
+ARTICLE
 كشفت O
 دراسة O
 كندية O
@@ -53474,7 +53474,7 @@ Pygmalion O
 ولفائف O
 التبغ O
 " O
-البيدي B-MISC
+البيدي B-MISC REVISIT
 " O
 الشائعة O
 الاستخدام O
@@ -53537,7 +53537,7 @@ Pygmalion O
 وكون B-PERS
 تيو I-PERS
 من O
-جامعة O
+جامعة O REVISIT
 ماك B-ORG
 ماستر I-ORG
 في O
@@ -53665,9 +53665,9 @@ Pygmalion O
 العالم O
 " O
 . O
-
+ARTICLE
 أعلن O
-المتحف O
+المتحف O REVISIT
 الوطني O
 الكندي O
 أن O
@@ -53798,7 +53798,7 @@ Pygmalion O
 العام O
 الجاري O
 لوحة O
-لفوبيار B-MISC
+لفوبيار B-PERS
 في O
 أحد O
 مزادات O
@@ -53819,7 +53819,7 @@ Pygmalion O
 في O
 مزاد O
 . O
-
+ARTICLE
 الإعصار O
 كاترينا B-MISC
 حول O
@@ -53951,7 +53951,7 @@ Pygmalion O
 . O
 
 وقالت O
-مجلة O
+مجلة O REVISIT
 نيوزويك B-ORG
 عن O
 الفيلم O
@@ -54057,7 +54057,7 @@ Pygmalion O
 إيطاليا B-LOC
 يشارك O
 في O
-مهرجان O
+مهرجان O REVISIT
 البندقية B-MISC
 عندما O
 ضرب O
@@ -54107,7 +54107,7 @@ Pygmalion O
 الكيبل O
 يومي O
 21 O
-و22 O
+و22 O REVISIT
 أغسطس O
 / O
 آب O
@@ -54130,14 +54130,14 @@ Pygmalion O
 الأولى O
 للإعصار O
 . O
-
+ARTICLE
 الإيرانيون O
 يناهضون O
 سياسات O
 إسرائيل B-LOC
 بالمنطقة O
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 - O
 أرشيف O
 ) O
@@ -54287,7 +54287,7 @@ Pygmalion O
 هامشهري B-ORG
 المحافظة O
 . O
-
+ARTICLE
 مارس O
 مهنة O
 الطب O
@@ -54822,7 +54822,7 @@ Pygmalion O
 » O
 ! O
 . O
-
+ARTICLE
 من O
 فتاة O
 شاركت O
@@ -54943,7 +54943,7 @@ Pygmalion O
 وأين O
 لقيت O
 تجاوب O
-الجمهورمع O
+الجمهورمع O REVISIT
 الفيلم O
 أكثر O
 ؟ O
@@ -55282,8 +55282,8 @@ Pygmalion O
 السيناريست O
 المصري O
 الموهوب O
-تامر O
-حبيب B-PERS
+تامر B-PERS
+حبيب I-PERS
 . O
 
 > O
@@ -55471,7 +55471,7 @@ Pygmalion O
 إماراتي O
 » O
 ، O
-و O
+و O REVISIT
 أنتم O
 تعرفون O
 كإعلاميين O
@@ -55584,7 +55584,7 @@ Pygmalion O
 ، O
 وعن O
 طريق O
-شركة O
+شركة O REVISIT
 « O
 جلف B-ORG
 فيلم I-ORG
@@ -55745,9 +55745,9 @@ Pygmalion O
 بطل O
 الفيلم O
 « O
-من B-MISC
-البداية I-MISC
-للنهاية I-MISC
+من O
+البداية O
+للنهاية O
 » O
 ، O
 وكان O
@@ -56372,7 +56372,7 @@ Pygmalion O
 في O
 مدينة O
 دبي B-LOC
-للإعلام O
+للإعلام O REVISIT
 ، O
 كما O
 انني O
@@ -56799,7 +56799,7 @@ Pygmalion O
 » O
 ، O
 رفض O
-تلفزيون O
+تلفزيون O REVISIT
 دبي B-LOC
 اسناد O
 الدور O
@@ -56826,7 +56826,7 @@ Pygmalion O
 اعتذاري O
 عن O
 تقديم O
-برنامج O
+برنامج O REVISIT
 « O
 نجم B-MISC
 الخليج I-MISC
@@ -57628,7 +57628,7 @@ Pygmalion O
 ليس O
 أميراً O
 . O
-
+ARTICLE
 عدسة: O
 وي B-PERS
 خاي I-PERS
@@ -57872,7 +57872,7 @@ Pygmalion O
 المصادر O
 العربية O
 - O
-لمروج O
+لمروج O REVISIT
 الذهب O
 لأبي B-PERS
 الحسن I-PERS
@@ -57936,7 +57936,7 @@ Pygmalion O
 عليه O
 اسم O
 ( O
-باباغا B-MISC
+باباغا O
 ) O
 . O
 
@@ -57984,7 +57984,7 @@ Pygmalion O
 وقت O
 سابق O
 لعام O
-300م O
+300م O REVISIT
 . O
 
 ويؤكد O
@@ -57995,7 +57995,7 @@ Pygmalion O
 الصينية O
 والعربية O
 مثل O
-مروج O
+مروج O REVISIT
 الذهب O
 لأبي B-PERS
 الحسن I-PERS
@@ -58047,11 +58047,11 @@ Pygmalion O
 إبان O
 فترة O
 مملكة O
-وي B-MISC
+وي B-MISC REVISIT
 الشمالية O
 386 O
 - O
-557م O
+557م O REVISIT
 , O
 بالإضافة O
 إلى O
@@ -58059,11 +58059,11 @@ Pygmalion O
 عربية O
 كبيرة O
 في O
-منطقة O
+منطقة O REVISIT
 لويانغ B-LOC
 المعروفة O
 الآن O
-بمحافظة O
+بمحافظة O REVISIT
 هونان B-LOC
 , O
 كما O
@@ -58078,7 +58078,7 @@ Pygmalion O
 ( O
 618 O
 - O
-907م O
+907م O REVISIT
 ) O
 وكانت O
 لهم O
@@ -58393,7 +58393,7 @@ Pygmalion O
 من O
 دلتا B-LOC
 نهر O
-اللؤلؤ O
+اللؤلؤ O REVISIT
 . O
 
 وتعرف O
@@ -58501,7 +58501,7 @@ Pygmalion O
 الآن O
 . O
 
-مسجد O
+مسجد O REVISIT
 الحنين B-ORG
 إلى I-ORG
 النبي I-ORG
@@ -58510,10 +58510,10 @@ Pygmalion O
 المسجد O
 حالياً O
 في O
-شارع O
+شارع O REVISIT
 قوانغتا B-LOC
 ( O
-شارع O
+شارع O REVISIT
 المنارة B-LOC
 ) O
 رقم O
@@ -58522,7 +58522,7 @@ Pygmalion O
 الجزء O
 القديم O
 من O
-مدينة O
+مدينة O REVISIT
 قوانغتشو B-LOC
 , O
 يمتاز O
@@ -58671,7 +58671,7 @@ Pygmalion O
 
 مَن O
 بنى O
-الحنين B-ORG
+الحنين O REVISIT
 ومتى O
 ? O
 استرجعنا O
@@ -58784,7 +58784,7 @@ Pygmalion O
 تسمية O
 هوايشنغ B-MISC
 تعني O
-الحنين B-ORG
+الحنين B-ORG REVISIT
 إلى I-ORG
 النبي I-ORG
 , O
@@ -58828,7 +58828,7 @@ Pygmalion O
 العربي B-ORG
 ) O
 إمام O
-مسجد O
+مسجد O REVISIT
 الحنين B-ORG
 إلى I-ORG
 النبي I-ORG
@@ -58939,11 +58939,11 @@ Pygmalion O
 المساجد O
 أهمها O
 بعد O
-مسجد O
+مسجد O REVISIT
 الحنين B-ORG
 إلى I-ORG
 النبي I-ORG
-مسجد O
+مسجد O REVISIT
 هوبان B-ORG
 . O
 
@@ -58952,7 +58952,7 @@ Pygmalion O
 قصة O
 آخر O
 تجديد O
-لمسجد O
+لمسجد O REVISIT
 هوبان B-ORG
 وذلك O
 عندما O
@@ -59053,7 +59053,7 @@ Pygmalion O
 قانغ B-LOC
 مقابل O
 حديقة O
-يوى O
+يوى O REVISIT
 شوي O
 في O
 شارع O
@@ -59121,7 +59121,7 @@ Pygmalion O
 , O
 والضريح O
 ( O
-القبة B-MISC
+القبة  B-MISC REVISIT
 ) O
 محاط O
 بعدد O
@@ -59137,7 +59137,7 @@ Pygmalion O
 , O
 وعند O
 مدخل O
-هذاالضريح O
+هذاالضريح O REVISIT
 المهيب O
 , O
 كتب O
@@ -59145,7 +59145,7 @@ Pygmalion O
 عربية O
 جيدة O
 ( O
-روضة O
+روضة O REVISIT
 أبي B-PERS
 وقاص I-PERS
 ) O
@@ -59490,14 +59490,14 @@ Pygmalion O
 مينغ B-PERS
 , O
 أحدها O
-مسجد O
+مسجد O REVISIT
 شيان B-ORG
 شيان I-ORG
 قومو I-ORG
 الذي O
 يوجد O
 بجانب O
-ضريح O
+ضريح O REVISIT
 أبي B-PERS
 وقاص I-PERS
 والمسجد O
@@ -59608,19 +59608,19 @@ Pygmalion O
 الصينية O
 . O
 
-مسجد O
+مسجد O REVISIT
 هوبان B-ORG
 يقع O
-مسجد O
+مسجد O REVISIT
 هوبان B-ORG
 في O
-زقاق O
+زقاق O REVISIT
 هوبان B-LOC
 رقم O
 378 O
 بالقرب O
 من O
-شارع O
+شارع O REVISIT
 تيان B-LOC
 تشنغ I-LOC
 , O
@@ -59755,7 +59755,7 @@ Pygmalion O
 العربي B-ORG
 ) O
 إمام O
-مسجد O
+مسجد O REVISIT
 هوبان B-ORG
 الإمام O
 حسن B-PERS
@@ -59822,7 +59822,7 @@ Pygmalion O
 هذا O
 المسجد O
 في O
-الوطن O
+الوطن O REVISIT
 العربي O
 , O
 مشيراً O
@@ -59840,7 +59840,7 @@ Pygmalion O
 , O
 مؤكداً O
 أن O
-مسجد O
+مسجد O REVISIT
 هوبان B-ORG
 وغيره O
 من O
@@ -59883,13 +59883,13 @@ Pygmalion O
 العربية O
 . O
 
-مسجد O
+مسجد O REVISIT
 دونغيين B-ORG
 يقع O
-مسجد O
+مسجد O REVISIT
 جونغيين B-ORG
 في O
-شارع O
+شارع O REVISIT
 يو B-LOC
 خوا I-LOC
 , O
@@ -59948,7 +59948,7 @@ Pygmalion O
 كلمة O
 مسجد O
 ( O
-تشينغ O
+تشينغ O REVISIT
 جين O
 سي O
 ) O
@@ -60092,7 +60092,7 @@ Pygmalion O
 التي O
 ضمتها O
 جدران O
-متحف O
+متحف O REVISIT
 قوانغتشو B-ORG
 . O
 
@@ -60143,7 +60143,7 @@ Pygmalion O
 القبر O
 , O
 فإنه O
-رمضان O
+رمضان O REVISIT
 علاء O
 الدين O
 المتوفى O
@@ -60171,7 +60171,7 @@ Pygmalion O
 الرحّالة O
 العرب O
 باسم O
-مدينة O
+مدينة O REVISIT
 الزيتون O
 , O
 حيث O
@@ -60332,7 +60332,7 @@ Pygmalion O
 لا O
 يقل O
 عن O
-ميناء O
+ميناء O REVISIT
 قوانغتشو B-ORG
 , O
 كما O
@@ -60364,7 +60364,7 @@ Pygmalion O
 عليها O
 حتى O
 نهاية O
-أسرة O
+أسرة O REVISIT
 مينغ B-PERS
 , O
 حيث O
@@ -60440,10 +60440,10 @@ Pygmalion O
 المدينة O
 . O
 
-مسجد O
+مسجد O REVISIT
 الأصحاب B-ORG
 يقع O
-مسجد O
+مسجد O REVISIT
 الأصحاب B-ORG
 في O
 قلب O
@@ -60523,7 +60523,7 @@ Pygmalion O
 على O
 مساحة O
 قدرها O
-600متر O
+600متر O REVISIT
 مربع O
 وعلى O
 جدرانها O
@@ -60549,7 +60549,7 @@ Pygmalion O
 - O
 127 O
 من O
-سورة O
+سورة O REVISIT
 البقرة B-MISC
 . O
 
@@ -60710,7 +60710,7 @@ Pygmalion O
 بلادهم O
 , O
 وهو O
-ضريح O
+ضريح O REVISIT
 الحكيم O
 المقدس O
 وتحتاج O
@@ -60809,7 +60809,7 @@ Pygmalion O
 ارتفاع O
 القبر O
 حوالي O
-60سم O
+60سم O REVISIT
 , O
 وتمتاز O
 أعمدة O
@@ -61099,7 +61099,7 @@ Pygmalion O
 بمكان O
 أن O
 تستعيد O
-عشيرة O
+عشيرة O REVISIT
 دينغ B-PERS
 هويتها O
 الإسلامية O
@@ -61205,7 +61205,7 @@ Pygmalion O
 جي I-PERS
 المشرف O
 الإداري O
-للمعبدعلى O
+للمعبدعلى O REVISIT
 هذا O
 الوضع O
 قائلاً O
@@ -61264,7 +61264,7 @@ Pygmalion O
 الغامض O
 ومقابر O
 أسرة O
-دين O
+دين O REVISIT
 العربية O
 ومسجد O
 الأصحاب O
@@ -61380,7 +61380,7 @@ Pygmalion O
 قد O
 يكونون O
 عرباً O
-قبر O
+قبر O REVISIT
 ( O
 محمود B-PERS
 بن I-PERS
@@ -61418,7 +61418,7 @@ Pygmalion O
 سورة O
 البقرة B-MISC
 ( O
-آية O
+آية O REVISIT
 الكرسي B-MISC
 ) O
 . O
@@ -61563,7 +61563,7 @@ Pygmalion O
 النادرة O
 قررنا O
 إنشاء O
-المتحف O
+المتحف O REVISIT
 الثقافي O
 الإسلامي O
 في O
@@ -61573,12 +61573,12 @@ Pygmalion O
 . O
 
 وحول O
-متحف O
+متحف O REVISIT
 الثقافة O
 الإسلامية O
 المقترح O
 التقت O
-العربي O
+العربي O REVISIT
 الباحث O
 قو B-PERS
 يو I-PERS
@@ -61680,9 +61680,9 @@ Pygmalion O
 جي I-PERS
 تشاو I-PERS
 من O
-متحف O
+متحف O REVISIT
 الأنثروبولوجيا O
-بجامعة O
+بجامعة O REVISIT
 شيامن B-ORG
 , O
 الذي O
@@ -61807,7 +61807,7 @@ Pygmalion O
 الاستطلاع O
 ممكناً O
 . O
-
+ARTICLE
 تصوير: O
 طالب B-PERS
 الحسيني I-PERS
@@ -61879,10 +61879,10 @@ Pygmalion O
 ونحن O
 نعد O
 لزيارة O
-محافظة O
+محافظة O REVISIT
 خراسان B-LOC
 حيث O
-مدينة O
+مدينة O REVISIT
 مشهد B-LOC
 المقدسة O
 ، O
@@ -61900,7 +61900,7 @@ Pygmalion O
 حيث O
 كان O
 الاحتفال O
-بمعرض O
+بمعرض O REVISIT
 طهران B-MISC
 الدولي I-MISC
 للكتاب I-MISC
@@ -61983,7 +61983,7 @@ V.I.P. O
 كالبحث O
 في O
 ولاية O
-الفقيه B-LOC
+الفقيه O
 ، O
 أو O
 العلاقات O
@@ -62047,11 +62047,11 @@ V.I.P. O
 العربي O
 النشط O
 ومراسل O
-قناة O
+قناة O REVISIT
 الجزيرة B-ORG
-والإذاعة O
+والإذاعة O REVISIT
 البريطانية O
-وجريدة O
+وجريدة O REVISIT
 الحياة B-ORG
 في O
 طهران B-LOC
@@ -62075,7 +62075,7 @@ V.I.P. O
 مشهد B-LOC
 المقدسة O
 عاصمة O
-محافظة O
+محافظة O REVISIT
 خراسان B-LOC
 في O
 أقصى O
@@ -62083,7 +62083,7 @@ V.I.P. O
 أكثر O
 من O
 950 O
-كيلومتراً O
+كيلومتراً O REVISIT
 تقطعها O
 الطائرة O
 في O
@@ -62139,9 +62139,9 @@ V.I.P. O
 
 تبلغ O
 مساحة O
-جمهورية O
+جمهورية O REVISIT
 إيران B-LOC
-الإسلامية O
+الإسلامية O REVISIT
 627 O
 ألف O
 ميل O
@@ -62234,7 +62234,7 @@ V.I.P. O
 12 O
 مليون O
 نسمة O
-وإقليم O
+وإقليم O REVISIT
 خراسان B-LOC
 هو O
 الأكبر O
@@ -62243,10 +62243,10 @@ V.I.P. O
 المساحة O
 . O
 
-مدينة O
+مدينة O REVISIT
 مشهد B-LOC
 المقدسة O
-مدينة O
+مدينة O REVISIT
 مشهد B-LOC
 ، O
 مدينة O
@@ -62254,7 +62254,7 @@ V.I.P. O
 ودينية O
 وهي O
 مركز O
-محافظة O
+محافظة O REVISIT
 خراسان B-LOC
 وتقع O
 في O
@@ -62262,7 +62262,7 @@ V.I.P. O
 جبال O
 " O
 هزار B-LOC
-مسجد B-LOC
+مسجد I-LOC
 " O
 أي O
 الألف O
@@ -62316,7 +62316,7 @@ V.I.P. O
 حيث O
 إن O
 مبنى O
-مقام O
+مقام O REVISIT
 الإمام O
 الرضا B-PERS
 يعتبر O
@@ -62339,7 +62339,7 @@ V.I.P. O
 السلام O
 في O
 المدينة B-LOC
-المنورة B-LOC
+المنورة I-LOC
 عام O
 148 O
 للهجرة O
@@ -62391,7 +62391,7 @@ V.I.P. O
 للإمام O
 الرضا B-PERS
 بولاية O
-العهد B-LOC
+العهد O
 . O
 
 ولكن O
@@ -62400,7 +62400,7 @@ V.I.P. O
 استشهد O
 الإمام O
 في O
-قرية O
+قرية O REVISIT
 سناباد B-LOC
 مسموماً O
 عام O
@@ -62418,7 +62418,7 @@ V.I.P. O
 في O
 مكان O
 قرب O
-مدينة O
+مدينة O REVISIT
 طوس B-LOC
 ، O
 ومنذ O
@@ -62470,11 +62470,11 @@ V.I.P. O
 في O
 الشمال O
 مع O
-جمهورية O
+جمهورية O REVISIT
 تركمنستان B-LOC
 ومن O
 الشرق O
-جمهورية O
+جمهورية O REVISIT
 أفغانستان B-LOC
 وتبلغ O
 مساحة O
@@ -62486,7 +62486,7 @@ V.I.P. O
 مربع O
 ، O
 وهي O
-أكبرمحافظة O
+أكبرمحافظة O REVISIT
 في O
 إيران B-LOC
 حيث O
@@ -62557,7 +62557,7 @@ V.I.P. O
 تيمورلنك I-PERS
 " O
 بتوسعة O
-حرم O
+حرم O REVISIT
 الإمام O
 الرضا B-PERS
 ، O
@@ -62591,7 +62591,7 @@ V.I.P. O
 من O
 غارات O
 " O
-الأزبك B-ORG
+الأزبك B-ORG REVISIT
 " O
 إلى O
 أن O
@@ -62667,7 +62667,7 @@ V.I.P. O
 الشريف I-LOC
 حيث O
 إن O
-مدينة O
+مدينة O REVISIT
 مشهد B-LOC
 في O
 القرن O
@@ -62690,7 +62690,7 @@ V.I.P. O
 العالم O
 للزيارة O
 والتبرك O
-بمقام O
+بمقام O REVISIT
 الإمام O
 الرضا B-PERS
 . O
@@ -62701,7 +62701,7 @@ V.I.P. O
 نادر B-PERS
 شاه I-PERS
 " O
-مدينة O
+مدينة O REVISIT
 مشهد B-LOC
 عاصمة O
 لحكومته O
@@ -62713,21 +62713,21 @@ V.I.P. O
 استولى O
 عليها O
 الحاكم O
-القاجاري B-PERS
+القاجاري B-PERS REVISIT
 . O
 
-******************** O
+******************** O 
 المراكز O
 الثقافية O
 للأستانة O
 الرضوية O
 لقد O
 تأسست O
-الأستانة B-MISC
+الأستانة B-MISC REVISIT
 الرضوية I-MISC
 المقدسة O
 في O
-مدينة O
+مدينة O REVISIT
 مشهد B-LOC
 من O
 أجل O
@@ -62759,7 +62759,7 @@ V.I.P. O
 من O
 قبل O
 المحبين O
-للإمام O
+للإمام O REVISIT REVISIT
 الرضا B-PERS
 ، O
 فالفندق O
@@ -62794,7 +62794,7 @@ V.I.P. O
 النهاية O
 أنها O
 عائدة O
-للاستانة B-MISC
+للاستانة B-MISC REVISIT
 الرضوية I-MISC
 . O
 
@@ -62833,7 +62833,7 @@ V.I.P. O
 جداً O
 يبلغ O
 بلايين O
-الدولارات O
+الدولارات O REVISIT
 الأمريكية O
 . O
 
@@ -62848,7 +62848,7 @@ V.I.P. O
 في O
 الأمور O
 الثقافية O
-للأستانة B-MISC
+للأستانة B-MISC REVISIT
 الرضوية I-MISC
 إن O
 هناك O
@@ -62857,18 +62857,18 @@ V.I.P. O
 ثقافية O
 قائمة O
 في O
-الاستانة B-MISC
+الاستانة B-MISC REVISIT
 الرضوية I-MISC
 أهمها O
-مجمع O
+مجمع O REVISIT
 البحوث O
 الإسلامية O
 ، O
-والمجمع O
+والمجمع O REVISIT
 الرضوي O
 الثقافي O
 ، O
-والجامعة O
+والجامعة O REVISIT
 الرضوية B-ORG
 للعلوم I-ORG
 الإسلامية I-ORG
@@ -62877,7 +62877,7 @@ V.I.P. O
 للطبع O
 والنشر O
 ، O
-ومؤسسة O
+ومؤسسة O REVISIT
 القدس B-ORG
 الثقافية I-ORG
 التي O
@@ -62889,7 +62889,7 @@ V.I.P. O
 الفارسية O
 وتصدر O
 عنها O
-جريدة O
+جريدة O REVISIT
 القدس B-ORG
 وتتبعها O
 المكتبة O
@@ -62905,7 +62905,7 @@ V.I.P. O
 المجمع O
 فيقول O
 إن O
-مجمع O
+مجمع O REVISIT
 البحوث O
 الاسلامية O
 له O
@@ -62930,11 +62930,11 @@ V.I.P. O
 الاقتصاديين O
 اللذين O
 أقامهما O
-مجمع O
+مجمع O REVISIT
 البحوث O
 الاسلامية O
 التابع O
-للأستانة B-ORG
+للأستانة B-ORG REVISIT
 الرضوية I-ORG
 المقدسة O
 بمشهد B-LOC
@@ -63002,7 +63002,7 @@ V.I.P. O
 الإسلامي O
 ونشر O
 علوم O
-القرآن B-MISC
+القرآن B-MISC REVISIT
 ، O
 ويعمل O
 في O
@@ -63040,7 +63040,7 @@ V.I.P. O
 والثقافي O
 هي O
 : O
-قسم O
+قسم O 
 القرآن B-MISC
 الكريم O
 ، O
@@ -63100,7 +63100,7 @@ V.I.P. O
 ، O
 النشر O
 ، O
-مجلة O
+مجلة O REVISIT
 مشكاة B-ORG
 ، O
 التاريخ O
@@ -63157,17 +63157,17 @@ V.I.P. O
 فصلية O
 اسمها O
 المشكاة B-ORG
-ومجلة O
+ومجلة O REVISIT
 الدراسات O
 الجغرافية O
-ومجلة O
+ومجلة O REVISIT
 المتعلم B-ORG
 المبتدئ I-ORG
 . O
 
 كنوز O
 الثقافة O
-الاستانة B-MISC
+الاستانة B-MISC REVISIT
 الرضوية I-MISC
 المقدسة O
 ليست O
@@ -63202,7 +63202,7 @@ V.I.P. O
 الدخول O
 إلى O
 مقام O
-الإمام O
+الإمام O REVISIT
 الرضا B-PERS
 والتقاط O
 هذه O
@@ -63250,7 +63250,7 @@ V.I.P. O
 العلماء O
 والمشرف O
 على O
-الاستانة B-MISC
+الاستانة B-MISC REVISIT
 الرضوية I-MISC
 المقدسة O
 بنفسه O
@@ -63291,7 +63291,7 @@ V.I.P. O
 للزائرين O
 ، O
 أما O
-المكتبة O
+المكتبة O REVISIT
 المركزية O
 للأستانة B-MISC
 الرضوية I-MISC
@@ -63388,7 +63388,7 @@ V.I.P. O
 . O
 
 الشاعر O
-الفردوسي O
+الفردوسي O REVISIT
 في O
 طريق O
 يمتد O
@@ -63578,7 +63578,7 @@ V.I.P. O
 موعد O
 للزيارة O
 تسمية O
-طريق O
+طريق O REVISIT
 الحرير B-MISC
 قيل O
 إن O
@@ -63589,7 +63589,7 @@ V.I.P. O
 باسمه O
 المذكور O
 لأن O
-حرير B-MISC
+حرير O
 الصين B-LOC
 - O
 وهو O
@@ -63609,7 +63609,7 @@ V.I.P. O
 بهذا O
 الاسم O
 في O
-عصر O
+عصر O REVISIT
 ماركوبولو B-PERS
 . O
 ويرى O
@@ -63671,7 +63671,7 @@ V.I.P. O
 المتاخمة O
 للصين B-LOC
 ، O
-وبلاد O
+وبلاد O REVISIT
 فارس B-LOC
 تنتجه O
 أيضاً O
@@ -63686,14 +63686,14 @@ V.I.P. O
 . O
 
 في O
-جريدة O
+جريدة O REVISIT
 القدس B-ORG
 التي O
 تصدر O
 باللغة O
 الفارسية O
 وتملكها O
-الاستانة B-MISC
+الاستانة B-MISC REVISIT
 الرضوية I-MISC
 وتصدر O
 في O
@@ -63732,7 +63732,7 @@ V.I.P. O
 حدث O
 مع O
 بداية O
-الثورة O
+الثورة O REVISIT
 الإسلامية O
 في O
 إيران B-LOC
@@ -63772,7 +63772,7 @@ V.I.P. O
 الطلاب O
 الجامعيين O
 في O
-محافظة O
+محافظة O REVISIT
 خراسان B-LOC
 يعطيك O
 مؤشراً O
@@ -63798,7 +63798,7 @@ V.I.P. O
 واجتماعية O
 وصناعية O
 تملكها O
-الاستانة B-MISC
+الاستانة B-MISC REVISIT
 الرضوية I-MISC
 في O
 إيران B-LOC
@@ -63846,7 +63846,7 @@ V.I.P. O
 الصحف O
 . O
 
-ومحافظة O
+ومحافظة O REVISIT
 خراسان B-LOC
 تصدر O
 فيها O
@@ -63865,7 +63865,7 @@ V.I.P. O
 مساعدات O
 مالية O
 من O
-الاستانة B-MISC
+الاستانة B-MISC REVISIT
 الرضوية I-MISC
 . O
 
@@ -63873,7 +63873,7 @@ V.I.P. O
 المدير O
 المسؤول O
 عن O
-صحيفة O
+صحيفة O REVISIT
 القدس B-ORG
 لايزال O
 يعتقد O
@@ -63969,14 +63969,14 @@ V.I.P. O
 
 ويقول O
 ممثل O
-وزارة O
+وزارة O REVISIT
 الخارجية O
 الإيرانية O
 في O
-مدينة O
+مدينة O REVISIT
 مشهد B-LOC
 إن O
-مدينة O
+مدينة O REVISIT
 مشهد B-LOC
 فقط O
 يزورها O
@@ -64122,7 +64122,7 @@ V.I.P. O
 ما O
 عرفنا O
 أن O
-محافظة O
+محافظة O REVISIT
 خراسان B-LOC
 هي O
 الأولى O
@@ -64206,7 +64206,7 @@ V.I.P. O
 عام O
 ، O
 تحاول O
-الأستانة B-MISC
+الأستانة B-MISC REVISIT
 الرضوية I-MISC
 المقدسة O
 عبر O
@@ -64220,13 +64220,13 @@ V.I.P. O
 منطقة O
 حرة O
 في O
-مدينة O
+مدينة O REVISIT
 سرخس B-LOC
 ، O
 أطلقت O
 عليها O
 " O
-منطقة O
+منطقة O 
 سرخس B-LOC
 التجارية O
 الحرة O
@@ -64247,7 +64247,7 @@ V.I.P. O
 الطبسي I-PERS
 المسؤول O
 عن O
-الأستانة B-MISC
+الأستانة B-MISC REVISIT
 الرضوية I-MISC
 المقدسة O
 يقول O
@@ -64317,7 +64317,7 @@ O O
 وكلها O
 تقع O
 على O
-طريق O
+طريق O REVISIT
 الحرير B-MISC
 شركاء O
 تحاوروا O
@@ -64401,11 +64401,11 @@ O O
 يربط O
 ميناء O
 " O
-بندر B-ORG
+بندر B-ORG REVISIT
 عباس I-ORG
 " O
 الخليجي O
-بمنطقة O
+بمنطقة O REVISIT
 سراخس B-LOC
 . O
 
@@ -64495,7 +64495,7 @@ O O
 
 عن O
 هدف O
-الأستانة B-MISC
+الأستانة B-MISC REVISIT
 الرضوية I-MISC
 من O
 الدخول O
@@ -64521,7 +64521,7 @@ O O
 داخل O
 إيران B-LOC
 ، O
-الأستانة B-MISC
+الأستانة B-MISC REVISIT
 لديها O
 فائض O
 مالي O
@@ -64690,7 +64690,7 @@ O O
 المصدرة I-ORG
 للنفط I-ORG
 " O
-أوبك B-ORG
+أوبك B-ORG REVISIT
 " O
 وتنتج O
 حوالي O
@@ -64866,7 +64866,7 @@ O O
 كونت O
 السلطات O
 في O
-محافظة O
+محافظة O REVISIT
 خراسان B-LOC
 ما O
 سمي O
@@ -65010,7 +65010,7 @@ O O
 ويضيف O
 رئيس O
 تحرير O
-جريدة O
+جريدة O REVISIT
 الوفاق B-ORG
 : O
 " O
@@ -65040,7 +65040,7 @@ O O
 إلى O
 مشهد B-LOC
 في O
-جمهورية O
+جمهورية O REVISIT
 إيران B-LOC
 الإسلامية O
 خلال O
@@ -65296,7 +65296,7 @@ O O
 مهاجراني I-PERS
 في O
 وضع O
-لايحسد O
+لايحسد O REVISIT
 عليه O
 ، O
 بعد O
@@ -65508,7 +65508,7 @@ O O
 مساعديه O
 في O
 وضع O
-لايحسدون O
+لايحسدون O REVISIT
 عليه O
 هذه O
 الأيام O
@@ -65566,7 +65566,7 @@ O O
 حفاوة O
 بالغة O
 بالكتاب O
-معرض O
+معرض O REVISIT
 طهران B-MISC
 الدولي I-MISC
 الحادي I-MISC
@@ -65786,7 +65786,7 @@ O O
 سهل O
 تحيط O
 به O
-جبال O
+جبال O REVISIT
 زاجروس B-LOC
 المكسوة O
 قممها O
@@ -65823,7 +65823,7 @@ O O
 المعلومات O
 ، O
 المرافق O
-لمعرض O
+لمعرض O REVISIT
 الكتاب B-MISC
 ، O
 فيما O
@@ -65955,7 +65955,7 @@ O O
 محمد B-PERS
 السعدي I-PERS
 يصف O
-معرض O
+معرض O REVISIT
 طهران B-LOC
 للكتاب O
 بأنه O
@@ -66226,7 +66226,7 @@ O O
 قضيناها O
 هناك O
 . O
-
+ARTICLE
 قالت O
 لنا O
 والحديث O
@@ -66250,7 +66250,7 @@ O O
 أن O
 تستردها O
 الصين B-LOC
-الشعبية O
+الشعبية O REVISIT
 من O
 بريطانيا B-LOC
 في O
@@ -66339,7 +66339,7 @@ O O
 آب I-PERS
 " O
 عضو O
-المجلس O
+المجلس O REVISIT
 التشريعى O
 في O
 هونج B-LOC
@@ -66370,7 +66370,7 @@ O O
 خلال O
 فترة O
 التبعية O
-للاستعمار O
+للاستعمار O REVISIT
 الإنجليزي O
 ، O
 وهي O
@@ -66481,12 +66481,12 @@ O O
 توصلت O
 بريطانيا B-LOC
 والصين B-LOC
-الشعبية O
+الشعبية O REVISIT
 إلى O
 اتفاق O
 حول O
 مستقبل O
-مستعمرة O
+مستعمرة O REVISIT
 هونج B-LOC
 كونج I-LOC
 ، O
@@ -66522,7 +66522,7 @@ O O
 مربعا O
 مقسمة O
 بين O
-جزيرة O
+جزيرة O REVISIT
 هونج B-LOC
 كونج I-LOC
 بمساحة O
@@ -66635,7 +66635,7 @@ O O
 وعد O
 من O
 الصين B-LOC
-بألاتلجأ O
+بألاتلجأ O REVISIT
 إلى O
 أي O
 تغيير O
@@ -66740,7 +66740,7 @@ O O
 هبوط O
 طائرتنا O
 في O
-مطار O
+مطار O REVISIT
 هونج B-LOC
 كونج I-LOC
 الممتد O
@@ -66913,7 +66913,7 @@ O O
 الضخمة O
 المسماة O
 " O
-إمبريوم B-ORG
+إمبريوم B-ORG REVISIT
 " O
 . O
 
@@ -66955,7 +66955,7 @@ O O
 المماثلة O
 أقامتها O
 الصين B-LOC
-الشعبية O
+الشعبية O REVISIT
 في O
 هونج B-LOC
 كونج I-LOC
@@ -67216,7 +67216,7 @@ O O
 قبل O
 هبوطها O
 هو O
-خليج O
+خليج O REVISIT
 هونج B-LOC
 كونج I-LOC
 في O
@@ -67224,7 +67224,7 @@ O O
 الواقعة O
 شرق O
 مصب O
-نهر O
+نهر O REVISIT
 اللؤلؤ O
 والمرفا O
 الذي O
@@ -67250,7 +67250,7 @@ O O
 قائد O
 الطائرة O
 أن O
-خليج O
+خليج O REVISIT
 ويتليت B-LOC
 بين O
 جزيرة O
@@ -67260,7 +67260,7 @@ O O
 يتسع O
 بمساحة O
 59 O
-كم2 O
+كم2 O REVISIT
 ويتراوح O
 عرضه O
 بين O
@@ -67297,7 +67297,7 @@ O O
 ، O
 ونعرف O
 أن O
-ميناء O
+ميناء O REVISIT
 هونج B-LOC
 كونج I-LOC
 له O
@@ -67608,7 +67608,7 @@ O O
 مشاهدة O
 منظر O
 فريد O
-لجزيرة O
+لجزيرة O REVISIT
 هونج B-LOC
 كونج I-LOC
 وكاولون O
@@ -67727,7 +67727,7 @@ O O
 
 من O
 فوق O
-قمة O
+قمة O REVISIT
 فيكتوريا B-LOC
 نطل O
 إلى O
@@ -67844,7 +67844,7 @@ O O
 عليه O
 من O
 نوافذ O
-مطعم O
+مطعم O REVISIT
 برج B-ORG
 القمة I-ORG
 الذي O
@@ -67853,7 +67853,7 @@ O O
 1300 O
 قدم O
 على O
-جبل O
+جبل O REVISIT
 فيكتوريا B-LOC
 . O
 
@@ -67870,7 +67870,7 @@ O O
 الفقراء O
 ، O
 إلى O
-قرية O
+قرية O REVISIT
 إبردين B-LOC
 ، O
 الوجه O
@@ -67920,7 +67920,7 @@ O O
 . O
 
 في O
-قرية O
+قرية O REVISIT
 إبردين B-LOC
 البحرية O
 التي O
@@ -68012,7 +68012,7 @@ O O
 الصيد O
 ، O
 ولبى O
-أكثرمن O
+أكثرمن O REVISIT
 90% O
 من O
 الطلب O
@@ -68023,7 +68023,7 @@ O O
 ويبشر O
 هذا O
 بتحول O
-قرية O
+قرية O REVISIT
 إبردين B-LOC
 وصياديها O
 إلى O
@@ -68106,7 +68106,7 @@ O O
 وتسوى O
 ، O
 ثم O
-تختبرعلى O
+تختبرعلى O REVISIT
 صار O
 طويل O
 ، O
@@ -68221,7 +68221,7 @@ O O
 تسعة O
 أعشار O
 مساحة O
-مستعمرة O
+مستعمرة O REVISIT
 هونج B-LOC
 كونج I-LOC
 كان O
@@ -68702,7 +68702,7 @@ O O
 
 . O
 وندخل O
-قرية O
+قرية O REVISIT
 سونج B-LOC
 التقليدية O
 ، O
@@ -68715,7 +68715,7 @@ O O
 القديمة O
 في O
 عصر O
-مملكة O
+مملكة O REVISIT
 سونج B-LOC
 بين O
 عامي O
@@ -68899,7 +68899,7 @@ O O
 وجهها O
 يقودها O
 شقيقها O
-وأمهاإلى O
+وأمهاإلى O REVISIT
 بيت O
 العرس O
 . O
@@ -68931,7 +68931,7 @@ O O
 والمصارعة O
 الصينية O
 ولعبة O
-الكونج B-MISC
+الكونج B-MISC REVISIT
 فو I-MISC
 ، O
 طوال O
@@ -69000,12 +69000,12 @@ O O
 بالحارسين O
 الإلهيين O
 " O
-شن B-PERS
+شن B-PERS REVISIT
 تو I-PERS
 " O
 و O
 " O
-يوليو B-PERS
+يوليو B-PERS REVISIT
 " O
 ، O
 الشقيقين O
@@ -69214,7 +69214,7 @@ O O
 المعروفة O
 باسم O
 " O
-عصر B-MISC
+عصر B-MISC REVISIT
 هوسيا I-MISC
 " O
 والذي O
@@ -69430,7 +69430,7 @@ O O
 منغوليا B-LOC
 لمواجهة O
 جحافل O
-التتار B-MISC
+التتار B-MISC REVISIT
 الغزاة O
 واستطاع O
 ان O
@@ -69490,11 +69490,11 @@ O O
 المنتصرين O
 فر O
 إلى O
-جزيرة O
+جزيرة O REVISIT
 هونج B-LOC
 كونج I-LOC
 حيث O
-انتحرغرقا O
+انتحرغرقا O REVISIT
 في O
 المياه O
 المحيطة O
@@ -69520,7 +69520,7 @@ O O
 من O
 خلال O
 تماثيل O
-متحف O
+متحف O REVISIT
 الشم B-ORG
 الذي O
 تواصل O
@@ -69535,7 +69535,7 @@ O O
 تونج I-PERS
 حكم O
 الصين B-LOC
-الشعبية O
+الشعبية O REVISIT
 . O
 
 أرخص O
@@ -69715,7 +69715,7 @@ O O
 ايضا O
 إلى O
 هبوط O
-الاسعرا O
+الاسعرا O REVISIT
 إلى O
 درجة O
 أدنى O
@@ -69812,7 +69812,7 @@ O O
 المنزل O
 ويسمونها O
 " O
-داي B-MISC
+داي B-MISC REVISIT
 دونج I-MISC
 " O
 وإذا O
@@ -69838,7 +69838,7 @@ O O
 الفور O
 إبريق O
 معدني O
-منالشاي O
+منالشاي O REVISIT
 الأخضر O
 الساخن O
 ، O
@@ -69874,8 +69874,8 @@ O O
 إعداد O
 الطعام O
 فتجد O
-موقعد O
-الكيروسين B-MISC
+موقعد O REVISIT
+الكيروسين B-MISC REVISIT
 القوي O
 وعليه O
 طاسات O
@@ -69925,7 +69925,7 @@ O O
 أبسط O
 يسمى O
 " O
-كونجي B-MISC
+كونجي B-MISC REVISIT
 " O
 وهو O
 عبارة O
@@ -70124,7 +70124,7 @@ O O
 السائحين O
 ويلفت O
 أنظارهم O
-مهرجان O
+مهرجان O REVISIT
 قوارب B-MISC
 التنين I-MISC
 ، O
@@ -70203,13 +70203,13 @@ O O
 الدينية O
 في O
 " O
-تين B-MISC
+تين B-MISC REVISIT
 هاو I-MISC
 " O
 ، O
 الناسك O
 في O
-المعبديحمل O
+المعبديحمل O REVISIT
 دمية O
 المملكة O
 السماوية O
@@ -70221,7 +70221,7 @@ O O
 البركة O
 ، O
 ويتصدر O
-المعبدتمثال O
+المعبدتمثال O REVISIT
 للملكة O
 ويسمونها O
 في O
@@ -70321,7 +70321,7 @@ O O
 الصيادون O
 بعيد O
 " O
-تيني B-MISC
+تيني B-MISC REVISIT
 هاو I-MISC
 " O
 التي O
@@ -70504,7 +70504,7 @@ O O
 زيارتنا O
 لمعبد O
 " O
-مان B-MISC
+مان B-MISC REVISIT
 مو I-MISC
 " O
 ، O
@@ -70542,7 +70542,7 @@ O O
 تماثيل O
 الهة O
 " O
-الطاويين B-MISC
+الطاويين B-MISC REVISIT
 " O
 . O
 و O
@@ -70623,7 +70623,7 @@ O O
 دخول O
 البيت O
 ، O
-فالطاويون B-MISC
+فالطاويون B-MISC REVISIT
 يؤمنون O
 بكل O
 هذه O
@@ -70737,7 +70737,7 @@ O O
 قلب O
 المنطقة O
 التجارية O
-بمدينة O
+بمدينة O REVISIT
 كاولون B-LOC
 . O
 
@@ -70945,7 +70945,7 @@ O O
 24 O
 هم O
 أعضاء O
-المجلس O
+المجلس O REVISIT
 المدني O
 ، O
 وهذا O
@@ -70987,7 +70987,7 @@ O O
 فهي O
 في O
 يد O
-المجلس O
+المجلس O REVISIT
 التنفيذي O
 والمجلس O
 التشريعي O
@@ -71002,7 +71002,7 @@ O O
 . O
 
 ويقوم O
-المجلس O
+المجلس O REVISIT
 التنفيذي O
 بإسداء O
 النصح O
@@ -71036,7 +71036,7 @@ O O
 . O
 
 أما O
-المجلس O
+المجلس O REVISIT
 التشريعي O
 فيقوم O
 بإصدار O
@@ -71059,7 +71059,7 @@ O O
 الماضي O
 انتخاب O
 اعضاء O
-المجلس O
+المجلس O REVISIT
 التشريعي O
 حيث O
 اختار O
@@ -71089,7 +71089,7 @@ O O
 ويرأس O
 الحاكم O
 البريطاني O
-المجلس O
+المجلس O REVISIT
 التشريعي O
 . O
 
@@ -71284,9 +71284,9 @@ O O
 الضخمة O
 وخاصة O
 في O
-منطقة O
+منطقة O REVISIT
 كولون B-LOC
-الصناعية O
+الصناعية O REVISIT
 . O
 
 وبالتأكيد O
@@ -71551,7 +71551,7 @@ O O
 على O
 جر O
 " O
-الريكشا B-MISC
+الريكشا B-MISC REVISIT
 " O
 التى O
 يتنزه O
@@ -71641,7 +71641,7 @@ O O
 العقارات O
 الذي O
 كانت O
-وزارة O
+وزارة O REVISIT
 المالية O
 قد O
 اعتمدت O
@@ -71905,7 +71905,7 @@ O O
 إذا O
 احتلتها O
 الصين B-LOC
-الشعبية O
+الشعبية O REVISIT
 ولم O
 تنفذ O
 تعهداتها O
@@ -72045,7 +72045,7 @@ O O
 إلى O
 الأمام O
 . O
-
+ARTICLE
 مقاتلو O
 حزب B-ORG
 الله I-ORG
@@ -72268,7 +72268,7 @@ O O
 ؛ O
 الناطق O
 باسم O
-وزارة O
+وزارة O REVISIT
 الخارجية O
 الإسرائيلية O
 : O
@@ -72328,7 +72328,7 @@ O O
 الحزب O
 أجبروا O
 جنود O
-الكوماندوز B-MISC
+الكوماندوز O
 الإسرائيليين O
 الذين O
 كانوا O
@@ -72367,7 +72367,7 @@ O O
 التي O
 ترددت O
 عن O
-مقتل3 O
+مقتل3 O REVISIT
 من O
 الحزب O
 في O
@@ -72408,7 +72408,7 @@ O O
 , O
 وفيجاي B-PERS
 نامبيار I-PERS
-موفدي I-PERS
+موفدي O
 الأمم B-ORG
 المتحدة I-ORG
 , O
@@ -72512,14 +72512,14 @@ O O
 الهندسة O
 الفرنسي O
 تضم O
-نحو50 O
+نحو50 O REVISIT
 عنصرا O
 عن O
 طريق O
 البحر O
 إلي O
 ميناء O
-بلدة O
+بلدة O REVISIT
 الناقورة B-LOC
 الحدودية O
 في O
@@ -72542,7 +72542,7 @@ O O
 بوابة B-LOC
 فاطمة I-LOC
 في O
-بلدة O
+بلدة O REVISIT
 كفر B-LOC
 كلا O
 علي O
@@ -72562,7 +72562,7 @@ O O
 المرة O
 الأولي O
 منذ O
-عام1975 O
+عام1975 O FIX
 , O
 التي O
 ينتشر O
@@ -72594,7 +72594,7 @@ O O
 نبيه B-PERS
 بري I-PERS
 رئيس O
-مجلس O
+مجلس O REVISIT
 النواب O
 أن O
 تجريد O
@@ -72740,7 +72740,7 @@ O O
 الغذائية O
 في O
 دبي B-LOC
-المقررعقده O
+المقررعقده O FIX
 في O
 فبراير O
 . O
@@ -72770,7 +72770,7 @@ O O
 بين O
 اليابان B-LOC
 ودول O
-مجلس O
+مجلس O REVISIT
 التعاون O
 . O
 
@@ -72795,7 +72795,7 @@ O O
 لدى O
 الدولة O
 . O
-
+ARTICLE
 فجر O
 فريق O
 شيفلد B-ORG
@@ -72873,7 +72873,7 @@ O O
 من O
 ملعبه O
 الجدي O
-ستاد B-MISC
+ستاد B-MISC REVISIT
 الإمارات I-MISC
 الذي O
 شهد O
@@ -73058,7 +73058,7 @@ O O
 نقطة O
 واحدة O
 . O
-
+ARTICLE
 الرئيس O
 الإيراني O
 أحمدي B-PERS
@@ -73103,7 +73103,7 @@ O O
 نجاد B-PERS
 في O
 تصريحاته O
-لصحيفة O
+لصحيفة O REVISIT
 الجارديان B-ORG
 البريطانية O
 ان O
@@ -73211,7 +73211,7 @@ O O
 العالم O
 الإسلامي O
 . O
-
+ARTICLE
 إنزال O
 فاشل O
 ومقتل O
@@ -73248,7 +73248,7 @@ O O
 رئيس O
 الحكومة O
 الفلسطينية O
-و21 O
+و21 O FIX
 نائبا O
 ورئيس O
 المجلس O
@@ -73274,8 +73274,8 @@ O O
 آليات O
 عسكرية O
 في O
-منحدرات O
-بلاد O
+منحدرات O REVISIT
+بلاد O 
 جبيل B-LOC
 باتجاه O
 البقاع O
@@ -73283,7 +73283,7 @@ O O
 وسلكت O
 الآليات O
 طريق O
-لاسا B-MISC
+لاسا REVISIT B-MISC
 باتجاه O
 بوداي B-LOC
 ، O
@@ -73434,7 +73434,7 @@ O O
 عسكرية O
 مع O
 سيارة O
-رانج B-MISC
+رانج B-MISC REVISIT
 روفر I-MISC
 . O
 
@@ -73532,7 +73532,7 @@ O O
 غطاء O
 اميركي O
 باستعمال O
-الفيتو B-MISC
+الفيتو B-MISC REVISIT
 وبالضغط O
 على O
 الحكومة O
@@ -73850,7 +73850,7 @@ O O
 
 وكان O
 رئيس O
-مجلس O
+مجلس O REVISIT
 النواب O
 قد O
 طلب O
@@ -73949,7 +73949,7 @@ O O
 الوزراء O
 وقف O
 انتشار O
-الجيش O
+الجيش O REVISIT
 اللبناني O
 في O
 الجنوب O
@@ -73997,7 +73997,7 @@ O O
 ناطق O
 عسكري O
 لبناني O
-لوكالة O
+لوكالة O REVISIT
 فرانس B-ORG
 برس I-ORG
 ان O
@@ -74010,7 +74010,7 @@ O O
 اليتين O
 من O
 طراز O
-هامر B-MISC
+هامر B-MISC REVISIT
 في O
 افقا O
 على O
@@ -74034,7 +74034,7 @@ O O
 الجنود O
 الاسرائيليين O
 هاجموا O
-مدرسة O
+مدرسة O REVISIT
 البلدة B-ORG
 تساندهم O
 رشاشات O
@@ -74170,7 +74170,7 @@ O O
 
 كما O
 اكد O
-لوكالة O
+لوكالة O REVISIT
 فرانس B-ORG
 برس I-ORG
 شاهد O
@@ -74190,7 +74190,7 @@ O O
 كانوا O
 يرتدون O
 زي O
-الجيش O
+الجيش O REVISIT
 اللبناني O
 . O
 
@@ -74215,7 +74215,7 @@ O O
 وبعدها O
 كما O
 افادت O
-الشرطة O
+الشرطة O REVISIT
 اللبنانية O
 . O
 
@@ -74253,7 +74253,7 @@ O O
 واعلن O
 ناطق O
 باسم O
-الخارجية O
+الخارجية O REVISIT
 الاسرائيلية O
 لوكالة O
 فرانس B-ORG
@@ -74274,7 +74274,7 @@ O O
 1701 O
 لمجلس B-ORG
 الامن I-ORG
-الدولي O
+الدولي I-ORG
 الذي O
 يحظر O
 تزويد O
@@ -74600,8 +74600,8 @@ O O
 قوات O
 الطوارىء O
 الدولية O
-الان O
-بللغريني B-LOC
+الان B-PERS
+بللغريني I-PERS
 . O
 
 وتم O
@@ -74848,7 +74848,7 @@ O O
 الاسرائيليين O
 فان O
 الافراج O
-غيرالمشروط O
+غيرالمشروط O FIX
 عنهم O
 هو O
 احد O
@@ -74929,7 +74929,7 @@ O O
 بحرا O
 الى O
 ميناء O
-بلدة O
+بلدة O REVISIT
 الناقورة B-LOC
 الحدودية O
 في O
@@ -74981,12 +74981,12 @@ O O
 جنوب O
 لبنان B-LOC
 ( O
-يونيفيل B-MISC
+يونيفيل B-MISC REVISIT
 ) O
 ، O
 كما O
 اعلنت O
-الرئاسة O
+الرئاسة O REVISIT
 الفرنسية O
 . O
 
@@ -75006,7 +75006,7 @@ O O
 لجهة O
 تشكيل O
 قوة O
-اليونيفيل B-MISC
+اليونيفيل B-MISC REVISIT
 المعززة O
 والذي O
 سيعكس O
@@ -75100,7 +75100,7 @@ O O
 الاوروبي I-ORG
 في O
 قوة O
-اليونيفيل B-MISC
+اليونيفيل B-MISC REVISIT
 المعززة O
 في O
 لبنان B-LOC
@@ -75128,7 +75128,7 @@ O O
 الاوروبي I-ORG
 مع O
 مهمة O
-اليونيفيل B-MISC
+اليونيفيل B-MISC REVISIT
 » O
 . O
 
@@ -75201,7 +75201,7 @@ O O
 واضاف O
 ان O
 الحكومة O
-ورئاسة O
+ورئاسة O REVISIT
 الجمهورية O
 تدرسان O
 المسألة O
@@ -75212,7 +75212,7 @@ O O
 ـ O
 تركية O
 وافادت O
-وكالة O
+وكالة O REVISIT
 الاناضول B-ORG
 ان O
 رئيس O
@@ -75231,7 +75231,7 @@ O O
 انان I-PERS
 وقادة O
 ايطاليا B-LOC
-وفرنسا I-LOC
+وفرنسا B-LOC
 بشأن O
 تعزيز O
 قوات O
@@ -75240,7 +75240,7 @@ O O
 في O
 لبنان B-LOC
 ( O
-يونيفيل B-MISC
+يونيفيل B-MISC REVISIT
 ) O
 . O
 
@@ -75481,7 +75481,7 @@ O O
 قوات O
 الى O
 قوة O
-اليونيفيل B-MISC
+اليونيفيل B-MISC REVISIT
 الموسعة O
 والمعززة O
 . O
@@ -75624,7 +75624,7 @@ O O
 الذي O
 حصل O
 . O
-
+ARTICLE
 دبي B-LOC
 - O
 “ O
@@ -75765,8 +75765,8 @@ O O
 فيما O
 أغلق O
 سيراميك B-ORG
-رأس O
-الخيمة O
+رأس I-ORG
+الخيمة I-ORG
 على O
 94ر6 O
 درهم B-MISC
@@ -76040,7 +76040,7 @@ O O
 للعام O
 الحالي O
 . O
-
+ARTICLE
 قال O
 الباحث O
 العلمي O
@@ -76182,11 +76182,11 @@ O O
 وخط O
 العرض O
 ) O
-للكعبة B-MISC
+للكعبة B-MISC REVISIT
 المشرفة O
 ( O
-المسجد O
-الحرام B-ORG
+المسجد B-ORG
+الحرام I-ORG
 ) O
 بمكة B-LOC
 المكرمة O
@@ -76333,8 +76333,8 @@ O O
 الكعبة B-MISC
 المشرفة O
 ( O
-المسجد O
-الحرام B-ORG
+المسجد B-ORG
+الحرام I-ORG
 ) O
 بمكة B-LOC
 المكرمة O
@@ -77948,7 +77948,7 @@ moon O
 نفس O
 اللحظة O
 . O
-
+ARTICLE
 من O
 ويكيبيديا B-MISC
 , O
@@ -77963,14 +77963,14 @@ moon O
 التقسيمات O
 الادارية O
 حسب O
-الاتفاقيةإتفاقية O
+الاتفاقيةإتفاقية O FIX
 سايكس B-MISC
 بيكو I-MISC
 بين O
 فرنسا B-LOC
 وبريطانيا B-LOC
 وروسيا B-LOC
-القيصرية O
+القيصرية I-LOC
 على O
 إقتسام O
 مناطق O
@@ -78061,15 +78061,15 @@ moon O
 الجزء O
 الأكبر O
 من O
-بلاد O
+بلاد O REVISIT
 الشام B-LOC
 وجزء O
 كبير O
 من O
 جنوب O
 الأناضول B-LOC
-ومنطقة O
-الموصل O
+ومنطقة O REVISIT
+الموصل B-LOC
 في O
 العراق B-LOC
 . O
@@ -78094,8 +78094,8 @@ moon O
 المناطق O
 الواقعة O
 بين O
-الخليج O
-الفارسي O
+الخليج B-LOC
+الفارسي I-LOC
 والمنطقة O
 الفرنسية O
 . O
@@ -78103,7 +78103,7 @@ moon O
 كما O
 تقررأن O
 تقع O
-المنطقةالتى O
+المنطقةالتى O FIX
 اقتطعت O
 فيما O
 بعد O
@@ -78123,7 +78123,7 @@ moon O
 بريطانيا B-LOC
 وفرنسا B-LOC
 وروسيا B-LOC
-القيصرية O
+القيصرية I-LOC
 . O
 
 ولكن O
@@ -78158,7 +78158,7 @@ moon O
 في O
 حوزتها O
 . O
-
+ARTICLE
 الأمم B-ORG
 المتحدة I-ORG
 هي O
@@ -78185,12 +78185,12 @@ moon O
 سان B-LOC
 فرانسيسكو I-LOC
 في O
-ولاية O
+ولاية O REVISIT
 كاليفورنيا B-LOC
 الامريكية O
 ، O
 تبعا O
-لمؤتمر O
+لمؤتمر O REVISIT
 دومبارتون B-MISC
 أوكس I-MISC
 الذي O
@@ -78212,8 +78212,8 @@ moon O
 الامم I-ORG
 المتحدة I-ORG
 تدعي O
-عصبة O
-الامم O
+عصبة B-ORG
+الامم I-ORG
 التي O
 ممكن O
 اعتبارها O
@@ -78302,7 +78302,7 @@ moon O
 لهذا O
 التعبير O
 في O
-تاريخ1 O
+تاريخ1 O FIX
 يناير O
 1942 O
 باعلان O
@@ -78314,9 +78314,9 @@ moon O
 
 في O
 أثناء O
-الحرب O
-العالمية O
-الثانية O
+الحرب B-MISC
+العالمية I-MISC
+الثانية I-MISC
 استعمل O
 الحلفاء O
 تعبير O
@@ -78357,7 +78357,7 @@ moon O
 الخطط O
 المترتبة O
 عن O
-مؤتمر O
+مؤتمر O REVISIT
 دومبارتون B-MISC
 أوكس I-MISC
 وبعد O
@@ -78406,7 +78406,7 @@ moon O
 عام O
 1945 O
 عقد O
-مؤتمر O
+مؤتمر O REVISIT
 الامم B-ORG
 المتحدة I-ORG
 بحضور O
@@ -78429,9 +78429,9 @@ moon O
 حكومية O
 ، O
 مثل O
-نوادي O
-الاسود O
-الدولية O
+نوادي B-ORG
+الاسود I-ORG
+الدولية I-ORG
 دعيت O
 للمساعدة O
 في O
@@ -78538,7 +78538,7 @@ moon O
 2 O
 عضو O
 في O
-مجلس O
+مجلس O REVISIT
 الشيوخ O
 الامريكي O
 على O
@@ -78564,9 +78564,9 @@ moon O
 عام O
 1945 O
 طلب O
-مجلس O
+مجلس O REVISIT
 الشيوخ O
-ومجلس O
+ومجلس O REVISIT
 النواب O
 الامريكي O
 بالاجماع O
@@ -78590,12 +78590,12 @@ moon O
 بناء O
 المقر O
 في O
-مدينة O
+مدينة O REVISIT
 نيويورك B-LOC
 بين O
 عامي O
 1949 O
-و1950 O
+و1950 O FIX
 بجانب O
 النهر O
 الشرقي O
@@ -78651,7 +78651,7 @@ moon O
 للولايات B-LOC
 المتحدة I-LOC
 في O
-مدينة O
+مدينة O REVISIT
 نيويورك B-LOC
 ، O
 فان O
@@ -78935,7 +78935,7 @@ moon O
 منها O
 هي O
 " O
-اللجنة O
+اللجنة O REVISIT
 الاولى O
 للجمعية O
 العامة O
@@ -78944,7 +78944,7 @@ moon O
 " O
 و O
 " O
-لجنة O
+لجنة O REVISIT
 الأمم B-ORG
 المتحدة I-ORG
 لنزع O
@@ -79032,7 +79032,7 @@ moon O
 الرئيسية O
 الخمس O
 ( O
-جمهورية O
+جمهورية O REVISIT
 الصين B-LOC
 الشعبية O
 ، O
@@ -79228,7 +79228,7 @@ moon O
 تشريع O
 من O
 الكونغرس B-ORG
-الامريكي O
+الامريكي O REVISIT
 للسماح O
 بالدفع O
 بهذه O
@@ -79300,13 +79300,13 @@ moon O
 عام O
 1988 O
 استلمت O
-قوات O
+قوات O REVISIT
 حفظ O
 السلام O
 التابعة O
 للامم B-ORG
 المتحدة I-ORG
-جائزة O
+جائزة O REVISIT
 نوبل B-MISC
 للسلام O
 . O
@@ -79339,9 +79339,9 @@ moon O
 والابادة O
 الجماعية O
 في O
-الحرب O
-العالمية O
-الثانية O
+الحرب B-MISC
+العالمية I-MISC
+الثانية I-MISC
 الى O
 اجماع O
 عام O
@@ -79430,7 +79430,7 @@ moon O
 بانتظام O
 . O
 ان O
-لجنة O
+لجنة O REVISIT
 حقوق O
 الإنسان O
 التابعة O
@@ -79442,7 +79442,7 @@ UNHRC O
 ، O
 تحت O
 رعاية O
-المجلس O
+المجلس O REVISIT
 الاقتصادي O
 والاجتماعي O
 التابع O
@@ -79532,14 +79532,14 @@ UNHRC O
 محكمة B-ORG
 العدل I-ORG
 الدولية I-ORG
-ضربت O
+ضربت O ARTICLE
 فيضانات O
 جديدة O
 منطقة O
 طوكر B-LOC
 الواقعة O
 جنوب O
-مدينة O
+مدينة O REVISIT
 بورتسودان B-LOC
 شرق O
 البلاد O
@@ -79558,7 +79558,7 @@ UNHRC O
 الجزيرة B-ORG
 أن O
 منسوب O
-نهر O
+نهر O REVISIT
 بركة O
 الذي O
 ينبع O
@@ -79576,7 +79576,7 @@ UNHRC O
 عدة O
 قرى O
 في O
-منطقة O
+منطقة O REVISIT
 طوكر B-LOC
 ( O
 260 O
@@ -79597,9 +79597,9 @@ UNHRC O
 الدفاع O
 المدني O
 اللواء O
-عوض O
-وديعة O
-الله B-MISC
+عوض B-PERS
+وديعة I-PERS
+الله I-MISC
 قال O
 للجزيرة B-ORG
 إن O
@@ -79705,7 +79705,7 @@ UNHRC O
 منسوب O
 مياه O
 النيل B-LOC
-الأزرق O
+الأزرق I-LOC
 في O
 سنار B-LOC
 والدمازين B-LOC
@@ -79780,7 +79780,7 @@ UNHRC O
 لهذا O
 الخطر O
 . O
-احتل O
+احتل O ARTICLE
 مسلحون O
 صوماليون O
 مدعومون O
@@ -79788,7 +79788,7 @@ UNHRC O
 قوات O
 إثيوبية O
 بلدة O
-وسط O
+وسط O REVISIT
 الصومال B-LOC
 بعد O
 أن O
@@ -79810,7 +79810,7 @@ UNHRC O
 وقال O
 المتحدث O
 باسم O
-المجلس O
+المجلس O REVISIT
 الأعلى O
 الإسلامي O
 في O
@@ -79831,7 +79831,7 @@ UNHRC O
 قيديد I-PERS
 سيطروا O
 على O
-بلدة O
+بلدة O REVISIT
 بنديرادلي B-LOC
 بدعم O
 من O
@@ -79848,7 +79848,7 @@ UNHRC O
 وقال O
 رئيس O
 مجلس O
-اتحاد O
+اتحاد O REVISIT
 المحاكم O
 الإسلامية O
 في O
@@ -79894,7 +79894,7 @@ UNHRC O
 اعتداء O
 على O
 أراضي O
-الشعب O
+الشعب O REVISIT?
 الصومالي O
 " O
 وهو O
@@ -79909,7 +79909,7 @@ UNHRC O
 وقال O
 المتحدث O
 باسم O
-المجلس O
+المجلس O REVISIT
 الأعلى O
 الإسلامي O
 في O
@@ -79932,11 +79932,11 @@ UNHRC O
 70 O
 كلم O
 شمال O
-مدينة O
+مدينة O REVISIT
 جالكعبو B-LOC
 عاصمة O
-محافظة O
-مدن O
+محافظة O REVISIT
+مدن O REVISIT
 وسط O
 الصومال B-LOC
 . O
@@ -80090,7 +80090,7 @@ UNHRC O
 في O
 إشارة O
 إلى O
-اتحاد O
+اتحاد O REVISIT
 المحاكم O
 الإسلامية O
 . O
@@ -80196,7 +80196,7 @@ UNHRC O
 الجزيرة B-ORG
 نت I-ORG
 أن O
-اتحاد O
+اتحاد O REVISIT
 المحاكم O
 الإسلامية O
 دعا O
@@ -80223,7 +80223,7 @@ UNHRC O
 الناطق O
 الرسمي O
 باسم O
-المحاكم O
+المحاكم O REVISIT
 عبد B-PERS
 الرحمن I-PERS
 مودي I-PERS
@@ -80273,7 +80273,7 @@ UNHRC O
 الجديدة O
 رفضت O
 عرض O
-المحاكم O
+المحاكم O REVISIT
 ، O
 واعتبر O
 المتحدث O
@@ -80292,7 +80292,7 @@ UNHRC O
 على O
 حكومته O
 . O
-
+ARTICLE
 متابعة O
 - O
 صلاح B-PERS
@@ -80301,8 +80301,8 @@ UNHRC O
 يبدو O
 أن O
 عرض O
-العربي O
-الكويتي O
+العربي O REVISIT
+الكويتي O REVISIT
 جعل O
 اللاعب O
 البحريني O
@@ -80313,7 +80313,7 @@ UNHRC O
 يفي O
 بوعوده O
 لادارة O
-الخور B-PERS
+الخور B-ORG
 بالانضمام O
 لتدريبات O
 الفريق O
@@ -80324,7 +80324,7 @@ UNHRC O
 لم O
 يصل O
 عدنان B-PERS
-للخور B-PERS
+للخور B-ORG
 كما O
 لم O
 يكلف O
@@ -80340,13 +80340,13 @@ UNHRC O
 
 وكانت O
 ادارة O
-الخور B-PERS
+الخور B-ORG
 اتفقت O
 مع O
 اللاعب O
-علي B-PERS
+علي O
 العودة O
-للدوحة O
+للدوحة B-LOC
 السبت O
 المقبل O
 لاستلام O
@@ -80405,7 +80405,7 @@ UNHRC O
 اليوم O
 فإن O
 ادارة O
-الخور B-PERS
+الخور B-ORG
 ستطالبه O
 برد O
 95 O
@@ -80427,7 +80427,7 @@ UNHRC O
 يوسف B-PERS
 روسي I-PERS
 لتدريبات O
-الفرسان O
+الفرسان B-ORG
 بعد O
 وصوله O
 من O
@@ -80455,7 +80455,7 @@ UNHRC O
 الأمور O
 المادية O
 . O
-
+ARTICLE
 فلسطين B-LOC
 المحتلة O
 - O
@@ -80481,7 +80481,7 @@ UNHRC O
 في O
 وقت O
 واصل O
-الطيران O
+الطيران O REVISIT
 الإسرائيلي O
 غاراته O
 الجوية O
@@ -80500,8 +80500,8 @@ UNHRC O
 وهم O
 ناشطون O
 في O
-سرايا O
-القدس B-LOC
+سرايا B-ORG
+القدس I-ORG
 الجناح O
 العسكري O
 لحركة O
@@ -80527,7 +80527,7 @@ UNHRC O
 في O
 شرق O
 خان B-LOC
-يونس B-LOC
+يونس I-LOC
 . O
 
 وقال O
@@ -80565,16 +80565,16 @@ UNHRC O
 جثث O
 الشهداء O
 إلى O
-مستشفى O
+مستشفى O REVISIT
 " O
-شهداء B-MISC
-الأقصى I-MISC
+شهداء B-LOC
+الأقصى I-LOC
 " O
 بدير B-LOC
 البلح I-LOC
 في O
 جنوب O
-قطاع O
+قطاع O REVISIT
 غزة B-LOC
 وهي O
 مشوهة O
@@ -80596,10 +80596,10 @@ UNHRC O
 التنسيق O
 والارتباط O
 في O
-وزارة O
+وزارة O REVISIT
 الصحة O
 الفلسطينية O
-لوكالة O
+لوكالة O REVISIT
 فرانس B-ORG
 برس I-ORG
 . O
@@ -80607,7 +80607,7 @@ UNHRC O
 وأكد O
 مصدر O
 في O
-حركة O
+حركة O REVISIT
 الجهاد B-ORG
 الإسلامي I-ORG
 إن O
@@ -80656,7 +80656,7 @@ UNHRC O
 
 وفي O
 شرق O
-مدينة O
+مدينة O REVISIT
 غزة B-LOC
 أصيب O
 خمسة O
@@ -80665,12 +80665,12 @@ UNHRC O
 ثلاثة O
 ناشطين O
 من O
-حركة O
+حركة O REVISIT
 المقاومة O
 الإسلامية O
 حماس B-ORG
 بنيران O
-الجيش O
+الجيش O REVISIT
 الإسرائيلي O
 عندما O
 توغلت O
@@ -80684,7 +80684,7 @@ UNHRC O
 الدبابات O
 والمدرعات O
 قرب O
-حاجز O
+حاجز O REVISIT
 " O
 ناحال B-LOC
 عوز I-LOC
@@ -80692,7 +80692,7 @@ UNHRC O
 الإسرائيلي O
 في O
 شرق O
-منطقة O
+منطقة O REVISIT
 الشجاعية B-LOC
 شرق O
 مدينة O
@@ -80718,7 +80718,7 @@ UNHRC O
 فجر O
 أمس O
 في O
-منطقة O
+منطقة O REVISIT
 الشجاعية B-LOC
 ما O
 أدى O
@@ -80766,7 +80766,7 @@ UNHRC O
 الآخرين O
 نقلوا O
 إلى O
-مستشفى O
+مستشفى O REVISIT
 الشفاء O
 بغزة B-LOC
 وحالتهم O
@@ -80836,12 +80836,12 @@ UNHRC O
 حميد I-PERS
 الناشط I-PERS
 في O
-حركة O
+حركة O REVISIT
 حماس B-ORG
 في O
 رفح B-LOC
 جنوب O
-قطاع O
+قطاع O REVISIT
 غزة B-LOC
 ما O
 أدى O
@@ -80872,7 +80872,7 @@ UNHRC O
 وهو O
 ناشط O
 في O
-حركة O
+حركة O REVISIT
 الجهاد B-ORG
 الإسلامي I-ORG
 حيث O
@@ -80933,7 +80933,7 @@ UNHRC O
 لتخزين O
 أسلحة O
 عائدة O
-للجهاد O
+للجهاد O REVISIT
 الإسلامي O
 " O
 ، O
@@ -80976,10 +80976,10 @@ UNHRC O
 أمس O
 في O
 شرق O
-بلدة O
+بلدة O REVISIT
 خزاعة B-LOC
 جنوب O
-قطاع O
+قطاع O REVISIT
 غزة B-LOC
 . O
 
@@ -81002,17 +81002,17 @@ UNHRC O
 ، O
 واطلاق O
 قذيفة O
-آر B-MISC
-بي I-MISC
-جي I-MISC
+آر O
+بي O
+جي O
 على O
 ناقلة O
 جند O
 في O
-منطقة O
+منطقة O REVISIT
 خزاعة B-LOC
 جنوب O
-قطاع O
+قطاع O REVISIT
 غزة B-LOC
 ما O
 أدى O
@@ -81036,7 +81036,7 @@ UNHRC O
 الإسرائيلي O
 المستمر O
 في O
-قطاع O
+قطاع O REVISIT
 غزة B-LOC
 ، O
 متوعدا O
@@ -81082,7 +81082,7 @@ UNHRC O
 ستة O
 فلسطينيين O
 في O
-مدينتي O
+مدينتي O REVISIT
 نابلس B-LOC
 ورام B-LOC
 الله I-LOC
@@ -81114,16 +81114,16 @@ UNHRC O
 حركة O
 حماس B-ORG
 في O
-مدينة O
+مدينة O REVISIT
 جنين B-LOC
 شمال O
 الضفة B-LOC
 الغربية I-LOC
 . O
-
+ARTICLE
 كاتمندو B-LOC
 - O
-د O
+د O REVISIT
 ب O
 أ O
 : O
@@ -81164,7 +81164,7 @@ UNHRC O
 وقال O
 أحد O
 أعضاء O
-مجلس O
+مجلس O REVISIT
 الوزراء O
 إن O
 رئيس O
@@ -81189,7 +81189,7 @@ UNHRC O
 بأن O
 يطالب O
 شركة O
-نفط O
+نفط O REVISIT
 نيبال O
 الحكومية O
 بأن O
@@ -81220,7 +81220,7 @@ UNHRC O
 . O
 
 وأصدرت O
-رابطة O
+رابطة O REVISIT
 أصحاب O
 محطات O
 الوقود O
@@ -81343,7 +81343,7 @@ UNHRC O
 تراوحت O
 بين O
 11 O
-و25 O
+و25 O FIX
 في O
 المئة O
 . O
@@ -81379,7 +81379,7 @@ UNHRC O
 وتطالب O
 الرابطة O
 شركة O
-نفط O
+نفط O REVISIT
 نيبال O
 التي O
 تحتكر O
@@ -81394,7 +81394,7 @@ UNHRC O
 هذه O
 الخسائر O
 . O
-
+ARTICLE
 عامل O
 سيمافور O
 أعطي O
@@ -81431,14 +81431,14 @@ UNHRC O
 بين O
 قطاري O
 المنصورة B-LOC
-وبنها O
+وبنها B-LOC
 , O
 والذي O
 أسفر O
 عن O
-رحيل56 O
+رحيل56 O FIX
 مواطنا O
-وإصابة143 O
+وإصابة143 O FIX
 آخرين O
 . O
 
@@ -81535,9 +81535,9 @@ UNHRC O
 أن O
 عامل O
 المزلقان O
-بمنطقة O
-عرب O
-العراقي O
+بمنطقة O REVISIT
+عرب B-LOC
+العراقي I-LOC
 صرخ O
 في O
 سائق O
@@ -81587,7 +81587,7 @@ UNHRC O
 , O
 ثم O
 بعد O
-مسافة500 O
+مسافة500 O FIX
 متر O
 فوجئ O
 بعامل O
@@ -81620,7 +81620,7 @@ UNHRC O
 القيادة O
 فوجئ O
 بقطار O
-المنصورة O
+المنصورة B-LOC
 قادما O
 بسرعة O
 ليصطدم O
@@ -81663,7 +81663,7 @@ UNHRC O
 أمس O
 لأقوال O
 رئيس O
-هيئة O
+هيئة O REVISIT
 السكك O
 الحديدية O
 حنفي B-PERS
@@ -81696,11 +81696,11 @@ UNHRC O
 والإشارات O
 الضوئية O
 وأجهزة O
-إيه B-MISC
+إيه O
 . O
-دي I-MISC
+دي O
 . O
-سي I-MISC
+سي O
 التي O
 تمثل O
 الصندوق O
@@ -81784,9 +81784,9 @@ UNHRC O
 طارق B-PERS
 إبراهيم I-PERS
 رئيس O
-نيابة O
+نيابة O REVISIT
 قليوب B-LOC
-الكلية O
+الكلية O REVISIT
 بالتحفظ O
 علي O
 عبدالفتاح B-PERS
@@ -81892,15 +81892,15 @@ UNHRC O
 الكارثة O
 أسفرت O
 عن O
-مصرع56 O
+مصرع56 O FIX
 قتيلا O
-و143 O
+و143 O FIX
 مصابا O
 , O
 غادر O
 منهم O
 حتي O
-أمس42 O
+أمس42 O FIX
 مصابا O
 بعد O
 تماثلهم O
@@ -81908,10 +81908,10 @@ UNHRC O
 , O
 بينما O
 سلمت O
-مشرحة O
+مشرحة O REVISIT
 زينهم O
 بالقاهرة B-LOC
-جثث55 O
+جثث55 O FIX
 ضحية O
 لذويهم O
 , O
@@ -81943,7 +81943,7 @@ UNHRC O
 وزير O
 الاستثمار O
 ورئيس O
-المجلس O
+المجلس O REVISIT
 الأعلي O
 للتأمين O
 صرف O
@@ -81964,7 +81964,7 @@ UNHRC O
 علي O
 التعويض O
 بالكامل O
-وقدره20 O
+وقدره20 O FIX
 ألف O
 جنيه B-MISC
 . O
@@ -82014,7 +82014,7 @@ UNHRC O
 طلبت O
 لجنة O
 النقل O
-بمجلس O
+بمجلس O REVISIT
 الشعب O
 مثول O
 وزيري O
@@ -82048,15 +82048,15 @@ UNHRC O
 أمانة O
 المرأة O
 في O
-الحزب O
+الحزب O REVISIT
 الوطني O
-الديمقراطي20 O
+الديمقراطي20 O FIX
 سيارة O
 لنقل O
 جثث O
 المتوفين O
 إلي O
-مشرحة O
+مشرحة O REVISIT
 زينهم O
 , O
 و50 O
@@ -82072,7 +82072,7 @@ UNHRC O
 وفي O
 دبي B-LOC
 قررت O
-هيئة O
+هيئة O REVISIT
 المكتوم O
 الخيرية O
 تقديم O
@@ -82087,7 +82087,7 @@ UNHRC O
 في O
 الحادث O
 . O
-
+ARTICLE
 كتب O
 : O
 هشام B-PERS
@@ -82148,7 +82148,7 @@ UNHRC O
 دراسة O
 علمية O
 محكمة O
-من500 O
+من500 O FIX
 صفحة O
 للدكتور O
 بهاء B-PERS
@@ -82157,7 +82157,7 @@ UNHRC O
 أستاذ O
 الأدب O
 العربي O
-بكلية O
+بكلية O REVISIT
 الآداب O
 جامعة B-ORG
 حلوان I-ORG
@@ -82172,14 +82172,14 @@ UNHRC O
 واشتهر O
 في O
 زمن O
-الدولة O
+الدولة O REVISIT
 المملوكية O
 . O
 
 حيث O
 ولد O
 بالقاهرة B-LOC
-عام661 O
+عام661 O FIX
 هجرية O
 وتوفي O
 وهو O
@@ -82245,7 +82245,7 @@ UNHRC O
 
 ـ O
 ؛ O
-الشاب O
+الشاب O REVISIT
 الظريف O
 ـ O
 ؛ O
@@ -82255,10 +82255,10 @@ UNHRC O
 ولاه O
 السلطان O
 قلاوون B-PERS
-وزارة O
+وزارة O REVISIT
 الخزانة O
 بالشام B-LOC
-عام684 O
+عام684 O FIX
 هجرية O
 وهو O
 إبن O
@@ -82321,10 +82321,10 @@ UNHRC O
 فتكت O
 به O
 الوجنات O
-والأحداق O
+والأحداق O ARTICLE
 لندن B-LOC
 - O
-د O
+د O REVISIT
 . O
 ب O
 . O
@@ -82353,7 +82353,7 @@ UNHRC O
 الجديد O
 من O
 مسابقة O
-الدوري O
+الدوري O REVISIT
 الانكليزي O
 الممتاز O
 اليوم O
@@ -82394,7 +82394,7 @@ UNHRC O
 ان O
 تستهدفه O
 جماهير O
-نادي O
+نادي O REVISIT
 تشارلتون B-ORG
 الانكليزي O
 اليوم O
@@ -82406,7 +82406,7 @@ UNHRC O
 في O
 طرد O
 نجم O
-المنتخب O
+المنتخب O REVISIT
 الانكليزي O
 روني B-PERS
 في O
@@ -82415,13 +82415,13 @@ UNHRC O
 والبرتغال I-LOC
 بدور O
 الثمانية O
-بكأس O
+بكأس O REVISIT
 العالم O
 . O
 
 وصرح O
 رونالدو B-PERS
-لصحيفة O
+لصحيفة O REVISIT
 صن B-ORG
 البريطانية O
 في O
@@ -82481,7 +82481,7 @@ UNHRC O
 المباراة O
 التي O
 جرت O
-بمانشستر B-ORG
+بمانشستر B-LOC
 وقال O
 ' O
 سارت O
@@ -82531,14 +82531,14 @@ UNHRC O
 المباراة O
 ' O
 . O
-
+ARTICLE
 ساو B-LOC
 باولو I-LOC
 ( O
 البرازيل B-LOC
 ) O
 - O
-أ O
+أ O REVISIT
 . O
 ف O
 . O
@@ -82551,7 +82551,7 @@ UNHRC O
 مهاجم O
 منتخب O
 الارجنتين B-LOC
-ونادي O
+ونادي O REVISIT
 كورينثيانز B-ORG
 البرازيلي O
 كارلوس B-PERS
@@ -82576,7 +82576,7 @@ UNHRC O
 الفريق O
 حارس O
 مرمى O
-منتخب O
+منتخب O REVISIT
 البرازيل B-LOC
 السابق O
 ايمرسون B-PERS
@@ -82629,7 +82629,7 @@ UNHRC O
 ذكرت O
 منذ O
 نهاية O
-مونديال O
+مونديال O REVISIT
 المانيا B-LOC
 الشهر O
 الماضي O
@@ -82642,7 +82642,7 @@ UNHRC O
 الاوروبية O
 خصوصا O
 ان O
-ناديي O
+ناديي O REVISIT
 تشلسي B-ORG
 ومانشستر B-ORG
 يونايتد I-ORG
@@ -82655,7 +82655,7 @@ UNHRC O
 . O
 
 وذكرت O
-صحيفة O
+صحيفة O REVISIT
 ' O
 لانس B-ORG
 ' O
@@ -82676,7 +82676,7 @@ UNHRC O
 المقابل O
 ، O
 ذكرت O
-صحيفة O
+صحيفة O REVISIT
 ' O
 دايلي B-ORG
 ميرور I-ORG
@@ -82720,7 +82720,7 @@ UNHRC O
 مدريد I-ORG
 الاسباني O
 . O
-
+ARTILCE
 باكو B-LOC
 ، O
 اسلام B-LOC
@@ -82809,7 +82809,7 @@ UNHRC O
 لدى O
 وصوله O
 الى O
-مطار O
+مطار O REVISIT
 حيدر B-MISC
 علييف I-MISC
 الدولي O
@@ -83027,10 +83027,10 @@ UNHRC O
 الاراضي O
 الفلسطينية O
 . O
-
+ARTICLE
 كييف B-LOC
 - O
-د O
+د O REVISIT
 ب O
 ا O
 يسود O
@@ -83063,7 +83063,7 @@ UNHRC O
 على O
 ضفاف O
 تلالية O
-لنهر O
+لنهر O REVISIT
 دنيبرو B-LOC
 الذي O
 يتسع O
@@ -83125,7 +83125,7 @@ UNHRC O
 اهمية O
 في O
 كييف B-LOC
-الدير O
+الدير O REVISIT
 الكهفي O
 . O
 ويستطيع O
@@ -83188,10 +83188,10 @@ UNHRC O
 يمكن O
 مشاهدتها O
 في O
-كييف O
-كنيسة O
-الصعود O
-المريمية O
+كييف B-LOC
+كنيسة B-LOC
+الصعود I-LOC
+المريمية I-LOC
 ذات O
 القباب O
 الذهبية O
@@ -83200,7 +83200,7 @@ UNHRC O
 الصلبان O
 وبرج O
 الساعة O
-وكنيسة O
+وكنيسة O REVISIT
 اوزبينسكي B-MISC
 التي O
 اعيد O
@@ -83209,9 +83209,9 @@ UNHRC O
 التسعينيات O
 . O
 
-والاديرة O
+والاديرة O REVISIT
 الكهفية O
-وكاتدرائية O
+وكاتدرائية O REVISIT
 صوفي O
 ضمن O
 الكنوز O
@@ -83227,7 +83227,7 @@ UNHRC O
 هي O
 نموذج O
 من O
-كنيسة O
+كنيسة O REVISIT
 هاجيا B-MISC
 صوفيا I-MISC
 في O
@@ -83241,9 +83241,9 @@ UNHRC O
 مشاهدته O
 هوالقبة O
 الذهبية O
-لكنيسة O
+لكنيسة O REVISIT
 مايكل B-MISC
-المقدسة O
+المقدسة O REVISIT
 التي O
 بنيت O
 في O
@@ -83295,7 +83295,7 @@ UNHRC O
 لكل O
 الاوكرانيين O
 . O
-
+ARTICLE
 لقي O
 جندي O
 إسرائيلي O
@@ -83504,7 +83504,7 @@ UNHRC O
 لارسن B-PERS
 أن O
 انتشار O
-الجيش O
+الجيش O REVISIT
 اللبناني O
 والقوة O
 الدولية O
@@ -83586,7 +83586,7 @@ UNHRC O
 المشاركة O
 الأوروبية O
 في O
-يونيفيل B-MISC
+يونيفيل B-MISC REVISIT
 . O
 
 ويأتي O
@@ -83598,13 +83598,13 @@ UNHRC O
 أعلنت O
 استعدادها O
 لقيادة O
-يونيفيل B-MISC
+يونيفيل B-MISC REVISIT
 وسيعقد O
 بمشاركة O
 الأمين O
 العام O
-للمنظمة B-ORG
-الدولية I-ORG
+للمنظمة O
+الدولية O
 كوفي B-PERS
 أنان I-PERS
 . O
@@ -83814,10 +83814,10 @@ UNHRC O
 وتزامن O
 نشر O
 تصريحات O
-الأسد O
+الأسد B-PERS
 مع O
 مواصلة O
-الجيش O
+الجيش O REVISIT
 اللبناني O
 اليوم O
 تعزيز O
@@ -83839,7 +83839,7 @@ UNHRC O
 القنوات O
 الفضائية O
 العربية O
-الحكومة O
+الحكومة O REVISIT
 اللبنانية O
 إلى O
 تحمل O
@@ -83909,7 +83909,7 @@ UNHRC O
 عبر O
 الحدود O
 . O
-
+ARTICLE
 هذه O
 اراء O
 بعض O
@@ -83995,7 +83995,7 @@ UNHRC O
 يلعنها O
 ريتشارد B-PERS
 غير I-PERS
-ا O
+ا O FIX
 لعرب O
 هم O
 عاله O
@@ -84132,7 +84132,7 @@ UNHRC O
 الطرفين O
 فالجانبين O
 بشر O
-واصل O
+واصل O ARTICLE
 العداؤون O
 المغاربة O
 المشاركون O
@@ -84174,13 +84174,13 @@ UNHRC O
 حلت O
 ثانية O
 في O
-ملتقى O
+ملتقى O REVISIT
 زيوريخ B-LOC
 لألعاب O
 القوى O
 إحدى O
 مراحل O
-جائزة O
+جائزة O REVISIT
 العصبة O
 الذهبية O
 جاهزيتها O
@@ -84242,7 +84242,7 @@ UNHRC O
 زوليا B-PERS
 كالاتايود I-PERS
 بتوقيت O
-1دو O
+1دو O FIX
 59ث O
 و44 O
 ج O
@@ -84261,12 +84261,12 @@ UNHRC O
 كان O
 يقوم O
 بتحليل O
-ملتقى O
+ملتقى O REVISIT
 زيوريخ B-LOC
 عبر O
-قناة O
+قناة O REVISIT
 الجزيرة B-ORG
-الرياضية O
+الرياضية O REVISIT
 على O
 بنحسي B-PERS
 ، O
@@ -84282,7 +84282,7 @@ UNHRC O
 ليس O
 جيدا O
 لحد O
-كبيرإلا O
+كبيرإلا O FIX
 أنها O
 خاضت O
 السباق O
@@ -84341,7 +84341,7 @@ UNHRC O
 ، O
 مسجلا O
 توقيت O
-1دو43 O
+1دو43 O FIX
 ث O
 و91ج O
 . O
@@ -84361,8 +84361,8 @@ UNHRC O
 الذي O
 حقق O
 توقيت O
-1دو43ث O
-و38ج O
+1دو43ث O FIX
+و38ج O FIX
 . O
 
 م O
@@ -84391,7 +84391,7 @@ UNHRC O
 ويلفريد I-PERS
 ثالثا O
 بتوقيت O
-1دو43ثو67ج O
+1دو43ثو67ج O FIX
 . O
 
 م O
@@ -84424,7 +84424,7 @@ UNHRC O
 ، O
 مسجلا O
 توقيت O
-1دو45ث O
+1دو45ث O FIX
 و56 O
 ج O
 . O
@@ -84520,7 +84520,7 @@ UNHRC O
 ، O
 مسجلا O
 توقيت O
-8دو20ثو05ج O
+8دو20ثو05ج O FIX
 . O
 
 م O
@@ -84559,7 +84559,7 @@ UNHRC O
 مسجلا O
 توقيت O
 1د O
-و48ث O
+و48ث O FIX
 و39ج O
 . O
 
@@ -84576,7 +84576,7 @@ UNHRC O
 5000 O
 متر O
 . O
-
+ARTICLE
 إسرائيل B-LOC
 اغتالت O
 شهداء O
@@ -84592,9 +84592,9 @@ UNHRC O
 الشهداء O
 الفلسطينيين O
 في O
-حي O
+حي O REVISIT
 الشجاعية B-LOC
-بقطاع O
+بقطاع O REVISIT
 غزة B-LOC
 إلى O
 ثمانية O
@@ -84612,7 +84612,7 @@ UNHRC O
 الحي O
 الواقع O
 شرق O
-مدينة O
+مدينة O REVISIT
 غزة B-LOC
 . O
 
@@ -84701,7 +84701,7 @@ UNHRC O
 ولكن O
 متحدثة O
 باسم O
-الجيش O
+الجيش O REVISIT
 الإسرائيلي O
 قالت O
 إن O
@@ -84720,7 +84720,7 @@ UNHRC O
 مضادة O
 للدبابات O
 مستهدفين O
-القوات O
+القوات O REVISIT
 الإسرائيلية O
 . O
 
@@ -84738,9 +84738,9 @@ UNHRC O
 تحت O
 الأرض O
 بين O
-قطاع O
+قطاع O REVISIT
 غزة B-LOC
-ومعبر O
+ومعبر O REVISIT
 المنطار O
 القريب O
 من O
@@ -84783,14 +84783,14 @@ UNHRC O
 قائد O
 الجناح O
 العسكري O
-لحركة O
+لحركة O REVISIT
 الجهاد B-ORG
 الإسلامي I-ORG
 في O
 الضفة B-LOC
 الغربية I-LOC
-حسام O
-جرادات O
+حسام B-PERS
+جرادات I-PERS
 متأثرا O
 بجروح O
 أصيب O
@@ -84804,11 +84804,11 @@ UNHRC O
 خلال O
 عملية O
 نفذها O
-الجيش O
+الجيش O REVISIT
 الإسرائيلي O
 لاغتياله O
 في O
-مخيم O
+مخيم O REVISIT
 جنين B-LOC
 شمالي O
 الضفة B-LOC
@@ -84894,7 +84894,7 @@ UNHRC O
 على O
 إسرائيل B-LOC
 من O
-قطاع O
+قطاع O REVISIT
 غزة B-LOC
 ووقف O
 عمليات O
@@ -84904,7 +84904,7 @@ UNHRC O
 عن O
 نواب O
 وقادة O
-حركة O
+حركة O REVISIT
 المقاومة O
 الإسلامية O
 ( O
@@ -84957,7 +84957,7 @@ UNHRC O
 قتل O
 الفلسطينيين O
 في O
-قطاع O
+قطاع O REVISIT
 غزة B-LOC
 . O
 
@@ -84977,7 +84977,7 @@ UNHRC O
 المسدود O
 خلال O
 اجتماع O
-الجمعية B-ORG
+الجمعية B-ORG REVISIT
 العامة I-ORG
 للأمم B-ORG
 المتحدة I-ORG
@@ -85029,13 +85029,13 @@ UNHRC O
 المتحدة I-ORG
 " O
 . O
-
+ARTICLE
 الولايات B-LOC
 المتحدة I-LOC
 واليونان B-LOC
 لنصف O
 نهائي O
-مونديال O
+مونديال O REVISIT
 السلة O
 الأميركي O
 كارميلو B-PERS
@@ -85093,15 +85093,15 @@ UNHRC O
 بعد O
 أعوام O
 1954 O
-و1986 O
-و1994 O
+و1986 O FIX
+و1994 O FIX
 ، O
 مقاومة O
 كبيرة O
 من O
 ألمانيا B-LOC
 ثالثة O
-المونديال B-MISC
+المونديال O REVISIT
 السابق O
 ووصيفة O
 أمم O
@@ -85174,7 +85174,7 @@ UNHRC O
 مع O
 5 O
 متابعات O
-و4 O
+و4 O FIX
 تمريرات O
 حاسمة O
 ، O
@@ -85293,7 +85293,7 @@ UNHRC O
 في O
 المقابل O
 أكد O
-المنتخب O
+المنتخب O REVISIT
 اليوناني O
 الذي O
 يلعب O
@@ -85323,7 +85323,7 @@ UNHRC O
 المباراة O
 عاطف B-PERS
 فتحي I-PERS
-- O
+- O ARTICLE
 صالح B-PERS
 الحمصي I-PERS
 : O
@@ -85380,12 +85380,12 @@ UNHRC O
 التدريجي. O
 وارتفع O
 مؤشر O
-سوق O
+سوق O REVISIT
 الإمارات B-LOC
 المالي O
 الصادر O
 عن O
-هيئة O
+هيئة O REVISIT
 الأوراق O
 المالية O
 والسلع O
@@ -85472,7 +85472,7 @@ UNHRC O
 فرحات I-PERS
 المدير O
 التنفيذي O
-لشركة O
+لشركة O REVISIT
 الفجر B-ORG
 للاوراق O
 المالية O
@@ -85509,7 +85509,7 @@ UNHRC O
 فرحات B-PERS
 ان O
 سهم O
-اعمار O
+اعمار O REVISIT
 عاد O
 ليستعيد O
 بريقه O
@@ -85520,7 +85520,7 @@ UNHRC O
 فيما O
 يتولى O
 سهم O
-اتصالات O
+اتصالات O REVISIT
 قيادة O
 سوق O
 ابوظبي B-LOC
@@ -85561,7 +85561,7 @@ UNHRC O
 التجميع O
 ارتفاع O
 مؤشر O
-سوق O
+سوق O REVISIT
 ابو B-LOC
 ظبي I-LOC
 للاوراق O
@@ -85571,7 +85571,7 @@ UNHRC O
 قال O
 المحلل O
 المالي O
-وضاح O
+وضاح O REVISIT
 الطه O
 ان O
 ان O
@@ -85693,7 +85693,7 @@ UNHRC O
 الماضي. O
 وتعرض O
 سهم O
-اعمار O
+اعمار O REVISIT
 لضغوط O
 كبيرة O
 أمس O
@@ -85880,7 +85880,7 @@ UNHRC O
 يوميا. O
 وتصدر O
 سهم O
-اعمار O
+اعمار O REVISIT
 قائمتي O
 الأسهم O
 الأنشط O
@@ -85922,24 +85922,24 @@ UNHRC O
 درهم B-MISC
 لسهم O
 دبي B-LOC
-للاستثمار O
+للاستثمار O REVISIT
 ، O
-و44 O
+و44 O FIX
 , O
 9 O
 مليون O
 درهم B-MISC
 لسهم O
 تمويل O
-و39 O
+و39 O FIX
 , O
 4 O
 مليون O
 درهم B-MISC
 لسهم O
 دبي B-LOC
-الإسلامي O
-إبراهيم B-PERS
+الإسلامي O REVISIT
+إبراهيم B-PERS ARTICLE
 العسم I-PERS
 : O
 أكد O
@@ -86015,7 +86015,7 @@ UNHRC O
 أهداف O
 أمام O
 قطر B-LOC
-القطري O
+القطري O REVISIT
 لينهي O
 مشاركته O
 برصيد O
@@ -86130,7 +86130,7 @@ UNHRC O
 إلى O
 التسجيل O
 أمام O
-فريق O
+فريق O REVISIT
 قطر B-ORG
 القطري O
 الذي O
@@ -86175,7 +86175,7 @@ UNHRC O
 عن O
 مجموعته O
 وخرج O
-قطر B-LOC
+قطر B-LOC REVISIT
 من O
 الحسابات O
 بعد O
@@ -86249,7 +86249,7 @@ UNHRC O
 في O
 المقابل O
 لعب O
-القطري O
+القطري O REVISIT
 القطري O
 بنفس O
 التشكيلة O
@@ -86393,7 +86393,7 @@ UNHRC O
 قطر B-ORG
 مستغلا O
 خبرة O
-دياكيه B-ORG
+دياكيه B-PERS
 في O
 الوسط O
 وظهر O
@@ -86484,7 +86484,7 @@ UNHRC O
 حسن I-PERS
 كرة O
 عرضية O
-لدياكيه O
+لدياكيه B-PERS
 وهو O
 المنطلق O
 إلى O
@@ -86507,7 +86507,7 @@ UNHRC O
 حمد B-PERS
 محمد I-PERS
 على O
-جائزة O
+جائزة O REVISIT
 أفضل O
 لاعب O
 في O
@@ -86599,7 +86599,7 @@ UNHRC O
 تربط O
 بين O
 دول O
-مجلس O
+مجلس O REVISIT
 التعاون O
 ، O
 وألقى O
@@ -86620,7 +86620,7 @@ UNHRC O
 متمثلة O
 في O
 نادي B-ORG
-النصر B-ORG
+النصر I-ORG
 العماني O
 مستضيف O
 هذا O
@@ -86697,12 +86697,12 @@ UNHRC O
 بن B-PERS
 شيبان I-PERS
 درع O
-نادي O
+نادي O REVISIT
 الجزيرة B-ORG
 إلى O
 رؤساء O
 وفود O
-نادي O
+نادي O REVISIT
 النصر B-ORG
 والاتفاق B-ORG
 السعودي O
@@ -86948,7 +86948,7 @@ UNHRC O
 اللجنة O
 التنظيمية O
 لدول O
-مجلس O
+مجلس O REVISIT
 التعاون O
 والمشرف O
 على O
@@ -87024,7 +87024,7 @@ UNHRC O
 عشاء O
 الوفود O
 المشاركة O
-فرقة O
+فرقة O REVISIT
 الشاطئ O
 الفنية O
 الشعبية O
@@ -87067,7 +87067,7 @@ UNHRC O
 في O
 البطولة O
 . O
-
+ARTICLE
 جامعة B-ORG
 السلطان I-ORG
 قابوس I-ORG
@@ -87143,7 +87143,7 @@ UNHRC O
 قبل O
 الرئيس O
 التنفيذي O
-لمركز O
+لمركز O REVISIT
 التعاون O
 الياباني O
 للشرق B-LOC
@@ -87324,7 +87324,7 @@ UNHRC O
 الجامعات O
 الخليجية O
 . O
-
+ARTICLE
 شمال O
 الباطنة B-LOC
 تناقش O
@@ -87378,7 +87378,7 @@ UNHRC O
 يستمرّ O
 الرئيس O
 السابق O
-لشرطة O
+لشرطة O REVISIT
 السكوتلاند B-ORG
 ياردز I-ORG
 البريطانية O
@@ -87404,7 +87404,7 @@ UNHRC O
 معأ O
 في O
 سيارتهما O
-المرسيدس B-ORG
+المرسيدس B-ORG REVISIT
 السوداء O
 في O
 باريس B-LOC
@@ -87436,9 +87436,9 @@ UNHRC O
 محمد B-PERS
 الفايد I-PERS
 . O
-
+ARTICLE
 ( O
-أ O
+أ O REVISIT
 ف O
 ب O
 ) O
@@ -87447,7 +87447,7 @@ UNHRC O
 فقدان O
 البصر O
 نجحت O
-شركة O
+شركة O REVISIT
 " O
 نوفارتيس B-ORG
 " O
@@ -87500,9 +87500,9 @@ UNHRC O
 هذا O
 الدواء O
 . O
-
+ARTICLE
 ( O
-أ O
+أ O REVISIT
 ش O
 أ O
 ) O
@@ -87686,7 +87686,7 @@ UNHRC O
 منها O
 توفير O
 أمبول O
-الأنسولين B-MISC
+الأنسولين O
 بالمجان O
 لطلبة O
 المدارس O
@@ -87724,7 +87724,7 @@ UNHRC O
 لتوفيرها O
 بمحافظات O
 مصر B-LOC
-وصل O
+وصل O ARTICLE
 الرئيس O
 اوغو B-PERS
 شافيز I-PERS
@@ -87757,7 +87757,7 @@ UNHRC O
 مقدمة O
 مستقبليه O
 في O
-مطار O
+مطار O REVISIT
 دمشق B-LOC
 الدولي O
 . O
@@ -88109,7 +88109,7 @@ UNHRC O
 بدمشق B-LOC
 نادر B-PERS
 الأنداري I-PERS
-لوكالة O
+لوكالة O REVISIT
 الأنباء O
 السورية O
 إن O
@@ -88266,7 +88266,7 @@ UNHRC O
 تل B-LOC
 أبيب I-LOC
 . O
-
+ARTICLE
 يعد O
 الروائي O
 المصري O
@@ -88359,7 +88359,7 @@ UNHRC O
 1988 O
 بالحصول O
 على O
-جائزة O
+جائزة O REVISIT
 نوبل B-MISC
 في O
 الآداب O
@@ -88377,12 +88377,12 @@ UNHRC O
 ولد O
 محفوظ B-PERS
 في O
-حارة O
+حارة O REVISIT
 درب B-LOC
 قرمز I-LOC
 الواقعة O
 في O
-ميدان O
+ميدان O REVISIT
 بيت B-LOC
 القاضي I-LOC
 بحي B-LOC
@@ -88406,7 +88406,7 @@ UNHRC O
 الشيخ O
 بحيري B-PERS
 في O
-حارة O
+حارة O REVISIT
 الكبابجي B-LOC
 بالقرب O
 من O
@@ -88415,7 +88415,7 @@ UNHRC O
 قبل O
 أن O
 يلتحق O
-بمدرسة O
+بمدرسة O REVISIT
 بين B-ORG
 القصرين I-ORG
 الابتدائية O
@@ -88427,7 +88427,7 @@ UNHRC O
 عام O
 1924 O
 إلى O
-حي O
+حي O REVISIT
 العباسية B-LOC
 . O
 وحصل O
@@ -88436,12 +88436,12 @@ UNHRC O
 شهادة O
 البكالوريا O
 من O
-مدرسة O
+مدرسة O REVISIT
 فؤاد B-PERS
 الأول I-PERS
 الثانوية O
 والتحق O
-بكلية O
+بكلية O REVISIT
 الآداب O
 بجامعة B-ORG
 فؤاد I-ORG
@@ -88452,7 +88452,7 @@ UNHRC O
 ) O
 وتخرج O
 في O
-قسم O
+قسم O REVISIT
 الفلسفة O
 عام O
 1934 O
@@ -88477,7 +88477,7 @@ UNHRC O
 بالجامعة O
 محررا O
 في O
-مجلة O
+مجلة O REVISIT
 " O
 المجلة B-ORG
 الجديدة I-ORG
@@ -88533,7 +88533,7 @@ UNHRC O
 كتاب O
 " O
 مصر B-MISC
-القديمة B-MISC
+القديمة I-MISC
 " O
 للبريطاني O
 جيمس B-PERS
@@ -88559,9 +88559,9 @@ UNHRC O
 ولكن O
 لجنة O
 شكلها O
-قسم O
+قسم O REVISIT
 الفلسفة O
-بكلية O
+بكلية O REVISIT
 الآداب O
 جامعة B-ORG
 القاهرة I-ORG
@@ -88585,9 +88585,9 @@ UNHRC O
 عمل O
 كاتبا O
 في O
-إدارة O
+إدارة O REVISIT
 جامعة B-ORG
-القاهرة I-LOC
+القاهرة I-ORG
 حتى O
 عام O
 1938 O
@@ -88647,7 +88647,7 @@ UNHRC O
 إلى O
 ابريل O
 / O
-نيسان B-ORG
+نيسان O
 عام O
 1936 O
 من O
@@ -88885,7 +88885,7 @@ UNHRC O
 منتصف O
 الأربعينيات O
 بنشر O
-رواية O
+رواية O REVISIT
 " O
 القاهرة B-MISC
 الجديدة I-MISC
@@ -88933,7 +88933,7 @@ UNHRC O
 " O
 قبل O
 قيام O
-ثورة O
+ثورة O REVISIT
 يوليو O
 / O
 تموز O
@@ -89030,14 +89030,14 @@ UNHRC O
 الجديد O
 أخطاءه O
 فكتب O
-رواية O
+رواية O REVISIT
 " O
 أولاد B-MISC
 حارتنا I-MISC
 " O
 التي O
 نشرتها O
-صحيفة O
+صحيفة O REVISIT
 الأهرام B-ORG
 القاهرية O
 كاملة O
@@ -89093,7 +89093,7 @@ UNHRC O
 حصل O
 محفوظ B-PERS
 على O
-جائزة O
+جائزة O REVISIT
 نوبل B-MISC
 عام O
 1988 O
@@ -89217,7 +89217,7 @@ UNHRC O
 نشرت O
 مسلسلة O
 في O
-صحيفة O
+صحيفة O REVISIT
 الأهرام B-ORG
 الحكومية O
 كما O
@@ -89240,7 +89240,7 @@ UNHRC O
 . O
 
 وصدرت O
-رواية O
+رواية O REVISIT
 " O
 الكرنك B-MISC
 " O
@@ -89420,12 +89420,12 @@ UNHRC O
 في O
 مسيرته O
 بدأت O
-بجائزة O
+بجائزة O REVISIT
 قوت O
 القلوب O
 الدمرداشية O
 عن O
-رواية O
+رواية O REVISIT
 " O
 رادوبيس B-MISC
 " O
@@ -89436,7 +89436,7 @@ UNHRC O
 عام O
 1944 O
 على O
-جائزة O
+جائزة O REVISIT
 وزارة O
 المعارف O
 " O
@@ -89450,7 +89450,7 @@ UNHRC O
 طيبة I-MISC
 " O
 وجائزة O
-مجمع O
+مجمع O REVISIT
 اللغة O
 العربية O
 عام O
@@ -89463,7 +89463,7 @@ UNHRC O
 وتوجت O
 الجوائز O
 المصرية O
-بجائزة O
+بجائزة O REVISIT
 الدولة O
 التقديرية O
 في O
@@ -89472,7 +89472,7 @@ UNHRC O
 1970 O
 وعندما O
 أقرت O
-جائزة O
+جائزة O REVISIT
 مبارك O
 كأرفع O
 الجوائز O
@@ -89545,7 +89545,7 @@ UNHRC O
 للكاتب O
 قبل O
 فوزه O
-بجائزة O
+بجائزة O REVISIT
 نوبل B-MISC
 . O
 
@@ -89558,7 +89558,7 @@ UNHRC O
 موظفا O
 عند O
 السيد O
-نوبل B-MISC
+نوبل B-PERS
 في O
 إشارة O
 إلى O
@@ -89636,7 +89636,7 @@ UNHRC O
 القرن I-MISC
 " O
 أصدرت O
-مجلة O
+مجلة O REVISIT
 نصف B-ORG
 الدنيا I-ORG
 القاهرية O
@@ -89736,7 +89736,7 @@ UNHRC O
 في O
 حتفال O
 نظمته O
-وزارة O
+وزارة O REVISIT
 الثقافة O
 المصرية O
 بمناسبة O
@@ -89763,7 +89763,7 @@ UNHRC O
 كلمة O
 تلخص O
 رؤيته O
-لجائزة O
+لجائزة O REVISIT
 نوبل B-MISC
 ولمستقبل O
 الادب O
@@ -89771,7 +89771,7 @@ UNHRC O
 فيها O
 " O
 ان O
-جائزة O
+جائزة O REVISIT
 نوبل B-MISC
 في O
 العلوم O
@@ -89954,7 +89954,7 @@ UNHRC O
 محفوظ B-PERS
 موظفا O
 في O
-وزارة O
+وزارة O REVISIT
 الاوقاف O
 الى O
 أن O
@@ -89964,7 +89964,7 @@ UNHRC O
 سنوات O
 وظيفته O
 تولى O
-ادارة O
+ادارة O REVISIT
 الرقابة O
 على O
 المصنفات O
@@ -89973,13 +89973,13 @@ UNHRC O
 عمل O
 مديرا O
 عاما O
-لمؤسسة O
+لمؤسسة O REVISIT
 دعم O
 السينما O
 عام O
 1960 O
 ومستشارا O
-للمؤسسة O
+للمؤسسة O REVISIT
 العامة O
 للسينما O
 والاذاعة O
@@ -89990,7 +89990,7 @@ UNHRC O
 رئيسا O
 لمجلس O
 ادارة O
-المؤسسة O
+المؤسسة O REVISIT
 العامة O
 للسينما O
 عام O
@@ -90021,8 +90021,8 @@ UNHRC O
 مقاله O
 كل O
 خميس O
-بصحيفة O
-الاهرام B-ORG
+بصحيفة O REVISIT
+الاهرام B-ORG ARTICLE
 أنان B-PERS
 في O
 دمشق B-LOC
@@ -90071,13 +90071,13 @@ UNHRC O
 الأمم B-ORG
 المتحدة I-ORG
 ( O
-يونيفيل B-MISC
+يونيفيل B-ORG
 ) O
 و16 O
 ألف O
 جندي O
 من O
-الجيش O
+الجيش O REVISIT
 اللبناني O
 إلى O
 المنطقة O
@@ -90274,7 +90274,7 @@ UNHRC O
 حزب B-ORG
 الله I-ORG
 إلى O
-الحكومة O
+الحكومة O REVISIT
 اللبنانية O
 . O
 
@@ -90402,7 +90402,7 @@ UNHRC O
 ضد O
 اللبنانيين O
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 الانسحاب O
 الإسرائيلي O
@@ -90410,7 +90410,7 @@ UNHRC O
 جهة O
 أخرى O
 أعلن O
-الجيش O
+الجيش O REVISIT
 الإسرائيلي O
 أنه O
 انسحب O
@@ -90492,9 +90492,9 @@ UNHRC O
 ذلك O
 قالت O
 قوات O
-يونيفيل B-MISC
+يونيفيل B-ORG
 إن O
-الجيش O
+الجيش O REVISIT
 الإسرائيلي O
 استأنف O
 الأربعاء O
@@ -90665,7 +90665,7 @@ UNHRC O
 الولايات B-LOC
 المتحدة I-LOC
 . O
-
+ARTICLE
 حالوتس B-PERS
 يستدعي O
 مائة O
@@ -90690,7 +90690,7 @@ UNHRC O
 استدعى O
 رئيس O
 أركان O
-الجيش O
+الجيش O REVISIT
 الإسرائيلي O
 دان B-PERS
 حالوتس I-PERS
@@ -90757,7 +90757,7 @@ UNHRC O
 كبار O
 الضباط O
 في O
-الجيش O
+الجيش O REVISIT
 الإسرائيلي O
 ، O
 التي O
@@ -90783,7 +90783,7 @@ UNHRC O
 من O
 المدير O
 السابق O
-لجهاز O
+لجهاز O REVISIT
 الاستخبارات O
 العسكرية O
 يوري B-PERS
@@ -90924,7 +90924,7 @@ UNHRC O
 كبيرة O
 في O
 الجيش O
-والحكومة O
+والحكومة O REVISIT
 الإسرائيلية O
 ، O
 تشمل O
@@ -90935,7 +90935,7 @@ UNHRC O
 بيرتس I-PERS
 ودان B-PERS
 حالوتس I-PERS
-My O
+My O ARTICLE
 Search O
 History O
 أحدث O
@@ -91002,7 +91002,7 @@ com O
 مستخدم O
 وكلمة O
 سر O
-مالم O
+مالم O FIX
 يكن O
 لديك O
 اشتراك O
@@ -91464,7 +91464,7 @@ Technology I-ORG
 . O
 
 وأعلنت O
-مؤسسة O
+مؤسسة O REVISIT
 " O
 سيمبيوسيس B-ORG
 " O
@@ -91474,10 +91474,10 @@ Symbiosis B-ORG
 عن O
 تعانها O
 مع O
-المركز O
+المركز O REVISIT
 الطبي O
 الجديد O
-وأكاديمية O
+وأكاديمية O REVISIT
 اتصالات O
 لتنظيم O
 ورش O
@@ -91599,7 +91599,7 @@ University I-ORG
 شرائح O
 المجتمع O
 في O
-منطقة O
+منطقة O REVISIT
 الخليج B-LOC
 . O
 
@@ -91664,7 +91664,7 @@ University I-ORG
 
 كما O
 أطلقت O
-مؤسسة O
+مؤسسة O REVISIT
 " O
 سكور B-ORG
 بلس I-ORG
@@ -91672,7 +91672,7 @@ University I-ORG
 ( O
 ScorePlus B-ORG
 ) O
-مدرسة O
+مدرسة O REVISIT
 " O
 إينلينغوا B-ORG
 إنترناشيونال I-ORG
@@ -91701,7 +91701,7 @@ School I-ORG
 الشارقة B-LOC
 ورأس B-LOC
 الخيمة I-LOC
-ومسقط O
+ومسقط B-LOC
 والكويت B-LOC
 والقاهرة B-LOC
 . O
@@ -91797,7 +91797,7 @@ Berlin I-ORG
 . O
 
 وأطلقت O
-مؤسسة O
+مؤسسة O REVISIT
 " O
 بروميثيان B-ORG
 تكنولوجي I-ORG
@@ -91830,14 +91830,14 @@ Group I-ORG
 عدة O
 جوائز O
 " O
-أكتيف O
+أكتيف O REVISIT
 برايمري O
 2 O
 . O
 5 O
 " O
 ( O
-Activprimary O
+Activprimary O REVISIT
 2 O
 . O
 5 O
@@ -91891,7 +91891,7 @@ Activprimary O
 عمليات O
 متميزة O
 في O
-منطقة O
+منطقة O REVISIT
 الشرق B-LOC
 الأوسط I-LOC
 " O
@@ -91903,7 +91903,7 @@ Activprimary O
 كيشور B-PERS
 كيني I-PERS
 من O
-شركة O
+شركة O REVISIT
 " O
 آلمو B-ORG
 " O
@@ -91949,7 +91949,7 @@ AlMoe B-ORG
 بين O
 المشاركين O
 أيضاً O
-شركة O
+شركة O REVISIT
 " O
 سي B-ORG
 . O
@@ -92046,9 +92046,9 @@ Didactique I-ORG
 في O
 قطاع O
 التعليم O
-كتب O
+كتب O ARTICLE
 ـ O
-ع O
+ع O REVISIT
 ـ O
 ادل O
 ش O
@@ -92157,8 +92157,8 @@ Didactique I-ORG
 المعنية O
 واهمها O
 وزارتا O
-التجارة O
-والري O
+التجارة O REVISIT
+والري O REVISIT
 وكذلك O
 مع O
 قطاعات O
@@ -92170,7 +92170,7 @@ Didactique I-ORG
 حيث O
 حققت O
 مصر B-LOC
-فاذضا O
+فائضا O
 تجاريا O
 العام O
 الماضي O
@@ -92190,7 +92190,7 @@ Didactique I-ORG
 في O
 اجماليه O
 إلي O
-نحو830 O
+نحو830 O FIX
 مليون O
 دولار B-MISC
 . O
@@ -92200,14 +92200,14 @@ Didactique I-ORG
 مصطفي B-PERS
 الاحول I-PERS
 رئيس O
-مجلس O
+مجلس O REVISIT
 االاعمال O
 المصري O
 شرق O
 افريقي O
 أن O
 دور O
-وزارة O
+وزارة O REVISIT
 الخارجية O
 مهم O
 جدا O
@@ -92244,7 +92244,7 @@ Didactique I-ORG
 للشئون O
 الافريقية O
 . O
-
+ARTICLE
 وفاة O
 محمد B-PERS
 عبدالوهاب I-PERS
@@ -92285,7 +92285,7 @@ Didactique I-ORG
 , O
 عن O
 عمر O
-يناهز23 O
+يناهز23 O FIX
 عاما O
 . O
 
@@ -92319,7 +92319,7 @@ Didactique I-ORG
 حسن B-PERS
 حمدي I-PERS
 رئيس O
-النادي O
+النادي O REVISIT
 الأهلي B-ORG
 وجميع O
 أعضاء O
@@ -92327,7 +92327,7 @@ Didactique I-ORG
 الإدارة O
 , O
 شيعت O
-مدينة O
+مدينة O REVISIT
 سنورس B-LOC
 , O
 مسقط O
@@ -92357,7 +92357,7 @@ Didactique I-ORG
 تم O
 نقله O
 إلي O
-مستشفي O
+مستشفي O REVISIT
 مصر B-LOC
 الدولي O
 , O
@@ -92375,7 +92375,7 @@ Didactique I-ORG
 
 كما O
 أصدر O
-النادي O
+النادي O REVISIT
 الأهلي B-ORG
 بيانا O
 نعي O
@@ -92390,7 +92390,7 @@ Didactique I-ORG
 الفقيد O
 من O
 لاعبي O
-النادي O
+النادي O REVISIT
 الأهلي B-ORG
 والمنتخب O
 والمشجعين O
@@ -92400,7 +92400,7 @@ Didactique I-ORG
 علي O
 مقر O
 المستشفي O
-بالدقي O
+بالدقي O REVISIT
 , O
 وحدث O
 تكدس O
@@ -92419,7 +92419,7 @@ Didactique I-ORG
 قد O
 احترف O
 في O
-نادي O
+نادي O REVISIT
 الظفرة B-ORG
 الإماراتي O
 بعد O
@@ -92443,7 +92443,7 @@ Didactique I-ORG
 النادي O
 الأهلي B-ORG
 منذ O
-عام2004 O
+عام2004 O FIX
 . O
 
 وكانت O
@@ -92457,7 +92457,7 @@ Didactique I-ORG
 الأصلي O
 الظفرة B-ORG
 الإماراتي O
-والنادي O
+والنادي O REVISIT
 الأهلي B-ORG
 , O
 وثار O
@@ -92483,7 +92483,7 @@ Didactique I-ORG
 الصبر O
 والسلوان O
 . O
-
+ARTICLE
 الدستور O
 - O
 ناريمان B-PERS
@@ -92554,7 +92554,7 @@ Didactique I-ORG
 الاسئلة O
 التي O
 يفجرها O
-فيلم O
+فيلم O REVISIT
 كليك B-MISC
 الذي O
 يعرض O
@@ -92782,7 +92782,7 @@ Didactique I-ORG
 الكل O
 في O
 ليلة O
-عيد O
+عيد O REVISIT
 الاستقلال O
 ، O
 وينشغل O
@@ -93080,17 +93080,17 @@ Didactique I-ORG
 يوفرها O
 لنا O
 . O
-
+ARTICLE
 استنبول B-LOC
 - O
 قنا B-ORG
 - O
-ا O
+ا O REVISIT
 ف O
 ب O
 : O
 أوقفت O
-الشرطة O
+الشرطة O REVISIT
 التركية O
 أمس O
 عشرات O
@@ -93110,7 +93110,7 @@ Didactique I-ORG
 ، O
 كما O
 ذكرت O
-وكالة O
+وكالة O REVISIT
 أنباء O
 الأناضول B-LOC
 التركية O
@@ -93190,7 +93190,7 @@ Didactique I-ORG
 كما O
 اعتقلت O
 قوات O
-الشرطة O
+الشرطة O REVISIT
 التركية O
 ثمانية O
 من O
@@ -93198,12 +93198,12 @@ Didactique I-ORG
 منظمة B-ORG
 حقوق I-ORG
 الإنسان I-ORG
-التركية O
+التركية I-ORG
 في O
 تظاهرة O
 نظمت O
 في O
-مدينة O
+مدينة O REVISIT
 قيصري B-LOC
 أمس O
 ، O
@@ -93216,7 +93216,7 @@ Didactique I-ORG
 
 وطالب O
 المتظاهرون O
-الحكومة O
+الحكومة O REVISIT
 التركية O
 بعدم O
 إرسال O
@@ -93279,7 +93279,7 @@ Didactique I-ORG
 المشاركون O
 " O
 ليذهب O
-طيب O
+طيب B-PERS
 إلي O
 العراق B-LOC
 " O
@@ -93307,11 +93307,11 @@ Didactique I-ORG
 ما O
 يعارضه O
 كذلك O
-مجلس O
+مجلس O REVISIT
 الحكم O
 الانتقالي O
 العراق B-LOC
-متابعة O
+متابعة O ARTICLE
 - O
 بلال B-PERS
 قناوي I-PERS
@@ -93332,7 +93332,7 @@ Didactique I-ORG
 ختام O
 الدور O
 الأول O
-لكأس O
+لكأس O REVISIT
 آسيا B-LOC
 وذلك O
 عقب O
@@ -93387,7 +93387,7 @@ Didactique I-ORG
 دور O
 الثمانية O
 الى O
-كأس O
+كأس O REVISIT
 آسيا B-LOC
 . O
 
@@ -93595,7 +93595,7 @@ Didactique I-ORG
 وجيد O
 ويريد O
 الوصول O
-لدورالثمانية O
+لدورالثمانية O FIX
 مثلنا O
 ولديه O
 الدافع O
@@ -93631,7 +93631,7 @@ Didactique I-ORG
 مفاجأة O
 من O
 جانب O
-المنتخب O
+المنتخب O REVISIT
 التايلاندي O
 وتحقيق O
 الفوز O
@@ -93732,8 +93732,8 @@ Didactique I-ORG
 كمنتخب O
 ولبلدهم O
 كدولة O
-منظ O
-ذهب B-MISC
+منظمة O
+ذهب B-MISC ARTICLE 
 مع I-MISC
 الريح I-MISC
 فيلم O
@@ -93753,7 +93753,7 @@ Didactique I-ORG
 فاز O
 الفيلم O
 بعشر O
-جوائز O
+جوائز O REVISIT
 أوسكار B-MISC
 ، O
 واختاره O
@@ -93783,7 +93783,7 @@ Didactique I-ORG
 تاريخ O
 السينما O
 على O
-الإطلا O
+الإطلاق O
 تدور O
 قصة O
 الفيلم O
@@ -93794,7 +93794,7 @@ Didactique I-ORG
 ، O
 حول O
 انعكاسات O
-الحرب O
+الحرب O REVISIT
 الأهلية O
 الأمريكية O
 على O
@@ -93896,13 +93896,13 @@ Didactique I-ORG
 تُسمى O
 تارا O
 في O
-ولاية O
+ولاية O REVISIT
 جورجيا B-LOC
 الأمريكية O
 عام O
 1861 O
 عشية O
-الحرب O
+الحرب O REVISIT
 الأهلية O
 الأمريكية O
 ، O
@@ -93920,8 +93920,8 @@ Didactique I-ORG
 أوهارا I-PERS
 ( O
 مالك O
-مزرعة O
-تارا B-MISC
+مزرعة O REVISIT
+تارا B-LOC
 ) O
 ، O
 مع O
@@ -93940,9 +93940,9 @@ Didactique I-ORG
 هاملتون I-PERS
 قمة O
 الاثارة O
-في O
+في O ARTICLE
 ليلة O
-السوبر B-MISC
+السوبر O
 الدوحة B-LOC
 - O
 الراية B-ORG
@@ -93954,7 +93954,7 @@ Didactique I-ORG
 الرياضي O
 اليوم O
 مباراة O
-السوبر B-MISC
+السوبر O
 بنهائي O
 بطولة B-MISC
 كأس I-MISC
@@ -93965,7 +93965,7 @@ Didactique I-ORG
 والتي O
 ستقام O
 علي O
-استاد O
+استاد O REVISIT
 الدوحة B-LOC
 عند O
 الساعة O
@@ -94041,13 +94041,13 @@ Didactique I-ORG
 أثر O
 فوزه O
 علي O
-الشمال O
+الشمال O REVISIT
 4 O
 - O
 صفر O
 وتعادله O
 مع O
-الوكرة O
+الوكرة O REVISIT
 3 O
 - O
 3 O
@@ -94121,13 +94121,13 @@ Didactique I-ORG
 الاشارة O
 الي O
 أن O
-اتحاد O
+اتحاد O REVISIT
 الكرة O
 كان O
 قد O
 قرر O
 جعل O
-استاد O
+استاد O REVISIT
 الدوحة B-LOC
 الملعب O
 الدائم O
@@ -94145,7 +94145,7 @@ Didactique I-ORG
 في O
 كل O
 موسم O
-نيويورك B-LOC
+نيويورك B-LOC ARTICLE
 - O
 الخرطوم B-LOC
 - O
@@ -94171,7 +94171,7 @@ Didactique I-ORG
 الف O
 جندي O
 في O
-اقليم O
+اقليم O REVISIT
 دارفور B-LOC
 في O
 غرب O
@@ -94466,7 +94466,7 @@ Didactique I-ORG
 من O
 الحوار O
 مع O
-الحكومة O
+الحكومة O REVISIT
 السودانية O
 " O
 . O
@@ -94503,8 +94503,8 @@ Didactique I-ORG
 غوانغيا I-PERS
 ان O
 بلاده O
-تدعم O
 نشر O
+تدعم O
 قوة O
 دولية O
 في O
@@ -94586,7 +94586,7 @@ Didactique I-ORG
 على O
 على O
 موافقة O
-الخرطوم O
+الخرطوم B-LOC
 . O
 
 وفي O
@@ -94608,8 +94608,8 @@ Didactique I-ORG
 على O
 " O
 التزام O
-المجلس O
-القوي O
+المجلس O REVISIT
+القومي O
 باحترام O
 سيادة O
 ووحدة O
@@ -94641,7 +94641,7 @@ Didactique I-ORG
 على O
 العمل O
 مع O
-الحكومة O
+الحكومة O REVISIT
 السودانية O
 بما O
 يضمن O
@@ -94913,7 +94913,7 @@ Didactique I-ORG
 حقوق O
 الانسان O
 وواشنطن B-LOC
-الحكومة O
+الحكومة O REVISIT
 السودانية O
 التي O
 تعارض O
@@ -94945,13 +94945,13 @@ Didactique I-ORG
 هاجمت O
 القوات O
 الحكومية O
-كولكول O
+كولكول B-LOC
 التي O
 تبعد O
 35 O
 كيلومترا O
 شمالي O
-بلدة O
+بلدة O REVISIT
 الفاشر B-LOC
 البلدة O
 الرئيسية O
@@ -94985,7 +94985,7 @@ Didactique I-ORG
 90 O
 عربة O
 وتهاجم O
-منطقة O
+منطقة O REVISIT
 أم B-LOC
 سفير I-LOC
 وتقصفها O
@@ -95057,7 +95057,7 @@ Didactique I-ORG
 استئناف O
 العمليات O
 الحربية O
-الدول O
+الدول O ARTICLE
 الغربية O
 وضعت O
 لائحة O
@@ -95146,7 +95146,7 @@ Didactique I-ORG
 الرافض O
 لوقف O
 تخصيب O
-اليورانيوم B-MISC
+اليورانيوم B-MISC REVISIT
 ، O
 سيتم O
 توسيع O
@@ -95246,7 +95246,7 @@ Didactique I-ORG
 المتحدة I-ORG
 لوقف O
 تخصيب O
-اليورانيوم B-MISC
+اليورانيوم B-MISC REVISIT
 وانتهت O
 أمس O
 . O
@@ -95255,7 +95255,7 @@ Didactique I-ORG
 الرجل O
 الثالث O
 في O
-وزارة O
+وزارة O REVISIT
 الخارجية O
 الأمريكية O
 نيكولاس B-PERS
@@ -95559,7 +95559,7 @@ Didactique I-ORG
 فرضت O
 عليه O
 منذ O
-الثورة O
+الثورة O REVISIT
 الإسلامية O
 عام O
 1979 O
@@ -95567,7 +95567,7 @@ Didactique I-ORG
 
 وقال O
 رئيس O
-مجموعة O
+مجموعة O REVISIT
 عطية O
 للاستشارات O
 بيجان B-PERS
@@ -95654,7 +95654,7 @@ Didactique I-ORG
 تدريجية O
 " O
 . O
-ـ O
+ـ OARTICLE
 وكالات O
 ـ O
 قبل O
@@ -95807,7 +95807,7 @@ Didactique I-ORG
 تعليقها O
 لعمليات O
 تخصيب O
-اليورانيوم B-MISC
+اليورانيوم B-MISC REVISIT
 . O
 
 وتابع O
@@ -96260,7 +96260,7 @@ Didactique I-ORG
 هذا O
 الخصوص O
 . O
-
+ARTICLE
 الدوحة B-LOC
 - O
 الراية B-ORG
@@ -96379,7 +96379,7 @@ Didactique I-ORG
 الذي O
 تبثه O
 هيئة O
-الإذاعة O
+الإذاعة O REVISIT
 البريطانية O
 ( O
 بي B-ORG
@@ -96429,7 +96429,7 @@ Didactique I-ORG
 50 O
 بلدا O
 في O
-مجلس O
+مجلس O REVISIT
 التعاون O
 الخليجي O
 وسنغافورة B-LOC
@@ -96691,7 +96691,7 @@ Didactique I-ORG
 سويدان I-PERS
 المدير O
 العام O
-لقناة O
+لقناة O REVISIT
 الرسالة O
 الفضائية O
 ، O
@@ -96710,7 +96710,7 @@ Didactique I-ORG
 في O
 كلية B-ORG
 سلون I-ORG
-للإدارة O
+للإدارة I-ORG
 في O
 معهد B-ORG
 ماساشوستس I-ORG
@@ -96983,7 +96983,7 @@ Didactique I-ORG
 بالقول O
 " O
 إن O
-شركاتFortune O
+شركاتFortune O FIX
 500 O
 تعاني O
 من O
@@ -97118,7 +97118,7 @@ Didactique I-ORG
 المتغيرة O
 بشكل O
 أفضل O
-عادل B-PERS
+عادل B-PERS ARTICLE
 إمام I-PERS
 : O
 لم O
@@ -97207,7 +97207,7 @@ Didactique I-ORG
 النخبة O
 وللكلام O
 عن O
-عصر O
+عصر O REVISIT
 ما O
 بعد O
 الحداثة O
@@ -97424,7 +97424,7 @@ Didactique I-ORG
 وباب B-LOC
 الشعرية I-LOC
 والحلمية B-LOC
-الجديدة O
+الجديدة I-LOC
 بذكريات O
 رائعة O
 معه O
@@ -97457,7 +97457,7 @@ Didactique I-ORG
 تلقيت O
 عرضا O
 بالانضمام O
-للحرافيش O
+للحرافيش B-MISC
 فلماذا O
 لم O
 تفعل O
@@ -98119,7 +98119,7 @@ Didactique I-ORG
 يعيش O
 فيها O
 . O
-
+ARTICLE
 مدحت B-PERS
 صالح I-PERS
 يغني O
@@ -98153,7 +98153,7 @@ Didactique I-ORG
 كلمات O
 أحمد B-PERS
 فؤاد I-PERS
-نجم O
+نجم I-PERS
 وألحان O
 ياسر B-PERS
 عبدالرحمن I-PERS
@@ -98240,7 +98240,7 @@ Didactique I-ORG
 سير O
 التحقيق O
 . O
-
+ARTICLE
 أميركا B-LOC
 تحترق O
 وبوش B-PERS
@@ -98256,7 +98256,7 @@ Didactique I-ORG
 بطائرات O
 مختطفة O
 على O
-مركز O
+مركز O REVISIT
 التجارة O
 العالمي O
 والبنتاغون B-ORG
@@ -98265,12 +98265,12 @@ Didactique I-ORG
 . O
 وانفجارات O
 قرب O
-الخارجية O
+الخارجية O REVISIT
 البيت B-MISC
 الأبيض I-MISC
 ينفي O
 قصف O
-كابل* O
+كابل* B-LOC
 مضيفة O
 تحدثت O
 من O
@@ -98336,8 +98336,8 @@ Didactique I-ORG
 البيت B-MISC
 الابيض I-MISC
 ووزارتا O
-الدفاع O
-والخارجية O
+الدفاع O REVISIT
+والخارجية O REVISIT
 ووقف O
 الرحلات O
 الجوية O
@@ -98347,7 +98347,7 @@ Didactique I-ORG
 طائرتين O
 مختطفتين O
 ببرجي O
-مركز O
+مركز O REVISIT
 التجارة O
 العالمي O
 في O
@@ -98388,7 +98388,7 @@ Didactique I-ORG
 انفجارات O
 قرب O
 مبنى O
-وزارة O
+وزارة O REVISIT
 الخارجية O
 في O
 واشنطن B-LOC
@@ -98396,7 +98396,7 @@ Didactique I-ORG
 قالت O
 تقارير O
 ان O
-وزارة O
+وزارة O REVISIT
 الدفاع O
 تراقب O
 طائرة O
@@ -98415,7 +98415,7 @@ Didactique I-ORG
 ابلغوا O
 بسقوط O
 طائرة O
-بوينج B-MISC
+بوينج B-MISC REVISIT
 757 I-MISC
 كان O
 على O
@@ -98459,7 +98459,7 @@ Didactique I-ORG
 ان O
 اصطدام O
 الطائرتين O
-بمركز O
+بمركز O REVISIT
 التجارة O
 العالمي O
 عمل O
@@ -98592,7 +98592,7 @@ Didactique I-ORG
 جورج B-PERS
 بوش I-PERS
 الى O
-قاعدة O
+قاعدة O REVISIT
 اندروز B-LOC
 الاميركية O
 مساء O
@@ -98721,7 +98721,7 @@ Didactique I-ORG
 ، O
 وأكد O
 ان O
-القوات O
+القوات O REVISIT
 المسلحة O
 الاميركية O
 جاهزة O
@@ -98776,7 +98776,7 @@ Didactique I-ORG
 ضحايا O
 انهيار O
 بنايتي O
-مركز O
+مركز O REVISIT
 التجارة O
 العالمي O
 اثر O
@@ -98819,7 +98819,7 @@ Didactique I-ORG
 . O
 
 وقالت O
-شركة O
+شركة O REVISIT
 اميركان B-ORG
 ايرلاينز I-ORG
 انها O
@@ -98846,7 +98846,7 @@ Didactique I-ORG
 اللتين O
 ارتطمتا O
 بمبنى O
-مركز O
+مركز O REVISIT
 التجارة O
 العالمي O
 الذي O
@@ -98859,15 +98859,15 @@ Didactique I-ORG
 نفذه O
 اصوليون O
 تابعون O
-لعمر O
-عبد B-PERS
+لعمر B-PERS
+عبد I-PERS
 الرحمن I-PERS
 ، O
 الزعيم O
 الروحي O
-للجماعة O
-الاسلامية O
-المصرية O
+للجماعة B-ORG
+الاسلامية I-ORG
+المصرية I-ORG
 ، O
 فقال O
 احد O
@@ -98890,10 +98890,10 @@ Didactique I-ORG
 وهي O
 من O
 طراز O
-بوينج B-MISC
+بوينج B-MISC REVISIT
 767 I-MISC
 وتابعة O
-لشركة O
+لشركة O REVISIT
 اميركان B-ORG
 ايرلاينز I-ORG
 ، O
@@ -98904,19 +98904,19 @@ Didactique I-ORG
 ان O
 الطائرتين O
 من O
-طراز O
+طراز O REVISIT
 بوينج B-MISC
 737 I-MISC
 . O
 
 وأكدت O
-الشرطة O
+الشرطة O REVISIT
 الاميركية O
 ان O
 الطائرتيين O
 مختطفتان O
 وان O
-مكتب O
+مكتب O REVISIT
 التحقيقات O
 الفيدرالي O
 ( O
@@ -98963,7 +98963,7 @@ Didactique I-ORG
 البرج O
 الاول O
 في O
-مبنى O
+مبنى O REVISIT
 مركز O
 التجارة O
 العالمي O
@@ -98978,7 +98978,7 @@ Didactique I-ORG
 بعد O
 اقلاعها O
 من O
-مطار O
+مطار O REVISIT
 دالاس B-LOC
 بالقرب O
 من O
@@ -98996,7 +98996,7 @@ Didactique I-ORG
 موقعين O
 في O
 مبنى O
-مركز O
+مركز O REVISIT
 التجارة O
 العالمي O
 قبل O
@@ -99106,7 +99106,7 @@ Didactique I-ORG
 الذي O
 تعرض O
 له O
-مبنى O
+مبنى O REVISIT
 مركز O
 التجارة O
 العالمي O
@@ -99121,7 +99121,7 @@ Didactique I-ORG
 الهليكوبتر O
 في O
 مبنى O
-وزارة O
+وزارة O REVISIT
 الدفاع O
 في O
 واشنطن B-LOC
@@ -99136,7 +99136,7 @@ Didactique I-ORG
 انفجارات O
 قرب O
 مبنى O
-وزارة O
+وزارة O REVISIT
 الخارجية O
 ، O
 بما O
@@ -99150,7 +99150,7 @@ Didactique I-ORG
 وتوقف O
 العمل O
 في O
-بورصة O
+بورصة O REVISIT
 نيويورك B-LOC
 وكل O
 المباني O
@@ -99187,7 +99187,7 @@ Didactique I-ORG
 ارهابي O
 ، O
 واغلق O
-مطار O
+مطار O REVISIT
 جون B-MISC
 كنيدي I-MISC
 في O
@@ -99199,9 +99199,9 @@ Didactique I-ORG
 « O
 سي B-ORG
 . O
-آي O
+آي I-ORG
 . O
-ايه O
+ايه I-ORG
 » O
 الى O
 قادة O
@@ -99255,7 +99255,7 @@ Didactique I-ORG
 وقوع O
 حريق O
 في O
-الخارجية O
+الخارجية O REVISIT
 الاميركية O
 لم O
 تلق O
@@ -99389,7 +99389,7 @@ Didactique I-ORG
 منفذي O
 الهجمات O
 سارعت O
-حركة O
+حركة O REVISIT
 حماس B-ORG
 الفلسطينية O
 الى O
@@ -99478,7 +99478,7 @@ Didactique I-ORG
 هجمات O
 مشابهة O
 . O
-
+ARTICLE
 فيرجسون B-PERS
 يختار O
 خليفته O
@@ -99545,7 +99545,7 @@ Didactique I-ORG
 . O
 
 ونقلت O
-هيئة O
+هيئة O REVISIT
 الاذاعة O
 البريطانية O
 عن O
@@ -99699,10 +99699,10 @@ Didactique I-ORG
 فان I-PERS
 جال I-PERS
 مدرب O
-منتخب O
+منتخب O REVISIT
 هولندا B-LOC
 . O
-
+ARTICLE
 القاعدة B-ORG
 تدعو O
 أميركا B-LOC
@@ -99715,7 +99715,7 @@ Didactique I-ORG
 يقول O
 إن O
 عزام B-PERS
-الأميركي O
+الأميركي I-PERS
 يريد O
 أن O
 يخرج O
@@ -99783,7 +99783,7 @@ Didactique I-ORG
 قدمه O
 بصفة O
 عزام B-PERS
-الأميركي O
+الأميركي I-PERS
 . O
 
 وقال O
@@ -99791,7 +99791,7 @@ Didactique I-ORG
 " O
 أخونا O
 عزام B-PERS
-الأميركي O
+الأميركي I-PERS
 ، O
 أسال O
 الله B-MISC
@@ -99832,7 +99832,7 @@ Didactique I-ORG
 ـ O
 " O
 عزام B-PERS
-الأميركي O
+الأميركي I-PERS
 " O
 الذي O
 سبق O
@@ -100077,7 +100077,7 @@ Didactique I-ORG
 من O
 الذكرى O
 الخامسة O
-لهجمات O
+لهجمات O REVISIT
 11 O
 سبتمبر O
 / O
@@ -100085,7 +100085,7 @@ Didactique I-ORG
 2001 O
 بالولايات B-LOC
 المتحدة I-LOC
-بريطانيا B-LOC
+بريطانيا B-LOC ARTICLE
 توقف O
 16 O
 شخصا O
@@ -100102,10 +100102,10 @@ Didactique I-ORG
 تفجير O
 الطائرات O
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 ذكرت O
-الشرطة O
+الشرطة O REVISIT
 البريطانية O
 أن O
 الاعتقالات O
@@ -100278,7 +100278,7 @@ BBC B-ORG
 وحدة O
 مكافحة O
 الإرهاب O
-بالشرطة O
+بالشرطة O REVISIT
 البريطانية O
 بأن O
 آلاف O
@@ -100336,7 +100336,7 @@ BBC B-ORG
 أو O
 التشجيع O
 . O
-
+ARTICLE
 إيران B-LOC
 تستقبل O
 أنان B-PERS
@@ -100428,7 +100428,7 @@ BBC B-ORG
 دون O
 شك O
 ستراجع O
-الجمهورية O
+الجمهورية O REVISIT
 الإسلامية O
 الإيرانية O
 سياستها O
@@ -100503,7 +100503,7 @@ BBC B-ORG
 رد O
 إيران B-LOC
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 سقف O
 منخفض O
@@ -100688,7 +100688,7 @@ BBC B-ORG
 الإيرانيون O
 " O
 . O
-
+ARTICLE
 فوزان O
 لفرنسا B-LOC
 وإنجلترا B-LOC
@@ -100704,7 +100704,7 @@ BBC B-ORG
 مضيفتها O
 جورجيا B-LOC
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 حققت O
 فرنسا B-LOC
@@ -100786,7 +100786,7 @@ BBC B-ORG
 رسمية O
 لهم O
 بعد O
-المونديال B-MISC
+المونديال B-MISC REVISIT
 وتحت O
 قيادة O
 المدرب O
@@ -100888,7 +100888,7 @@ BBC B-ORG
 مرمى O
 أندورا B-LOC
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 أما O
 إنجلترا B-LOC
@@ -101113,7 +101113,7 @@ BBC B-ORG
 المجموعة O
 الأولى O
 . O
-
+ARTICLE
 انتصارات O
 لمصر B-LOC
 والمغرب B-LOC
@@ -101132,10 +101132,10 @@ BBC B-ORG
 لاعبي O
 الكونغو B-LOC
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 حقق O
-منتخب O
+منتخب O REVISIT
 مصر B-LOC
 لكرة O
 القدم O
@@ -101180,7 +101180,7 @@ BBC B-ORG
 عبر O
 النجم O
 محمد B-PERS
-زيدان B-PERS
+زيدان I-PERS
 المحترف O
 في O
 فيردر B-ORG
@@ -101287,7 +101287,7 @@ BBC B-ORG
 الدار B-LOC
 البيضاء I-LOC
 انتظر O
-المنتخب O
+المنتخب O REVISIT
 المغربي O
 إلى O
 الشوط O
@@ -101295,7 +101295,7 @@ BBC B-ORG
 ليهز O
 شباك O
 ضيفه O
-ملاوي O
+ملاوي B-LOC
 مرتين O
 عن O
 طريق O
@@ -101341,14 +101341,14 @@ BBC B-ORG
 التي O
 تضم O
 أيضا O
-منتخب O
+منتخب O REVISIT
 زيمبابوي B-LOC
 . O
 
 وفي O
 جوهانسبرغ B-LOC
 أهدر O
-منتخب O
+منتخب O REVISIT
 جنوب B-LOC
 أفريقيا I-LOC
 نقطتين O
@@ -101584,7 +101584,7 @@ BBC B-ORG
 الظهور O
 مجددا O
 على O
-ملاعب O
+ملاعب O REVISIT
 فلاشينغ B-MISC
 ميدوز I-MISC
 علما O
@@ -101604,7 +101604,7 @@ BBC B-ORG
 بعدما O
 تم O
 حقنه O
-بالكورتيزون B-MISC
+بالكورتيزون B-MISC REVISIT
 للتغلب O
 على O
 الآلام O
@@ -101947,11 +101947,11 @@ BBC B-ORG
 - O
 1 O
 . O
-
+ARTICLE
 دار O
 نشر O
 في O
-معرض O
+معرض O REVISIT
 صنعاء B-LOC
 الدولي O
 للكتاب O
@@ -101964,7 +101964,7 @@ BBC B-ORG
 اليمنية O
 اليوم O
 فعاليات O
-معرض O
+معرض O REVISIT
 صنعاء B-LOC
 الدولي O
 للكتاب O
@@ -102003,7 +102003,7 @@ BBC B-ORG
 
 وقال O
 رئيس O
-هيئة O
+هيئة O REVISIT
 الكتاب O
 باليمن B-LOC
 الدكتور O
@@ -102012,7 +102012,7 @@ BBC B-ORG
 في O
 تصريح O
 للجزيرة B-ORG
-نت O
+نت O REVISIT
 إنه O
 سيتم O
 خلال O
@@ -102067,7 +102067,7 @@ BBC B-ORG
 عن O
 مشروع O
 تأسيس O
-اتحاد O
+اتحاد O REVISIT
 هيئات O
 الكتاب O
 العربي O
@@ -102077,7 +102077,7 @@ BBC B-ORG
 سيتم O
 خلال O
 المعرض O
-إطلاق O
+إطلاق O REVISIT
 موسوعة O
 أعلام O
 اليمن B-LOC
@@ -102085,7 +102085,7 @@ BBC B-ORG
 أنجزت O
 بالتعاون O
 مع O
-مؤسسة O
+مؤسسة O REVISIT
 إبداع O
 للفنون O
 والآداب O
@@ -102100,7 +102100,7 @@ BBC B-ORG
 وسيحتفي O
 معرض O
 صنعاء B-LOC
-بمنتدى O
+بمنتدى O REVISIT
 أصدقاء O
 الكتاب B-MISC
 الذي O
@@ -102213,7 +102213,7 @@ BBC B-ORG
 ابتداء O
 من O
 عهد O
-دولة O
+دولة O REVISIT
 سبأ B-LOC
 التي O
 ورد O
@@ -102242,7 +102242,7 @@ BBC B-ORG
 ضيف O
 شرف O
 على O
-معرض O
+معرض O REVISIT
 صنعاء B-LOC
 الدولي O
 للكتاب O
@@ -102282,7 +102282,7 @@ BBC B-ORG
 غراس I-PERS
 الحائز O
 على O
-جائزة O
+جائزة O REVISIT
 نوبل B-MISC
 في O
 الآداب O
@@ -102319,7 +102319,7 @@ BBC B-ORG
 ، O
 والأمين O
 العام O
-للمجلس O
+للمجلس O REVISIT
 الثقافي O
 بدولة O
 الكويت B-LOC
@@ -102332,17 +102332,17 @@ BBC B-ORG
 حجازي I-PERS
 وغيرهم O
 . O
-
+ARTICLE
 6 O
 مشروعات O
 جديدة O
-باستثمارات30 O
+باستثمارات30 O FIX
 مليون O
 دولار B-MISC
 في O
 المنطقة O
 الحرة O
-بمدينة O
+بمدينة O REVISIT
 نصر B-LOC
 كتب O
 ـ O
@@ -102350,7 +102350,7 @@ BBC B-ORG
 الدين I-PERS
 فتحي I-PERS
 وافق O
-مجلس O
+مجلس O REVISIT
 ادارة O
 المنطقة O
 الحرة O
@@ -102358,21 +102358,21 @@ BBC B-ORG
 بمدينة O
 نصر B-LOC
 علي O
-اقامة6 O
+اقامة6 O FIX
 مشروعات O
 جديدة O
 باستثمارات O
-قدرها30 O
+قدرها30 O FIX
 مليون O
 دولار B-MISC
 ويبلغ O
 رأسمالها O
-المصدر20 O
+المصدر20 O FIX
 مليون O
 دولار B-MISC
 وتقدم O
 المشروعات O
-بتشغيل1383 O
+بتشغيل1383 O FIX
 عاملا O
 . O
 
@@ -102434,16 +102434,16 @@ BBC B-ORG
 ويبلغ O
 رأسمال O
 المشروع O
-المصدر5 O
+المصدر5 O FIX
 ملايين O
 دولار B-MISC
 , O
 و O
-استثماراته5 O
+استثماراته5 O FIX
 ملايين O
 دولار B-MISC
 ويتيح O
-المشروع33 O
+المشروع33 O FIX
 فرصة O
 عمل O
 يذكر O
@@ -102491,7 +102491,7 @@ BBC B-ORG
 
 كما O
 وافق O
-مجلس O
+مجلس O REVISIT
 ادارة O
 المنطقة O
 الحرة O
@@ -102521,12 +102521,12 @@ BBC B-ORG
 ) O
 برأسمال O
 مصدر O
-يبلغ4 O
+يبلغ4 O FIX
 ملايين O
 دولار B-MISC
 وتصل O
 استثماراته O
-الي13 O
+الي13 O FIX
 مليون O
 دولار B-MISC
 وتبلغ O
@@ -102534,9 +102534,9 @@ BBC B-ORG
 المساهمة O
 التركية O
 في O
-رأسماله95% O
+رأسماله95% O FIX
 والمشروع O
-يتيح950 O
+يتيح950 O FIX
 فرصة O
 عمل O
 للمصريين O
@@ -102557,16 +102557,16 @@ BBC B-ORG
 التكت O
 برأسمال O
 مصدر O
-يبلغ1 O
+يبلغ1 O FIX
 , O
 5 O
 مليون O
 دولار B-MISC
-واستثماراته3 O
+واستثماراته3 O FIX
 ملايين O
 دولار B-MISC
 ويتيح O
-حوالي100 O
+حوالي100 O FIX
 فرصة O
 عمل O
 . O
@@ -102624,20 +102624,20 @@ BBC B-ORG
 الاموال O
 المصدرة O
 لثلاثة O
-مشروعات9 O
+مشروعات9 O FIX
 ملايين O
 دولار B-MISC
 وباستثمارات O
 تقدر O
-بحوالي9 O
+بحوالي9 O FIX
 ملايين O
 دولار B-MISC
-وتتيح300 O
+وتتيح300 O FIX
 فرصة O
 عمل O
 للمصريين O
 . O
-
+ARTICLE
 وزير O
 المالية O
 : O
@@ -102648,7 +102648,7 @@ BBC B-ORG
 جنيه B-MISC
 حصيلة O
 الجمارك O
-عام2006 O
+عام2006 O FIX
 / O
 2005 O
 يوسف B-PERS
@@ -102681,7 +102681,7 @@ BBC B-ORG
 الضريبية O
 خلال O
 العام O
-المالي2006 O
+المالي2006 O FIX
 / O
 2005 O
 , O
@@ -102690,14 +102690,14 @@ BBC B-ORG
 اجمالي O
 الايرادات O
 الضريبية O
-الي97 O
+الي97 O FIX
 . O
 
 1 O
 مليار O
 جنيه B-MISC
 بنسبة O
-نمو28 O
+نمو28 O FIX
 , O
 1% O
 عن O
@@ -102708,34 +102708,34 @@ BBC B-ORG
 وقفزت O
 حصيلة O
 الجمارك O
-بنحو21% O
-لتسجل9 O
+بنحو21% O FIX
+لتسجل9 O FIX
 , O
 4 O
 مليار O
 جنيه B-MISC
 وضرائب O
 المبيعات O
-بنسبة7 O
+بنسبة7 O FIX
 , O
 5% O
 لتصل O
-الي34 O
+الي34 O FIX
 مليار O
 جنيه B-MISC
 والضرائب O
 العامة O
-سجلت45 O
+سجلت45 O FIX
 مليار O
 جنيه B-MISC
 بنسبة O
-نمو10% O
+نمو10% O FIX
 والايرادات O
 الاخري O
 غير O
 الضريبية O
 قفزت O
-بنسبة39% O
+بنسبة39% O FIX
 لتصل O
 الي49 O
 مليار O
@@ -102757,7 +102757,7 @@ BBC B-ORG
 الكلي O
 للموازنة O
 العامة O
-بنحو1 O
+بنحو1 O FIX
 , O
 6% O
 وذلك O
@@ -102765,25 +102765,25 @@ BBC B-ORG
 الأولي O
 ليصل O
 العجز O
-لنحو50 O
+لنحو50 O FIX
 , O
 8 O
 مليار O
 جنيه B-MISC
-بنسبة8 O
+بنسبة8 O FIX
 , O
 6% O
 في O
 الناتج O
 المحلي O
-مقابل51 O
+مقابل51 O FIX
 , O
 6 O
 مليار O
 جنيه B-MISC
 العام O
 السابق O
-بنسبة9 O
+بنسبة9 O FIX
 , O
 6% O
 من O
@@ -102795,7 +102795,7 @@ BBC B-ORG
 التقرير O
 المالي O
 الشهري O
-لوزارة O
+لوزارة O REVISIT
 المالية O
 والذي O
 استعرضه O
@@ -102812,14 +102812,14 @@ BBC B-ORG
 الربع O
 الثالث O
 من O
-عام2006 O
+عام2006 O FIX
 / O
 2005 O
 حقق O
 معدل O
 نمو O
 سنوي O
-بلغ5 O
+بلغ5 O FIX
 , O
 9% O
 وفقا O
@@ -102835,7 +102835,7 @@ BBC B-ORG
 ) O
 مقابل O
 معدل O
-نمو5 O
+نمو5 O FIX
 , O
 1% O
 في O
@@ -102858,10 +102858,10 @@ BBC B-ORG
 خلال O
 العام O
 المالي O
-الحالي2006 O
+الحالي2006 O FIX
 / O
 2005 O
-نحو203 O
+نحو203 O FIX
 مليارات O
 جنيه B-MISC
 ( O
@@ -102872,7 +102872,7 @@ BBC B-ORG
 الناتج O
 المحلي O
 ) O
-مقابل162 O
+مقابل162 O FIX
 مليار O
 جنيه B-MISC
 ( O
@@ -102892,26 +102892,26 @@ BBC B-ORG
 ارتفعت O
 الاجور O
 والمرتبات O
-بنسبة9 O
+بنسبة9 O FIX
 , O
 1% O
-الي45 O
+الي45 O FIX
 , O
 3 O
 مليار O
 جنيه B-MISC
 خلال O
-عام2006 O
+عام2006 O FIX
 / O
 2005 O
-مقابل41 O
+مقابل41 O FIX
 . O
 
 5 O
 مليار O
 جنيه B-MISC
 خلال O
-عام2005 O
+عام2005 O FIX
 / O
 . O
 2004 O
@@ -102955,7 +102955,7 @@ BBC B-ORG
 والمعلن O
 من O
 قبل O
-وزارة O
+وزارة O REVISIT
 المالية O
 والذي O
 يستهدف O
@@ -102986,7 +102986,7 @@ BBC B-ORG
 لقطاع O
 الحكومة O
 المركزية O
-الي374 O
+الي374 O FIX
 مليار O
 جنيه B-MISC
 ( O
@@ -102998,11 +102998,11 @@ BBC B-ORG
 ) O
 وذلك O
 في O
-مارس2006 O
+مارس2006 O FIX
 , O
 مقارنة O
 بمديونية O
-قدرها333 O
+قدرها333 O FIX
 , O
 3 O
 مليار O
@@ -103016,7 +103016,7 @@ BBC B-ORG
 المحلي O
 ) O
 في O
-مارس2005 O
+مارس2005 O FIX
 وعلي O
 جانب O
 المديونية O
@@ -103028,17 +103028,17 @@ BBC B-ORG
 رصيد O
 الدين O
 الخارجي O
-بنحو4 O
+بنحو4 O FIX
 , O
 3% O
 الي O
-مايعادل28 O
+مايعادل28 O FIX
 , O
 9 O
 مليار O
 دولار B-MISC
 في O
-مارس2006 O
+مارس2006 O FIX
 ( O
 28% O
 من O
@@ -103073,13 +103073,13 @@ BBC B-ORG
 سجلت O
 جملة O
 الواردات O
-السلعية21 O
+السلعية21 O FIX
 , O
 5 O
 مليار O
 دولار B-MISC
 بنسبة O
-ارتفاع27% O
+ارتفاع27% O FIX
 , O
 انعكاسا O
 للزيادة O
@@ -103093,10 +103093,10 @@ BBC B-ORG
 متحصلات O
 الصادرات O
 الخدمية O
-بنسبة13 O
+بنسبة13 O FIX
 , O
 6% O
-الي12 O
+الي12 O FIX
 , O
 9 O
 مليار O
@@ -103124,13 +103124,13 @@ BBC B-ORG
 إلي O
 الواردات O
 الخدمية O
-بلغت188% O
+بلغت188% O FIX
 خلال O
 الفترة O
 يوليو O
 ـ O
 مارس O
-البلاد O
+البلاد O ARTICLE
 تحتفل O
 اليوم O
 بالذكري O
@@ -103212,9 +103212,9 @@ BBC B-ORG
 محمد B-PERS
 بن I-PERS
 مبارك I-PERS
-الخليفي O
+الخليفي I-PERS
 رئيس O
-مجلس O
+مجلس O REVISIT
 الشوري O
 . O
 
@@ -103596,7 +103596,7 @@ BBC B-ORG
 الأمير O
 المفد O
 النائب O
-الأول B-MISC
+الأول O
 يتلقي O
 اتصالات O
 هاتفية O
@@ -103637,7 +103637,7 @@ BBC B-ORG
 نبيه B-PERS
 بري I-PERS
 رئيس O
-مجلس O
+مجلس O REVISIT
 النواب O
 اللبناني O
 ودولة O
@@ -103648,13 +103648,13 @@ BBC B-ORG
 مجلس O
 الوزراء O
 في O
-الجمهورية O
+الجمهورية O REVISIT
 اللبنانية O
 الشقيقة O
 . O
 
 وعلمت O
-وكالة O
+وكالة O REVISIT
 الأنباء O
 القطرية O
 قنا B-ORG
@@ -103733,7 +103733,7 @@ BBC B-ORG
 . O
 
 وعلمت O
-وكالة O
+وكالة O REVISIT
 الانباء O
 القطرية O
 قنا B-ORG
@@ -103776,7 +103776,7 @@ BBC B-ORG
 . O
 
 وعلمت O
-وكالة O
+وكالة O REVISIT
 الأنباء O
 القطرية O
 قنا B-ORG
@@ -103802,7 +103802,7 @@ BBC B-ORG
 العربية O
 والدولية O
 . O
-
+ARTICLE
 وزراء O
 الاقتصاد O
 والتجارة O
@@ -103813,7 +103813,7 @@ BBC B-ORG
 بالقاهرة B-LOC
 القاهرة B-LOC
 ( O
-د O
+د O REVISIT
 ب O
 أ O
 ) O
@@ -103824,7 +103824,7 @@ BBC B-ORG
 امس O
 السبت O
 أعمال O
-الدورة O
+الدورة O REVISIT
 السابعة O
 والثمانين O
 للمجلس O
@@ -103839,7 +103839,7 @@ BBC B-ORG
 المندوبين O
 وكبار O
 المسئولين O
-بوزارات O
+بوزارات O REVISIT
 الاقتصاد O
 والتجارة O
 والمالية O
@@ -103910,7 +103910,7 @@ BBC B-ORG
 ضرورة O
 زيادة O
 فعالية O
-منطقة O
+منطقة O REVISIT
 التجارة O
 الحرة O
 العربية O
@@ -103928,7 +103928,7 @@ BBC B-ORG
 وسوف O
 يتبعها O
 قيام O
-الاتحاد O
+الاتحاد O REVISIT
 الجمركي O
 العربي O
 وصولا O
@@ -103946,8 +103946,8 @@ BBC B-ORG
 الرئيس O
 السابق O
 للمجلس O
-نذار O
-فيصل B-PERS
+نذار B-PERS
+فيصل I-PERS
 المشعل I-PERS
 ان O
 اجتماع O
@@ -104019,7 +104019,7 @@ BBC B-ORG
 للشؤون O
 الاجتماعية O
 المشرف O
-علي B-PERS
+علي O
 القطاع O
 الاقتصادي O
 بالانابة O
@@ -104067,7 +104067,7 @@ BBC B-ORG
 أعمال O
 الدورة O
 والخاص O
-بمنطقة O
+بمنطقة O REVISIT
 التجارة O
 الحرة O
 العربية O
@@ -104089,7 +104089,7 @@ BBC B-ORG
 توافي O
 الجزائر B-LOC
 وموريتانيا B-LOC
-الامانة O
+الامانة O REVISIT
 العامة O
 للجامعة B-ORG
 العربية I-ORG
@@ -104101,14 +104101,14 @@ BBC B-ORG
 وأشارت O
 إلي O
 أن O
-الامانة O
+الامانة O REVISIT
 الفنية O
 لمنطقة O
 التجارة O
 الحرة O
 العربية O
 الكبري O
-بالامانة O
+بالامانة O REVISIT
 العامة O
 للجامعة B-ORG
 العربية I-ORG
@@ -104163,7 +104163,7 @@ BBC B-ORG
 البينية O
 بالاضافة O
 إلي O
-معرفةانعكاس O
+معرفةانعكاس O FIX
 المنطقة O
 علي O
 أداء O
@@ -104277,7 +104277,7 @@ BBC B-ORG
 الامانة O
 العامة O
 حول O
-المنتدي O
+المنتدي O REVISIT
 الاقتصادي O
 العربي O
 الياباني O
@@ -104345,13 +104345,13 @@ BBC B-ORG
 وفرق O
 العمل O
 . O
-
+ARTICLE
 &#0 O
 ؛ O
 نصر B-PERS
 الله I-PERS
 يهاجم O
-قوى O
+قوى O REVISIT
 14 O
 آذار O
 ويدعو O
@@ -104359,7 +104359,7 @@ BBC B-ORG
 حكومة O
 جديدة O
 نصر B-PERS
-الله B-PERS
+الله I-PERS
 اعتبر O
 أن O
 الحكومة O
@@ -104429,7 +104429,7 @@ BBC B-ORG
 اللبناني O
 ، O
 مثل O
-التيار O
+التيار O REVISIT
 الوطني O
 الحر O
 بزعامة O
@@ -104465,7 +104465,7 @@ BBC B-ORG
 ورجح O
 أن O
 ترفض O
-قوى O
+قوى O REVISIT
 14 O
 آذار O
 هذه O
@@ -104530,7 +104530,7 @@ BBC B-ORG
 لاتفاق O
 جديد O
 لأن O
-اتفاق O
+اتفاق O REVISIT
 الطائف O
 فيه O
 آلية O
@@ -104548,7 +104548,7 @@ BBC B-ORG
 ، O
 مضيفا O
 أن O
-قوى O
+قوى O REVISIT
 14 O
 آذار O
 تريد O
@@ -104773,7 +104773,7 @@ BBC B-ORG
 وأشار O
 إلى O
 أنه O
-ذا O
+إذا O
 كانت O
 الحكومة O
 هي O
@@ -104851,7 +104851,7 @@ BBC B-ORG
 الطريق O
 أمام O
 بعض O
-قوى O
+قوى O REVISIT
 14 O
 آذار O
 لاستغلال O
@@ -104969,7 +104969,7 @@ BBC B-ORG
 استحقاقات O
 الجنوب O
 والإعمار O
-ويونيفيل B-MISC
+ويونيفيل B-MISC REVISIT
 ، O
 لكنه O
 أكد O
@@ -105022,7 +105022,7 @@ BBC B-ORG
 التعامل O
 مع O
 الآخرين O
-ألونسو B-PERS
+ألونسو B-PERS ARTICE
 يتهم O
 شوماخر B-PERS
 بافتقاد O
@@ -105037,7 +105037,7 @@ BBC B-ORG
 التي O
 نالها O
 في O
-جائزة O
+جائزة O REVISIT
 إيطاليا B-LOC
 الكبرى O
 ( O
@@ -105049,9 +105049,9 @@ BBC B-ORG
 ألونسو I-PERS
 بطل O
 العالم O
-لسباقات O
+لسباقات O REVISIT
 سيارات O
-فورمولا B-MISC
+فورمولا B-MISC REVISIT
 واحد I-MISC
 هجوما O
 حادا O
@@ -105078,7 +105078,7 @@ BBC B-ORG
 وفي O
 تصريحات O
 نشرتها O
-صحيفة O
+صحيفة O REVISIT
 " O
 ماركا B-ORG
 " O
@@ -105093,7 +105093,7 @@ BBC B-ORG
 إن O
 شوماخر B-PERS
 متسابق O
-فيراري O
+فيراري O REVISIT
 والفائز O
 ببطولة B-MISC
 العالم I-MISC
@@ -105179,11 +105179,11 @@ BBC B-ORG
 التجارب O
 الرسمية O
 في O
-جائزة O
+جائزة O REVISIT
 إيطاليا B-LOC
 الكبرى O
 على O
-حلبة O
+حلبة O REVISIT
 مونزا O
 عندما O
 عوقب O
@@ -105243,7 +105243,7 @@ BBC B-ORG
 وقال O
 إن O
 سباقات O
-الفورمولا B-MISC
+الفورمولا B-MISC REVISIT
 تتأثر O
 بمصالح O
 تجارية O
@@ -105287,7 +105287,7 @@ BBC B-ORG
 نهاية O
 الموسم O
 . O
-
+ARTICLE
 توقعات O
 بانخفاض O
 نمو O
@@ -105374,11 +105374,11 @@ BBC B-ORG
 . O
 
 وقالت O
-إدارة O
+إدارة O REVISIT
 معلومات O
 الطاقة O
 التابعة O
-لوزارة O
+لوزارة O REVISIT
 الطاقة O
 الأميركية O
 إنه O
@@ -105446,7 +105446,7 @@ BBC B-ORG
 من O
 عام O
 2006 O
-وعام B-MISC
+وعام O
 2007 O
 كاملا O
 . O
@@ -105672,8 +105672,8 @@ BBC B-ORG
 حالة O
 تحول O
 فيروس O
-إنفلونزا B-MISC
-الطيور O
+إنفلونزا B-MISC REVISIT
+الطيور I-MISC
 المميت O
 حاليا O
 إلى O
@@ -105889,7 +105889,7 @@ BBC B-ORG
 المتحدة I-LOC
 الأكبر O
 بالعالم O
-باريس B-LOC
+باريس B-LOC ARTICLE
 تعلن O
 دعمها O
 سولانا B-PERS
@@ -105909,7 +105909,7 @@ BBC B-ORG
 واشنطن B-LOC
 بالعقوبات O
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 - O
 أرشيف O
 ) O
@@ -105974,8 +105974,8 @@ BBC B-ORG
 الجمهورية O
 دعم O
 فرنسا B-LOC
-لخافيير I-LOC
-سولانا B-PERS
+لخافيير B-PERS
+سولانا I-PERS
 " O
 . O
 
@@ -106146,8 +106146,8 @@ BBC B-ORG
 في O
 الملف O
 النووي O
-علي O
-لاريجاني B-PERS
+علي B-PERS
+لاريجاني I-PERS
 , O
 وقال O
 إن O
@@ -106199,7 +106199,7 @@ BBC B-ORG
 مستعدون O
 لوقف O
 تخصيب O
-اليورانيوم B-MISC
+اليورانيوم B-MISC REVISIT
 لمدة O
 شهرين O
 " O
@@ -106405,7 +106405,7 @@ BBC B-ORG
 في O
 مصر B-LOC
 . O
-
+ARTICLE
 نرويجي O
 يصل O
 الدوحة B-LOC
@@ -106834,7 +106834,7 @@ BBC B-ORG
 بالانبهار O
 عندما O
 شاهدت O
-المسجد B-MISC
+المسجد B-MISC REVISIT
 الأموي I-MISC
 فقد O
 أحسست O
@@ -106930,7 +106930,7 @@ BBC B-ORG
 يوماً O
 ما O
 الي O
-مدينة O
+مدينة O REVISIT
 سنغافورة B-LOC
 لكن O
 أرجوكم O
@@ -106945,7 +106945,7 @@ BBC B-ORG
 تقتلني O
 ! O
 ! O
-يديعوت B-ORG
+يديعوت B-ORG ARTICLE
 قالت O
 إن O
 اللقاء O
@@ -106963,7 +106963,7 @@ BBC B-ORG
 رويترز B-ORG
 ) O
 ذكرت O
-صحيفة O
+صحيفة O REVISIT
 يديعوت B-ORG
 أحرونوت I-ORG
 الإسرائيلية O
@@ -107035,7 +107035,7 @@ BBC B-ORG
 الأردن B-LOC
 عبد B-PERS
 الله I-PERS
-الثاني O
+الثاني I-PERS
 . O
 
 وتوقعت O
@@ -107122,7 +107122,7 @@ BBC B-ORG
 الدولة O
 جدعون B-PERS
 عيزرا I-PERS
-لراديو O
+لراديو O REVISIT
 إسرائيل O
 أنه O
 علم O
@@ -107220,7 +107220,7 @@ BBC B-ORG
 حزيران O
 1967 O
 . O
-
+ARTICLE
 الهجمات O
 تحصد O
 مزيدا O
@@ -107231,13 +107231,13 @@ BBC B-ORG
 الأمني O
 ببغداد B-LOC
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 تضاربت O
 روايات O
-الجيش O
+الجيش O REVISIT
 الأميركي O
-والشرطة O
+والشرطة O REVISIT
 العراقية O
 بشأن O
 ملابسات O
@@ -107250,13 +107250,13 @@ BBC B-ORG
 عائلة O
 واحدة O
 في O
-بعقوبة O
+بعقوبة B-LOC
 شمال O
 بغداد B-LOC
 ، O
 فقد O
 أعلن O
-الجيش O
+الجيش O REVISIT
 الأميركي O
 أنه O
 قتل O
@@ -107281,8 +107281,8 @@ BBC B-ORG
 في O
 صلته O
 بقيادات O
-بتنظيم O
-القاعدة O
+بتنظيم B-ORG
+القاعدة I-ORG
 . O
 
 وذكر O
@@ -107313,7 +107313,7 @@ BBC B-ORG
 وأوضح O
 المتحدث O
 باسم O
-القيادة O
+القيادة O REVISIT
 الوسطى O
 الأميركية O
 النقيب O
@@ -107471,7 +107471,7 @@ BBC B-ORG
 أعلنت O
 القيادة O
 العامة O
-للقوات O
+للقوات O REVISIT
 المسلحة O
 العراقية O
 قتل O
@@ -107500,7 +107500,7 @@ BBC B-ORG
 الإعلامي O
 أن O
 قوات O
-وزارة O
+وزارة O REVISIT
 الداخلية O
 قتلت O
 اثنين O
@@ -107513,7 +107513,7 @@ BBC B-ORG
 مساجد O
 السنة O
 في O
-حي O
+حي O REVISIT
 الخضراء B-LOC
 ببغداد B-LOC
 . O
@@ -107557,10 +107557,10 @@ BBC B-ORG
 ثلاثة O
 آخرين O
 في O
-مسجد O
+مسجد O REVISIT
 العشرة O
 المبشرة O
-بحي O
+بحي O REVISIT
 العامل B-LOC
 بعد O
 استهدافهم O
@@ -107573,7 +107573,7 @@ BBC B-ORG
 آخر O
 اعتقال O
 قائد O
-كتائب O
+كتائب O REVISIT
 ثورة O
 العشرين O
 في O
@@ -107588,14 +107588,14 @@ BBC B-ORG
 مشتبها O
 به O
 في O
-محافظة O
+محافظة O REVISIT
 ديالى O
 . O
 
 وأكد O
 مصدر O
 بشرطة O
-محافظة O
+محافظة O REVISIT
 بابل B-LOC
 اعتقال O
 العشرات O
@@ -107603,7 +107603,7 @@ BBC B-ORG
 المشتبه O
 بهم O
 في O
-منطقة O
+منطقة O REVISIT
 جرف B-LOC
 الصخر I-LOC
 التي O
@@ -107626,7 +107626,7 @@ BBC B-ORG
 دوريات O
 الشرطة O
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 تصاعد O
 الهجمات O
@@ -107681,7 +107681,7 @@ BBC B-ORG
 ناسفتين O
 انفجرتا O
 في O
-ساحة O
+ساحة O REVISIT
 كهرمانة B-LOC
 وسط O
 بغداد B-LOC
@@ -107698,7 +107698,7 @@ BBC B-ORG
 ضابط O
 عراقي O
 يعمل O
-بمديرية O
+بمديرية O REVISIT
 الجرائم O
 الكبرى O
 بانفجار O
@@ -107708,8 +107708,8 @@ BBC B-ORG
 تحت O
 سيارته O
 قرب O
-جسر O
-السنك B-MISC
+جسر O REVISIT
+السنك B-MISC REVISIT
 . O
 
 وقتل O
@@ -107727,8 +107727,8 @@ BBC B-ORG
 تقل O
 موقوفين O
 إلى O
-محكمة O
-بعقوبة O
+محكمة O REVISIT
+بعقوبة O REVISIT
 . O
 
 وقتل O
@@ -107754,7 +107754,7 @@ BBC B-ORG
 مقتل O
 ضابط O
 في O
-الجيش O
+الجيش O REVISIT
 العراقي O
 وإصابة O
 ثلاثة O
@@ -107774,9 +107774,9 @@ BBC B-ORG
 إثر O
 سقوط O
 قذيفة O
-هاون B-MISC
+هاون B-MISC REVISIT
 على O
-حي O
+حي O REVISIT
 المعتصم B-LOC
 بسامراء B-LOC
 . O
@@ -107785,7 +107785,7 @@ BBC B-ORG
 جهة O
 أخرى O
 تبنى O
-الجيش O
+الجيش O REVISIT
 الإسلامي O
 في O
 العراق B-LOC
@@ -107800,7 +107800,7 @@ BBC B-ORG
 دبابة O
 أميركية O
 في O
-منطقة O
+منطقة O REVISIT
 التاجي B-LOC
 شمال O
 بغداد B-LOC
@@ -107829,7 +107829,7 @@ BBC B-ORG
 مصدر O
 مستقل O
 . O
-
+ARTICLE
 الرئيس O
 صالح B-PERS
 تعهد O
@@ -107881,7 +107881,7 @@ BBC B-ORG
 صالح B-PERS
 عقب O
 أدائه O
-اليمني O
+اليمين O
 بالعمل O
 على O
 ترسيخ O
@@ -108023,7 +108023,7 @@ BBC B-ORG
 عن O
 مسارها O
 . O
-
+ARTICLE
 يحاول O
 أن O
 ينأى O
@@ -108139,7 +108139,7 @@ BBC B-ORG
 بالقول O
 " O
 أبلغتنا O
-وزارة O
+وزارة O REVISIT
 الخارجية O
 بأنها O
 تلقت O
@@ -108173,7 +108173,7 @@ BBC B-ORG
 هو O
 الذي O
 يدير O
-المجلس O
+المجلس O REVISIT
 العسكري O
 " O
 . O
@@ -108280,7 +108280,7 @@ BBC B-ORG
 من O
 الآن O
 . O
-
+ARTICLE
 محمد B-PERS
 عبد I-PERS
 الفتاح I-PERS
@@ -108342,7 +108342,7 @@ BBC B-ORG
 الفائز O
 بذهبية O
 في O
-أولمبياد O
+أولمبياد O REVISIT
 أثينا B-LOC
 2004 O
 حيث O
@@ -108378,7 +108378,7 @@ BBC B-ORG
 
 وأشاد O
 مدير O
-الاتحاد O
+الاتحاد O REVISIT
 المصري O
 للمصارعة O
 مصطفى B-PERS
@@ -108391,7 +108391,7 @@ BBC B-ORG
 ب O
 ـ O
 " O
-بوجي O
+بوجي B-PERS
 " O
 وقال O
 إنه O
@@ -108404,7 +108404,7 @@ BBC B-ORG
 لإحراز O
 ميداليات O
 في O
-أولمبياد O
+أولمبياد O REVISIT
 بكين B-LOC
 2008 O
 . O
@@ -108428,7 +108428,7 @@ BBC B-ORG
 للفوز O
 بميدالية O
 في O
-أولمبياد O
+أولمبياد O REVISIT
 بكين B-LOC
 مع O
 عبد B-PERS
@@ -108472,7 +108472,7 @@ BBC B-ORG
 المصارعة O
 الحرة O
 . O
-
+ARTICLE
 كافو B-PERS
 مع O
 رئيس O
@@ -108547,7 +108547,7 @@ BBC B-ORG
 لمنتخب O
 البرازيل B-LOC
 في O
-المونديال O
+المونديال O REVISIT
 حيث O
 قدم O
 عروضا O
@@ -108569,7 +108569,7 @@ BBC B-ORG
 وبعد O
 الإخفاق O
 في O
-المونديال O
+المونديال O REVISIT
 استقال O
 المدرب O
 البرازيلي O
@@ -108580,7 +108580,7 @@ BBC B-ORG
 مكانه O
 للنجم O
 السابق O
-دونغا O
+دونغا B-PERS
 حيث O
 بدأ O
 الأخير O
@@ -108614,7 +108614,7 @@ BBC B-ORG
 من O
 المشاركة O
 في O
-كأس O
+كأس O REVISIT
 العالم O
 المقبلة O
 عام O
@@ -108645,7 +108645,7 @@ BBC B-ORG
 المباريات O
 الدولية O
 مع O
-المنتخب O
+المنتخب O REVISIT
 البرازيلي O
 حيث O
 تبلغ O
@@ -108660,13 +108660,13 @@ BBC B-ORG
 للفريق O
 المشارك O
 في O
-كأس O
+كأس O REVISIT
 العالم O
 2006 O
 بألمانيا B-LOC
 والفريق O
 الفائز O
-بكأس O
+بكأس O REVISIT
 العالم O
 2002 O
 كما O
@@ -108674,13 +108674,13 @@ BBC B-ORG
 مع O
 الفريق O
 في O
-كأس O
+كأس O REVISIT
 العالم O
 عامي O
 1994 O
 و1998 O
 . O
-
+ARTICLE
 رود B-PERS
 فان I-PERS
 نيستلروي I-PERS
@@ -108689,7 +108689,7 @@ BBC B-ORG
 منتخب O
 هولندا B-LOC
 في O
-كأس O
+كأس O REVISIT
 العالم O
 الأخيرة O
 ( O
@@ -108837,7 +108837,7 @@ BBC B-ORG
 
 وكان O
 فان B-PERS
-نيستلروي O
+نيستلروي I-PERS
 أساسيا O
 في O
 التشكيلة O
@@ -108863,7 +108863,7 @@ BBC B-ORG
 تفضيل O
 مهاجم O
 أياكس B-ORG
-أمستردام B-LOC
+أمستردام B-ORG
 الشاب O
 كلاس B-PERS
 يان I-PERS
@@ -108876,8 +108876,8 @@ BBC B-ORG
 حسب O
 رأيه O
 . O
-
-لوحة O
+ARTILCE
+لوحة O REVISIT
 الموناليزا B-MISC
 ( O
 أرشيف O
@@ -108886,18 +108886,18 @@ BBC B-ORG
 دراسة O
 كندية O
 أقامها O
-المجلس O
+المجلس O REVISIT
 الوطني O
 للأبحاث O
 بطلب O
 من O
-متحف O
+متحف O REVISIT
 اللوفر B-MISC
 الفرنسي O
 أن O
 الابتسامة O
 الغامضة O
-للوحة O
+للوحة O REVISIT
 الجوكندا B-MISC
 التي O
 رسمها O
@@ -108930,7 +108930,7 @@ BBC B-ORG
 الأبعاد O
 كشفت O
 أن O
-موناليزا O
+موناليزا B-PERS
 كانت O
 ترتدي O
 منديلا O
@@ -108989,7 +108989,7 @@ BBC B-ORG
 ! O
 " O
 . O
-
+ARTICLE
 أوبرا B-PERS
 وينفري I-PERS
 اشتهرت O
@@ -109025,7 +109025,7 @@ BBC B-ORG
 ثلاث O
 سنوات O
 من O
-شبكة O
+شبكة O REVISIT
 XM O
 الإذاعية O
 . O
@@ -109123,7 +109123,7 @@ XM O
 الوقود O
 المرن O
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 بعد O
 أن O
@@ -109193,7 +109193,7 @@ XM O
 . O
 
 وتعرض O
-الإيثانول O
+الإيثانول O REVISIT
 في O
 مطلع O
 التسعينيات O
@@ -109220,7 +109220,7 @@ XM O
 العام O
 2003 O
 قدمت O
-شركة O
+شركة O REVISIT
 فولكس B-ORG
 فاغن I-ORG
 في O
@@ -109255,7 +109255,7 @@ XM O
 . O
 
 وذكرت O
-هيئة O
+هيئة O REVISIT
 تنمية O
 الصادرات O
 البرازيلية O
@@ -109296,7 +109296,7 @@ XM O
 والسكر O
 . O
 وذكرت O
-هيئة O
+هيئة O REVISIT
 تنمية O
 الصادرات O
 البرازيلية O
@@ -109492,7 +109492,7 @@ XM O
 الزراعي O
 والغذائي O
 . O
-
+ARTICLE
 وافقت O
 الحكومة O
 الصينية O
@@ -109504,7 +109504,7 @@ XM O
 من O
 تركمانستان B-LOC
 إلى O
-إقليم O
+إقليم O REVISIT
 غوانغجو B-LOC
 بجنوب O
 الصين B-LOC
@@ -109684,9 +109684,9 @@ XM O
 إلى O
 الصين O
 . O
-
+ARTICLE
 أعلنت O
-شركة O
+شركة O REVISIT
 نوكيا B-ORG
 أنها O
 أبرمت O
@@ -109765,7 +109765,7 @@ XM O
 عرض O
 الأفلام O
 ، O
-ودائرة O
+ودائرة O REVISIT
 معارف O
 " O
 إنكارتا B-MISC
@@ -109774,7 +109774,7 @@ XM O
 الخرائط O
 اللتين O
 تتيحهما O
-شركة O
+شركة O REVISIT
 مايكروسوفت B-ORG
 . O
 
@@ -109784,7 +109784,7 @@ XM O
 الوسائط O
 المتعددة O
 بنوكيا B-ORG
-لمجلة O
+لمجلة O REVISIT
 " O
 إنفورميشن B-ORG
 ويك I-ORG
@@ -109877,7 +109877,7 @@ XM O
 اتفاقا O
 مماثلا O
 مع O
-شركة O
+شركة O REVISIT
 " O
 ياهو B-ORG
 " O
@@ -109959,7 +109959,7 @@ WiMax O
 . O
 
 أما O
-شركتا O
+شركتا O REVISIT
 " O
 إل B-ORG
 جي I-ORG
@@ -110084,7 +110084,7 @@ WiMax O
 عندما O
 تسمح O
 لبرنامج O
-دودة B-MISC
+دودة O
 إنترنت O
 مدمرة O
 بالتكاثر O
@@ -110117,7 +110117,7 @@ WiMax O
 نقاط O
 ضعف O
 في O
-نظام O
+نظام O REVISIT
 تشغيل O
 ويندوز B-MISC
 وبرامج O
@@ -110126,7 +110126,7 @@ WiMax O
 إنتاج O
 مايكروسوفت B-ORG
 . O
-
+ARTICLE
 تراجع O
 اليورو B-MISC
 مقابل O
@@ -110220,7 +110220,7 @@ WiMax O
 . O
 
 وفي O
-منطقة O
+منطقة O REVISIT
 اليورو B-LOC
 تتردد O
 توقعات O
@@ -110254,7 +110254,7 @@ WiMax O
 مؤشر O
 معهد B-ORG
 ايفو I-ORG
-الالماني O
+الالماني O REVISIT
 لمناخ O
 الاعمال O
 الرئيسي O
@@ -110342,8 +110342,8 @@ WiMax O
 التعليقات O
 المتشددة O
 من O
-اركي O
-لبكانين O
+اركي B-PERS
+لبكانين I-PERS
 عضو O
 المجلس O
 الحاكم O
@@ -110390,7 +110390,7 @@ WiMax O
 46ر116 O
 ين B-MISC
 . O
-عواصم O
+عواصم O ARTICLE
 - O
 وكالات O
 : O
@@ -110566,10 +110566,10 @@ WiMax O
 الجمعة O
 علي O
 خطة O
-بي B-ORG
+بي O
 . O
 
-بي B-ORG
+بي O
 لاستئناف O
 تشغيل O
 أكبر O
@@ -110625,7 +110625,7 @@ WiMax O
 الساعة O
 0757 O
 بتوقيت O
-جرينتش O
+جرينتش B-LOC
 ارتفع O
 مزيج O
 برنت O
@@ -110646,7 +110646,7 @@ WiMax O
 الخام O
 الامريكي O
 في O
-بورصة O
+بورصة O REVISIT
 نايمكس B-LOC
 04ر0 O
 دولار B-MISC
@@ -110864,7 +110864,7 @@ WiMax O
 الخام O
 الخفيف O
 " O
-لايت B-MISC
+لايت B-MISC REVISIT
 سويت B-MISC
 كرود B-MISC
 " O
@@ -110898,7 +110898,7 @@ WiMax O
 وكسب O
 برميل O
 خام O
-بحر O
+بحر O REVISIT
 الشمال O
 تسليم O
 نوفمبر O
@@ -110911,10 +110911,10 @@ WiMax O
 60 O
 دولارا B-MISC
 . O
-
+ARTICLE
 بيروت B-LOC
 ( O
-اف O
+اف O REVISIT
 ب O
 ) O
 حذر O
@@ -111130,7 +111130,7 @@ WiMax O
 تاريخي O
 كبير O
 على O
-الجيش O
+الجيش O REVISIT
 الاسرائيلي O
 خلال O
 المواجهات O
@@ -111185,12 +111185,12 @@ WiMax O
 واكد O
 الحريري B-PERS
 تمسك O
-قوى O
+قوى O REVISIT
 14 O
 اذار O
 المناهضة O
 لسوريا B-LOC
-باتفاق O
+باتفاق O REVISIT
 الطائف O
 1989 O
 ، O
@@ -111229,7 +111229,7 @@ WiMax O
 
 وقال O
 الحريري B-PERS
-اتفاق O
+اتفاق O REVISIT
 الطائف O
 باق O
 ، O
@@ -111238,7 +111238,7 @@ WiMax O
 للحوار O
 من O
 اعتبار O
-الطائف O
+الطائف B-LOC
 السقف O
 الذي O
 يوفر O
@@ -111279,10 +111279,10 @@ WiMax O
 السلطة O
 الحالية O
 . O
-
+ARTICLE
 وصف O
 بيان O
-لهيئة O
+لهيئة O REVISIT
 الإفتاء O
 في O
 المغرب B-LOC
@@ -111473,7 +111473,7 @@ WiMax O
 الى O
 القول O
 إن O
-الهيئة O
+الهيئة O REVISIT
 العلمية O
 للإفتاء O
 بالمجلس O
@@ -111553,10 +111553,10 @@ WiMax O
 قد O
 غرب O
 فيها O
-القمر O
+القمر O REVISIT
 قبل O
 غروب O
-الشمس O
+الشمس O REVISIT
 ، O
 لافتا O
 الى O
@@ -111587,16 +111587,16 @@ WiMax O
 من O
 صاموا O
 مع O
-السعودية O
+السعودية B-LOC
 وخالفوا O
 بذلك O
 اعلان O
-دار O
-الافتاء O
+دار B-ORG
+الافتاء I-ORG
 وحاولت O
-جماعة O
-الاخوان O
-المسلمين O
+جماعة B-ORG
+الاخوان I-ORG
+المسلمين I-ORG
 تبرئة O
 نفسها O
 بالاعلان O
@@ -111605,8 +111605,8 @@ WiMax O
 الاحد O
 وفقا O
 لرؤية O
-دار O
-الافتاء O
+دار B-ORG
+الافتاء I-ORG
 واشار O
 متحدث O
 منها O
@@ -111655,7 +111655,7 @@ WiMax O
 بدء O
 رمضان O
 . O
-
+ARTICLE
 هشام B-PERS
 بن I-PERS
 ثابت I-PERS
@@ -111693,7 +111693,7 @@ WiMax O
 أنغولا B-LOC
 برسم O
 منافسات O
-كأس O
+كأس O REVISIT
 الاتحاد O
 الإفريقي O
 و O
@@ -111732,15 +111732,15 @@ WiMax O
 مراكش B-LOC
 بين O
 الكوكب B-ORG
-والحسنية I-ORG
+والحسنية B-ORG
 : O
 فبمدينة O
 مراكش B-LOC
 يشهد O
-ملعب O
+ملعب O REVISIT
 الحارثي B-MISC
 " O
-ديربي B-MISC
+ديربي O
 " O
 جهويا O
 بين O
@@ -111767,8 +111767,8 @@ WiMax O
 النادي B-ORG
 المكناسي I-ORG
 يسعى O
-فريق O
-الكوكب O
+فريق B-ORG REVISIT
+الكوكب I-ORG
 بقيادة O
 مدربه O
 الجديد O
@@ -111867,22 +111867,22 @@ WiMax O
 الجمعية B-ORG
 السلاوية I-ORG
 : O
-بملعب O
+بملعب O REVISIT
 الأب B-MISC
 جيكو I-MISC
 بالدار B-LOC
 البيضاء I-LOC
 يبحث O
-فريق O
-الوداد B-MISC
-البيضاوي I-MISC
+فريق O REVISIT
+الوداد B-ORG
+البيضاوي I-ORG
 حامل O
 لقب O
 الموسم O
 الماضي O
 وهو O
 يستقبل O
-فريق O
+فريق O REVISIT
 الجمعية B-ORG
 السلاوية I-ORG
 عن O
@@ -111939,7 +111939,7 @@ WiMax O
 يعاني O
 أبناء O
 " O
-الرقراق O
+الرقراق B-ORG
 " O
 عدة O
 مشاكل O
@@ -112011,7 +112011,7 @@ WiMax O
 القسم O
 الثاني O
 يسعى O
-فريق O
+فريق O REVISIT
 اتحاد B-ORG
 طنجة I-ORG
 هذه O
@@ -112092,7 +112092,7 @@ WiMax O
 عاد O
 بها O
 من O
-مدينة O
+مدينة O REVISIT
 وجدة B-LOC
 عندما O
 تعادل O
@@ -112235,7 +112235,7 @@ WiMax O
 سيحل O
 ضيفا O
 على O
-فريق O
+فريق O REVISIT
 شباب B-ORG
 المسيرة I-ORG
 . O
@@ -112267,8 +112267,8 @@ WiMax O
 الماضية O
 أمام O
 فريق O
-الرجاء B-MISC
-البيضاوي I-MISC
+الرجاء B-ORG
+البيضاوي I-ORG
 وكاد O
 يخرج O
 متعادلا O
@@ -112545,7 +112545,7 @@ WiMax O
 أجلت O
 ( O
 . O
-
+ARTICLE
 رايس B-PERS
 قالت O
 إن O
@@ -112558,7 +112558,7 @@ WiMax O
 تستمر O
 طويلا O
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 انتهت O
 ببرلين B-LOC
@@ -112578,8 +112578,8 @@ WiMax O
 الملف O
 النووي O
 الإيراني O
-علي O
-لاريجاني B-PERS
+علي B-PERS
+لاريجاني I-PERS
 على O
 أن O
 تعقد O
@@ -112651,7 +112651,7 @@ WiMax O
 قال O
 الناطق O
 باسم O
-الخارجية O
+الخارجية O REVISIT
 شون B-PERS
 مكورماك I-PERS
 إن O
@@ -112692,7 +112692,7 @@ WiMax O
 حق O
 الأمة O
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 غير O
 أن O
@@ -112810,7 +112810,7 @@ WiMax O
 مؤقت O
 لأنشطة O
 تخصيب O
-اليورانيوم B-MISC
+اليورانيوم B-MISC REVISIT
 لمدة O
 90 O
 يوما O
@@ -112872,7 +112872,7 @@ WiMax O
 خطيرة O
 " O
 . O
-
+ARTICLE
 المالكي B-PERS
 تلقى O
 دعم O
@@ -112883,7 +112883,7 @@ WiMax O
 في O
 العراق B-LOC
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 أعلنت O
 قيادات O
@@ -112900,7 +112900,7 @@ WiMax O
 المالكي I-PERS
 لملاحقة O
 أعضاء O
-مجلس O
+مجلس O REVISIT
 شورى O
 المجاهدين O
 الذي O
@@ -112943,7 +112943,7 @@ WiMax O
 وعبر O
 مشائخ O
 من O
-محافظة O
+محافظة O REVISIT
 الأنبار B-LOC
 غربي O
 العراق B-LOC
@@ -112976,7 +112976,7 @@ WiMax O
 في O
 تشكيل O
 لواء O
-بالمحافظة B-MISC
+بالمحافظة O
 التي O
 تعتبر O
 أحد O
@@ -113012,7 +113012,7 @@ WiMax O
 
 كما O
 أعلن O
-الجيش O
+الجيش O REVISIT
 الأميركي O
 مقتل O
 ثمانية O
@@ -113025,7 +113025,7 @@ WiMax O
 واحدة O
 - O
 في O
-بعقوبة O
+بعقوبة B-LOC
 شمالي O
 بغداد B-LOC
 , O
@@ -113049,19 +113049,19 @@ WiMax O
 مع O
 العراق B-LOC
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 - O
 أرشيف O
 ) O
-إقليم O
+إقليم O REVISIT
 كردستان B-LOC
 من O
 جهة O
 ثانية O
 هدد O
-إقليم O
+إقليم O REVISIT
 كردستان B-LOC
-العراق B-LOC
+العراق I-LOC
 بالانفصال O
 إذا O
 لم O
@@ -113191,7 +113191,7 @@ WiMax O
 . O
 
 وأبرمت O
-حكومة O
+حكومة O REVISIT
 كردستان B-LOC
 صفقتين O
 نفطيتين O
@@ -113215,9 +113215,9 @@ WiMax O
 أي O
 عقود O
 . O
-
+ARTICLE
 قال O
-المنتدى O
+المنتدى O REVISIT
 الاقتصادي O
 العالمي O
 في O
@@ -113365,17 +113365,17 @@ WiMax O
 والسويد B-LOC
 والدانمارك B-LOC
 وسنغافورة B-LOC
-. O
+. O ARTICLE
 روسيا B-LOC
 تراقب O
 الآبار O
 التي O
 تستثمرها O
-شركة O
+شركة O REVISIT
 توتال B-ORG
 الفرنسية O
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 - O
 أرشيف O
 ) O
@@ -113487,12 +113487,12 @@ WiMax O
 غاز O
 ضخم O
 تديره O
-شركة O
+شركة O REVISIT
 شل O
 البريطانية O
 الهولندية O
 في O
-سخالين O
+سخالين B-LOC
 ويكلف O
 20 O
 مليار O
@@ -113515,7 +113515,7 @@ WiMax O
 الآبار O
 التي O
 تستثمرها O
-شركة O
+شركة O REVISIT
 توتال B-ORG
 الفرنسية O
 والشركة O
@@ -113545,11 +113545,11 @@ WiMax O
 التحقيق O
 الجاري O
 حول O
-مشروع O
+مشروع O REVISIT
 سخالين B-MISC
 2 I-MISC
 المتعلق O
-بشركة O
+بشركة O REVISIT
 شل B-ORG
 إلى O
 إلغاء O
@@ -113649,8 +113649,8 @@ WiMax O
 مواردها O
 الطبيعية O
 . O
-
-يده O
+ARTICLE
+يد O
 لوب B-PERS
 اليمنى O
 تحرمه O
@@ -113692,7 +113692,7 @@ WiMax O
 المشاركة O
 في O
 رالي B-MISC
-تركيا B-LOC
+تركيا B-LOC REVISIT
 ، O
 المرحلة O
 الثالثة O
@@ -113745,7 +113745,7 @@ WiMax O
 على O
 فوزه O
 برالي B-MISC
-قبرص B-LOC
+قبرص B-LOC REVISIT
 . O
 
 من O
@@ -113772,7 +113772,7 @@ WiMax O
 " O
 عوضا O
 عن O
-كسارا O
+كسارا O REVISIT
 - O
 شيئا O
 عن O
@@ -113788,7 +113788,7 @@ WiMax O
 ببديله O
 في O
 رالي B-MISC
-تركيا B-LOC
+تركيا B-LOC REVISIT
 أو O
 ما O
 إن O
@@ -113857,7 +113857,7 @@ WiMax O
 انتهاء O
 البطولة O
 . O
-
+ARTICLE
 اثنان O
 من O
 لاعبي O
@@ -113871,7 +113871,7 @@ WiMax O
 أفريقيا I-LOC
 سيابونغا B-PERS
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 . O
 
@@ -113898,7 +113898,7 @@ WiMax O
 أفريقيا I-MISC
 التي O
 تستضيفها O
-مدينة O
+مدينة O REVISIT
 جوهانسبرغ B-LOC
 حتى O
 الاثنين O
@@ -113936,7 +113936,7 @@ WiMax O
 التي O
 تضم O
 أيضا O
-منتخب O
+منتخب O REVISIT
 نيجيريا B-LOC
 . O
 
@@ -113979,7 +113979,7 @@ WiMax O
 جهة O
 أخرى O
 يتصدر O
-منتخب O
+منتخب O REVISIT
 ساحل B-LOC
 العاج I-LOC
 المجموعة O
@@ -113996,7 +113996,7 @@ WiMax O
 المجموعة O
 تضم O
 أيضا O
-منتخب O
+منتخب O REVISIT
 الكاميرون B-LOC
 . O
 
@@ -114024,7 +114024,7 @@ WiMax O
 الثاني O
 المقبل O
 . O
-
+ARTICLE
 المدافع O
 الفرنسي O
 ويلي B-PERS
@@ -114038,7 +114038,7 @@ WiMax O
 إنتر B-ORG
 ميلان I-ORG
 ( O
-الفرنسية O
+الفرنسية O REVISIT
 ) O
 تتواصل O
 مساء O
@@ -114049,7 +114049,7 @@ WiMax O
 بمرحلة O
 المجموعات O
 في O
-دوري O
+دوري O REVISIT
 أبطال O
 أوروبا B-LOC
 لكرة O
@@ -114195,7 +114195,7 @@ WiMax O
 إيطاليا B-LOC
 ) O
 . O
-
+ARTICLE
 الدوحة B-LOC
 - O
 قنا B-ORG
@@ -114233,7 +114233,7 @@ WiMax O
 جلسة O
 مباحثات O
 رسمية O
-بالديوان O
+بالديوان O REVISIT
 الأميري O
 مساء O
 أمس O
@@ -114281,7 +114281,7 @@ WiMax O
 آل I-PERS
 ثاني I-PERS
 رئيس O
-الديوان O
+الديوان O REVISIT
 الاميري O
 والسفير O
 ابراهيم B-PERS
@@ -114292,7 +114292,7 @@ WiMax O
 ادارة O
 الشؤون O
 العربية O
-بوزارة O
+بوزارة O REVISIT
 الخارجية O
 . O
 
@@ -114317,10 +114317,10 @@ WiMax O
 الساحة O
 الفلسطينية O
 . O
-
+ARTICLE
 واشنطن B-ORG
 ( O
-اف O
+اف O REVISIT
 ب O
 ) O
 اتهم O
@@ -114355,7 +114355,7 @@ WiMax O
 التي O
 بذلت O
 منذ O
-أحداث O
+أحداث O REVISIT
 الحادي O
 عشر O
 من O
@@ -114394,7 +114394,7 @@ WiMax O
 تدهورت O
 خلال O
 رئاسة O
-الحزب O
+الحزب O REVISIT
 الديموقراطي O
 . O
 
@@ -114427,7 +114427,7 @@ WiMax O
 لادن I-PERS
 المسؤول O
 عن O
-اعتداءات O
+اعتداءات O REVISIT
 الحادي O
 عشر O
 من O
@@ -114588,7 +114588,7 @@ WiMax O
 نشرت O
 الثلاثاء O
 في O
-صحيفة O
+صحيفة O REVISIT
 " O
 نيويورك B-ORG
 بوست I-ORG
@@ -114620,7 +114620,7 @@ WiMax O
 في O
 يناير O
 2001 O
-واعتداءات O
+واعتداءات O REVISIT
 الحادي O
 عشر O
 من O
@@ -114647,7 +114647,7 @@ WiMax O
 قال O
 في O
 تصريح O
-لقناة O
+لقناة O REVISIT
 فوكس B-ORG
 الاحد O
 " O
@@ -114685,10 +114685,10 @@ WiMax O
 يفعلوا O
 " O
 . O
-
+ARTICLE
 عواصم O
 - O
-ا O
+ا O REVISIT
 ف O
 ب O
 : O
@@ -114717,7 +114717,7 @@ WiMax O
 دعوة O
 لحود B-PERS
 الى O
-القمة O
+القمة O REVISIT
 الفرنكوفونية O
 التي O
 تعقد O
@@ -114732,7 +114732,7 @@ WiMax O
 بيان O
 صادر O
 عن O
-رئاسة O
+رئاسة O REVISIT
 الجمهورية O
 ان O
 " O
@@ -114881,7 +114881,7 @@ WiMax O
 اميل B-PERS
 لحود I-PERS
 لحضور O
-مؤتمر O
+مؤتمر O REVISIT
 الفرنكوفونية O
 في O
 بوخارست B-LOC
@@ -114900,14 +114900,14 @@ WiMax O
 كما O
 اشارت O
 امس O
-قناة O
+قناة O REVISIT
 " O
 تي B-ORG
 في I-ORG
 5 I-ORG
 " O
 الفرنسية O
-لوكالة O
+لوكالة O REVISIT
 فرانس B-ORG
 برس I-ORG
 . O
@@ -114924,7 +114924,7 @@ WiMax O
 5 I-ORG
 " O
 الى O
-وكالة O
+وكالة O REVISIT
 فرانس B-ORG
 برس I-ORG
 " O
@@ -115113,7 +115113,7 @@ WiMax O
 واضاف O
 ان O
 " O
-الجمعية O
+الجمعية O REVISIT
 الدولية O
 للمدن O
 الفرنكوفونية O
@@ -115148,7 +115148,7 @@ WiMax O
 الحزينة O
 " O
 . O
-
+ARTICLE
 لشبونه B-LOC
 ـ O
 وكالات O
